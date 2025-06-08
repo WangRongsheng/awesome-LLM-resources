@@ -483,6 +483,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 49. [Andrej Karpathy: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 50. [LLM技术科普](https://github.com/karminski/one-small-step)
 51. [CS25: Transformers United V5](https://web.stanford.edu/class/cs25/)
+52. [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques): This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
