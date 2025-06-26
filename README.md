@@ -342,14 +342,20 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 ## 代码 Coding
 
 1. [Cloi CLI](https://github.com/cloi-ai/cloi): Local debugging agent that runs in your terminal.
-2. [v0](https://v0.dev/)
-3. [Blot.new](https://bolt.new/)
-4. [Cursor](https://www.cursor.com/)
-5. [Windsurf](https://codeium.com/windsurf)
-6. [cline](https://github.com/cline/cline)
-7. [Trae](https://www.trae.ai/)
-8. [MGX](https://mgx.dev/)
-9. [Devin](https://devin.ai/)
+2. [Devin](https://devin.ai/)
+3. [v0](https://v0.dev/)
+4. [Blot.new](https://bolt.new/)
+5. [cursor](https://www.cursor.com/)
+6. [Windsurf](https://codeium.com/windsurf)
+7. [cline](https://github.com/cline/cline)
+8. [Trae](https://www.trae.ai/)
+9. [MGX](https://mgx.dev/)
+10. [Roo Code](https://github.com/RooCodeInc/Roo-Code)
+11. [Kilo Code](https://github.com/Kilo-Org/kilocode)
+12. [AugmentCode](https://www.augmentcode.com/)
+13. [Claude Code](https://github.com/anthropics/claude-code)
+14. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
