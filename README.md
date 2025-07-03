@@ -356,6 +356,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 13. [Claude Code](https://github.com/anthropics/claude-code)
 14. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 15. [Serena](https://github.com/oraios/serena)
+16. [Claudia](https://github.com/getAsterisk/claudia)
 
 
 <div align="right">
