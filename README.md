@@ -87,6 +87,7 @@
 35. [Dolphin](https://github.com/bytedance/Dolphin): Document Image Parsing via Heterogeneous Anchor Prompting.
 36. [EasyDistill](https://github.com/modelscope/easydistill): Easy Knowledge Distillation for Large Language Models.
 37. [ContextGem](https://github.com/shcherbak-ai/contextgem): a free, open-source LLM framework that makes it radically easier to extract structured data and insights from documents.
+38. [OCRFlux](https://github.com/chatdoc-com/OCRFlux): a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content merging.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
