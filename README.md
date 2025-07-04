@@ -600,6 +600,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 49. [Qwen3 Technical Report](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf)
 50. [MiMo-VL Technical Report](https://arxiv.org/abs/2506.03569v1)
 51. [ERNIE Technical Report](https://github.com/WangRongsheng/awesome-LLM-resources/blob/main/docs/ERNIE_Technical_Report_compressed.pdf)
+52. [Kwai Keye-VL Technical Report](https://arxiv.org/abs/2507.01949)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
