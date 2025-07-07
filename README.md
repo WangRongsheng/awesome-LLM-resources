@@ -830,6 +830,7 @@ MCP工具聚合：
 10. https://github.com/huggingface/nanoVLM
 11. https://github.com/GeeeekExplorer/nano-vllm
 12. https://github.com/ritabratamaiti/AnyModal
+13. https://github.com/yujunhuics/Reyes
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
