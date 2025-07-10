@@ -291,6 +291,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 32. [MiniRAG](https://github.com/HKUDS/MiniRAG): an extremely simple retrieval-augmented generation framework that enables small models to achieve good RAG performance through heterogeneous graph indexing and lightweight topology-enhanced retrieval.
 33. [XRAG](https://github.com/DocAILab/XRAG): a benchmarking framework designed to evaluate the foundational components of advanced Retrieval-Augmented Generation (RAG) systems.
 34. [Rankify](https://github.com/DataScienceUIBK/rankify): A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation.
+35. [RAG-Anything](https://github.com/HKUDS/RAG-Anything): All-in-One RAG System.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
