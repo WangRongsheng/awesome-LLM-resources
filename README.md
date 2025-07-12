@@ -388,6 +388,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 12. [Wan2.1-Fun](https://huggingface.co/collections/alibaba-pai/wan21-fun-v11-680f514c89fe7b4df9d44f17)
 13. [Wan2.1-FLF2V](https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P) `首尾帧`
 14. [MAGI-1](https://github.com/SandAI-org/MAGI-1) `自回归模型`
+15. [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)
+16. [FramePack](https://github.com/lllyasviel/FramePack)
 
 #### 训练
 
@@ -399,6 +401,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - https://github.com/kohya-ss/musubi-tuner
 - https://github.com/spacepxl/HunyuanVideo-Training
 - https://github.com/Tele-AI/TeleTron
+- https://github.com/Yaofang-Liu/Mochi-Full-Finetuner
+- https://github.com/bghira/SimpleTuner
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
