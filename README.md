@@ -30,6 +30,7 @@
 - [代码 Coding](#代码-Coding)
 - [视频 Video](#视频-Video)
 - [搜索 Search](#搜索-Search)
+- [语音 Speech](#语音-Speech)
 - [书籍 Book](#书籍-Book)
 - [课程 Course](#课程-Course)
 - [教程 Tutorial](#教程-Tutorial)
@@ -415,6 +416,27 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. [nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI): The simplest open-source implementation of perplexity.ai.
 4. [curiosity](https://github.com/jank/curiosity): Try to build a Perplexity-like user experience.
 5. [MiniPerplx](https://github.com/zaidmukaddam/miniperplx): A minimalistic AI-powered search engine that helps you find information on the internet.
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 语音 Speech
+
+1. SpeechGPT-2.0-preview: https://github.com/OpenMOSS/SpeechGPT-2.0-preview
+2. Moss-TTSD：https://github.com/OpenMOSS/MOSS-TTSD
+3. Index-TTS：https://github.com/index-tts/index-tts
+4. MegaTTS3：https://github.com/bytedance/MegaTTS3
+5. F5-TTS：https://github.com/SWivid/F5-TTS
+6. GPT-SoVITS：https://github.com/RVC-Boss/GPT-SoVITS
+7. CosyVoice：https://github.com/FunAudioLLM/CosyVoice
+8. Spark-TTS：https://github.com/SparkAudio/Spark-TTS
+9. OpenVoice：https://github.com/myshell-ai/OpenVoice
+10. Dia：https://github.com/nari-labs/dia
+11. ChatTTS：https://github.com/2noise/ChatTTS
+12. Fish Speech：https://github.com/fishaudio/fish-speech
+13. Edge-TTS：https://github.com/rany2/edge-tts
+14. Bark：https://github.com/suno-ai/bark
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
