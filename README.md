@@ -423,6 +423,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 ## 语音 Speech
 
+#### TTS
+
 1. SpeechGPT-2.0-preview: https://github.com/OpenMOSS/SpeechGPT-2.0-preview
 2. Moss-TTSD：https://github.com/OpenMOSS/MOSS-TTSD
 3. Index-TTS：https://github.com/index-tts/index-tts
@@ -437,6 +439,11 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 12. Fish Speech：https://github.com/fishaudio/fish-speech
 13. Edge-TTS：https://github.com/rany2/edge-tts
 14. Bark：https://github.com/suno-ai/bark
+
+#### STT
+
+1. Kyutai: https://github.com/kyutai-labs/delayed-streams-modeling
+2. Whisper: https://github.com/openai/whisper
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
