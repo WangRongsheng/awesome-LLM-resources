@@ -222,6 +222,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 15. [Evalchemy](https://github.com/mlfoundations/evalchemy): A unified and easy-to-use toolkit for evaluating post-trained language models.
 16. [MathArena](https://github.com/eth-sri/matharena): Evaluation of LLMs on latest math competitions.
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
+18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 
 `LLM API 服务平台`：
 1. [Groq](https://groq.com/)
