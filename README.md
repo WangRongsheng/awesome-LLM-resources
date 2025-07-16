@@ -394,6 +394,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 14. [MAGI-1](https://github.com/SandAI-org/MAGI-1) `自回归模型`
 15. [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)
 16. [FramePack](https://github.com/lllyasviel/FramePack)
+17. [Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen)
 
 #### 训练
 
