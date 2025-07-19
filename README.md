@@ -443,6 +443,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 12. Fish Speech：https://github.com/fishaudio/fish-speech
 13. Edge-TTS：https://github.com/rany2/edge-tts
 14. Bark：https://github.com/suno-ai/bark
+15. kokoro: https://github.com/hexgrad/kokoro
 
 #### STT
 
