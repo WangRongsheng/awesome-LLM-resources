@@ -537,6 +537,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 51. [CS25: Transformers United V5](https://web.stanford.edu/class/cs25/)
 52. [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques): This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
 53. [100+ LLM & RL Algorithm Maps | 原创 LLM / RL 100+原理图](https://github.com/changyeyu/LLM-RL-Visualized)
+54. [Reinforcement Learning of Large Language Models](https://ernestryu.com/courses/RL-LLM.html)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
