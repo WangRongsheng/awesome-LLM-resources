@@ -140,6 +140,7 @@
 42. [MLX-VLM](https://github.com/Blaizzy/mlx-vlm): MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 43. [RL-Factory](https://github.com/Simple-Efficient/RL-Factory): Train your Agent model via our easy and efficient framework.
 44. [RM-Gallery](https://github.com/modelscope/RM-Gallery): A One-Stop Reward Model Platform.
+45. [ART](https://github.com/OpenPipe/ART): rain multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
