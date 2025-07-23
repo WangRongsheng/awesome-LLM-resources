@@ -83,13 +83,14 @@
 30. [LangKit](https://github.com/whylabs/langkit): An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security.
 31. [Curator](https://github.com/bespokelabsai/curator): Synthetic Data curation for post-training and structured data extraction.
 32. [olmOCR](https://github.com/allenai/olmocr): A toolkit for training language models to work with PDF documents in the wild.
-33. [Easy Dataset](https://github.com/ConardLi/easy-dataset): A powerful tool for creating fine-tuning datasets for LLM.
+33. [Easy Dataset (`🔥`)](https://github.com/ConardLi/easy-dataset): A powerful tool for creating fine-tuning datasets for LLM.
 34. [BabelDOC](https://github.com/funstory-ai/BabelDOC): PDF scientific paper translation and bilingual comparison library.
 35. [Dolphin](https://github.com/bytedance/Dolphin): Document Image Parsing via Heterogeneous Anchor Prompting.
 36. [EasyDistill](https://github.com/modelscope/easydistill): Easy Knowledge Distillation for Large Language Models.
 37. [ContextGem](https://github.com/shcherbak-ai/contextgem): a free, open-source LLM framework that makes it radically easier to extract structured data and insights from documents.
 38. [OCRFlux](https://github.com/chatdoc-com/OCRFlux): a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content merging.
 39. [DataFlow](https://github.com/OpenDCAI/DataFlow): Easy Data Preparation with latest LLMs-based Operators and Pipelines.
+40. [DatasetLoom (`multimodal`)](https://github.com/599yongyang/DatasetLoom): 一个面向多模态大模型训练的智能数据集构建与评估平台.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
