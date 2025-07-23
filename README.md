@@ -455,6 +455,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. Whisper: https://github.com/openai/whisper
 3. Audio Flamingo 3: https://huggingface.co/nvidia/audio-flamingo-3
 4. Voxtral: https://huggingface.co/mistralai/Voxtral-Mini-3B-2507
+5. Step-Audio2: https://github.com/stepfun-ai/Step-Audio2
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
