@@ -343,6 +343,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 37. [OWL](https://github.com/camel-ai/owl): Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation.
 38. [OpenManus](https://github.com/FoundationAgents/OpenManus): No fortress, purely open ground. OpenManus is Coming.
 39. [JoyAgent-JDGenie](https://github.com/jd-opensource/joyagent-jdgenie): 业界首个开源高完成度轻量化通用多智能体产品.
+40. [coze-studio](https://github.com/coze-dev/coze-studio): An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
