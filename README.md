@@ -483,6 +483,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [Taming LLMs: A Practical Guide to LLM Pitfalls with Open Source Software ](https://www.tamingllms.com/)
 18. [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 19. [Textbook on reinforcement learning from human feedback](https://github.com/natolambert/rlhf-book)
+20. [《大模型算法：强化学习、微调与对齐》](https://book.douban.com/subject/37331056/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
