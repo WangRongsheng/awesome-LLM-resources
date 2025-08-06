@@ -400,6 +400,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 15. [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)
 16. [FramePack](https://github.com/lllyasviel/FramePack)
 17. [Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen)
+18. [Wan2.2](https://github.com/Wan-Video/Wan2.2)
 
 #### 训练
 
