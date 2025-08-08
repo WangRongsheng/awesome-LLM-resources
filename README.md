@@ -454,6 +454,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 14. Bark：https://github.com/suno-ai/bark
 15. kokoro: https://github.com/hexgrad/kokoro
 16. Higgs Audio V2: https://github.com/boson-ai/higgs-audio 【[Training](https://github.com/JimmyMa99/train-higgs-audio)】
+17. KittenTTS: https://github.com/KittenML/KittenTTS
 
 #### STT
 
