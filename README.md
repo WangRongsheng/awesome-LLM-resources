@@ -36,11 +36,11 @@
 - [教程 Tutorial](#教程-Tutorial)
 - [论文 Paper](#论文-Paper)
 - [社区 Community](#社区-Community)
-- [MCP](#MCP)
-- [Open o1](#Open-o1)
-- [Small Language Model](#Small-Language-Model)
-- [Small Vision Language Model](#Small-Vision-Language-Model)
-- [Tips](#tips)
+- [模型上下文协议 MCP](#模型上下文协议-MCP)
+- [推理 Open o1](#推理-Open-o1)
+- [小语言模型 Small Language Model](#小语言模型-Small-Language-Model)
+- [小多模态模型 Small Vision Language Model](#小多模态模型-Small-Vision-Language-Model)
+- [技巧 Tips](#技巧-tips)
 
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
@@ -679,7 +679,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
-## MCP
+## 模型上下文协议 MCP
 
 1. [MCP是啥？技术原理是什么？一个视频搞懂MCP的一切。Windows系统配置MCP，Cursor,Cline 使用MCP](https://www.youtube.com/watch?v=McNRkd5CxFY)
 2. [MCP是什么？为啥是下一代AI标准？MCP原理+开发实战！在Cursor、Claude、Cline中使用MCP，让AI真正自动化！](https://www.youtube.com/watch?v=jGVsLeDxtQY)
@@ -706,7 +706,7 @@ MCP工具聚合：
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
-## Open o1
+## 推理 Open o1
 
 > [!NOTE]
 > 
@@ -850,7 +850,7 @@ MCP工具聚合：
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
-## Small Language Model
+## 小语言模型 Small Language Model
 
 1. https://github.com/jiahe7ay/MINI_LLM
 2. https://github.com/jingyaogong/minimind
@@ -876,7 +876,7 @@ MCP工具聚合：
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
-## Small Vision Language Model
+## 小多模态模型 Small Vision Language Model
 
 1. https://github.com/jingyaogong/minimind-v
 2. https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/train_llava
@@ -896,7 +896,7 @@ MCP工具聚合：
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
-## Tips
+## 技巧 Tips
 
 1. [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 2. [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)
