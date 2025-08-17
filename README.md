@@ -56,7 +56,7 @@
 2. [LabelLLM](https://github.com/opendatalab/LabelLLM): The Open-Source Data Annotation Platform.
 3. [data-juicer](https://github.com/modelscope/data-juicer): A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs!
 4. [OmniParser](https://github.com/jf-tech/omniparser): a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
-5. [MinerU](https://github.com/opendatalab/MinerU): MinerU is a one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.
+5. [MinerU (`🔥`)](https://github.com/opendatalab/MinerU): MinerU is a one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.
 6. [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit): A Comprehensive Toolkit for High-Quality PDF Content Extraction.
 7. [Parsera](https://github.com/raznem/parsera): Lightweight library for scraping web-sites with LLMs.
 8. [Sparrow](https://github.com/katanaml/sparrow): Sparrow is an innovative open-source solution for efficient data extraction and processing from various documents and images.
@@ -99,7 +99,7 @@
 
 ## 微调 Fine-Tuning
 
-1. [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs.
+1. [LLaMA-Factory (`🔥`)](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs.
 2. [360-LLaMA-Factory](https://github.com/Qihoo360/360-LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs. (add Sequence Parallelism for supporting long context training)
 4. [unsloth](https://github.com/unslothai/unsloth): 2-5X faster 80% less memory LLM finetuning.
 5. [TRL](https://huggingface.co/docs/trl/index): Transformer Reinforcement Learning.
@@ -143,6 +143,7 @@
 43. [RL-Factory](https://github.com/Simple-Efficient/RL-Factory): Train your Agent model via our easy and efficient framework.
 44. [RM-Gallery](https://github.com/modelscope/RM-Gallery): A One-Stop Reward Model Platform.
 45. [ART](https://github.com/OpenPipe/ART): rain multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training.
+46. [VeRL (`🔥`)](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLMs.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -158,7 +159,7 @@
 6. [LlamaIndex](https://github.com/run-llama/llama_index): A data framework for your LLM applications.
 7. [lobe-chat](https://github.com/lobehub/lobe-chat): an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers, Multi-Modals (Vision/TTS) and plugin system.
 8. [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM): TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs.
-9. [vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs.
+9. [vllm (`🔥`)](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs.
 10. [LlamaChat](https://github.com/alexrozanski/LlamaChat): Chat with your favourite LLaMA models in a native macOS app.
 11. [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/): ChatRTX is a demo app that lets you personalize a GPT large language model (LLM) connected to your own content—docs, notes, or other data.
 12. [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs.
@@ -178,7 +179,7 @@
 26. [MInference](https://github.com/microsoft/MInference): About
 To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.
 27. [Mem0](https://github.com/mem0ai/mem0): The memory layer for Personalized AI.
-28. [SGLang](https://github.com/sgl-project/sglang): SGLang is yet another fast serving framework for large language models and vision language models.
+28. [SGLang (`🔥`)](https://github.com/sgl-project/sglang): SGLang is yet another fast serving framework for large language models and vision language models.
 29. [AirLLM](https://github.com/lyogavin/airllm): AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run 405B Llama3.1 on 8GB vram now.
 30. [LLMHub](https://github.com/jmather/llmhub): LLMHub is a lightweight management platform designed to streamline the operation and interaction with various language models (LLMs).
 31. [YuanChat](https://github.com/IEIT-Yuan/YuanChat)
@@ -211,7 +212,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 1. [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
 2. [opencompass](https://github.com/open-compass/opencompass): OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 3. [llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed.
-4. [EvalScope](https://github.com/modelscope/evalscope)
+4. [EvalScope (`🔥`)](https://github.com/modelscope/evalscope)
 5. [Weave](https://weave-docs.wandb.ai/guides/core-types/evaluations): A lightweight toolkit for tracking and evaluating LLM applications.
 6. [MixEval](https://github.com/Psycoy/MixEval/): Deriving Wisdom of the Crowd from LLM Benchmark Mixtures.
 7. [Evaluation guidebook](https://github.com/huggingface/evaluation-guidebook): If you've ever wondered how to make sure an LLM performs well on your specific task, this guide is for you!
@@ -239,6 +240,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 9. [DeepSeek-v3](https://www.deepseek.com/)
 10. [WaveSpeed](https://wavespeed.ai/) `视频生成`
 11. [OpenRouter](https://openrouter.ai/)
+12. [数标标 (`🔥`)](https://api.ai-gaochao.cn/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
