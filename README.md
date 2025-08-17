@@ -31,6 +31,7 @@
 - [视频 Video](#视频-Video)
 - [搜索 Search](#搜索-Search)
 - [语音 Speech](#语音-Speech)
+- [统一模型 Unified Model](#统一模型-Unified-Model)
 - [书籍 Book](#书籍-Book)
 - [课程 Course](#课程-Course)
 - [教程 Tutorial](#教程-Tutorial)
@@ -463,6 +464,56 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. Audio Flamingo 3: https://huggingface.co/nvidia/audio-flamingo-3
 4. Voxtral: https://huggingface.co/mistralai/Voxtral-Mini-3B-2507
 5. Step-Audio2: https://github.com/stepfun-ai/Step-Audio2
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 统一模型 Unified Model
+
+> 现在统一模型已经从`理解+生成`变成`理解+生成+编辑`
+
+- Emu-2：https://arxiv.org/abs/2312.13286
+- Emu-3：https://arxiv.org/abs/2409.18869
+- Emu-1：https://arxiv.org/abs/2307.05222
+- Janus：https://github.com/deepseek-ai/Janus
+- Janus-Pro：http://arxiv.org/abs/2508.05954
+- show-o：https://arxiv.org/abs/2408.12528
+- Any-GPT：https://arxiv.org/abs/2402.12226
+- Next-GPT：https://arxiv.org/pdf/2309.05519.pdf
+- CoDi：https://arxiv.org/abs/2305.11846
+- Seed-X：https://arxiv.org/abs/2404.14396
+- Dream-LLM：https://arxiv.org/abs/2309.11499
+- Chameleon：https://arxiv.org/abs/2405.09818
+- Spider：https://arxiv.org/abs/2411.09439
+- MedViLaM：https://arxiv.org/abs/2409.19684
+- VITRON：https://github.com/SkyworkAI/Vitron
+- TokenFlow：https://github.com/ByteFlow-AI/TokenFlow
+- OneDiffusion：https://github.com/lehduong/OneDiffusion
+- MetaMorph: https://arxiv.org/abs/2412.14164
+- LlamaFusion：https://arxiv.org/abs/2412.15188
+- InstructSeg：https://arxiv.org/abs/2412.14006
+- VILA-U：https://arxiv.org/abs/2409.04429
+- Ullava: https://github.com/OPPOMKLab/u-LLaVA
+- ILLUME: https://arxiv.org/abs/2412.06673
+- Vitron:https://arxiv.org/abs/2412.19806
+- SynerGen-VL：https://arxiv.org/abs/2412.09604
+- Align Anything：https://arxiv.org/abs/2412.15838
+- Mico：https://arxiv.org/abs/2406.09412
+- OneLLM:https://arxiv.org/abs/2312.03700
+- X-VILA:https://arxiv.org/abs/2405.19335
+- OLA：https://arxiv.org/abs/2502.04328
+- Transfusion: https://arxiv.org/abs/2408.11039
+- JanusFlow: https://arxiv.org/abs/2411.07975
+- HealthGPT：https://arxiv.org/abs/2502.09838 `Medical`
+- BAGEL：https://arxiv.org/abs/2505.14683
+- Qwen2.5-Omni：https://arxiv.org/abs/2503.20215
+- X2I：https://arxiv.org/abs/2503.06134
+- Bifrost-1：https://arxiv.org/abs/2508.05954
+- OmniGen2：https://arxiv.org/abs/2506.18871
+- UniPic：https://github.com/SkyworkAI/UniPic
+- VeOmni：https://github.com/ByteDance-Seed/VeOmni `Training`
+- NextStep-1：https://arxiv.org/abs/2508.10711
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
