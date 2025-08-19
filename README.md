@@ -458,6 +458,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 15. kokoro: https://github.com/hexgrad/kokoro
 16. Higgs Audio V2: https://github.com/boson-ai/higgs-audio 【[Training](https://github.com/JimmyMa99/train-higgs-audio)】
 17. KittenTTS: https://github.com/KittenML/KittenTTS
+18. ZipVoice: https://github.com/k2-fsa/ZipVoice
 
 #### STT
 
