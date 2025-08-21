@@ -518,6 +518,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - UniPic：https://github.com/SkyworkAI/UniPic
 - VeOmni：https://github.com/ByteDance-Seed/VeOmni `Training`
 - NextStep-1：https://arxiv.org/abs/2508.10711
+- UniUGG: https://arxiv.org/abs/2508.11952 `3D`
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
