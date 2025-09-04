@@ -520,6 +520,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - VeOmni：https://github.com/ByteDance-Seed/VeOmni `Training`
 - NextStep-1：https://arxiv.org/abs/2508.10711
 - UniUGG: https://arxiv.org/abs/2508.11952 `3D`
+- Omni-Video：https://arxiv.org/abs/2507.06119
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -928,6 +929,7 @@ MCP工具聚合：
 17. https://github.com/RUC-GSAI/YuLan-Mini
 18. https://github.com/Om-Alve/smolGPT
 19. https://github.com/skyzh/tiny-llm
+20. https://github.com/qibin0506/Cortex
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
