@@ -29,6 +29,7 @@
 - [智能体 Agents](#智能体-Agents)
 - [代码 Coding](#代码-Coding)
 - [视频 Video](#视频-Video)
+- [图片 Image](#图片-Image)
 - [搜索 Search](#搜索-Search)
 - [语音 Speech](#语音-Speech)
 - [统一模型 Unified Model](#统一模型-Unified-Model)
@@ -420,6 +421,14 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - https://github.com/Tele-AI/TeleTron
 - https://github.com/Yaofang-Liu/Mochi-Full-Finetuner
 - https://github.com/bghira/SimpleTuner
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 图片 Image
+
+- [awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
