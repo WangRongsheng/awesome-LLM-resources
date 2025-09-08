@@ -470,6 +470,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 18. ZipVoice: https://github.com/k2-fsa/ZipVoice
 19. VyvoTTS: https://github.com/Vyvo-Labs/VyvoTTS
 20. VibeVoice: https://github.com/microsoft/VibeVoice
+21. Index-TTS-2: https://huggingface.co/IndexTeam/IndexTTS-2
 
 #### STT
 
