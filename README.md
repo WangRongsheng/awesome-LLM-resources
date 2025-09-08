@@ -530,6 +530,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - NextStep-1：https://arxiv.org/abs/2508.10711
 - UniUGG: https://arxiv.org/abs/2508.11952 `3D`
 - Omni-Video：https://arxiv.org/abs/2507.06119
+- OneCAT：https://arxiv.org/abs/2509.03498
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
