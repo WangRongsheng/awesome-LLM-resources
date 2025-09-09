@@ -429,8 +429,15 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 ## 图片 Image
 
+#### 模型
+
 - [awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)
 - [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
+
+#### 训练
+
+- Ostris：https://github.com/ostris/ai-toolkit
+- FlymyAI：https://github.com/FlyMyAI/flymyai-lora-trainer
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
