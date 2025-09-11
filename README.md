@@ -541,6 +541,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - UniUGG: https://arxiv.org/abs/2508.11952 `3D`
 - Omni-Video：https://arxiv.org/abs/2507.06119
 - OneCAT：https://arxiv.org/abs/2509.03498
+- Lumina-DiMOO：https://github.com/Alpha-VLLM/Lumina-DiMOO
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
