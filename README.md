@@ -202,6 +202,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 47. [Chitu](https://github.com/thu-pacman/chitu): High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 48. [TokenSwift](https://github.com/bigai-nlco/TokenSwift): From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation.
 49. [Cherry Studio](https://github.com/CherryHQ/cherry-studio): a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
+50. [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy): Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.
 
 
 <div align="right">
