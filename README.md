@@ -544,6 +544,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - OneCAT：https://arxiv.org/abs/2509.03498
 - Lumina-DiMOO：https://github.com/Alpha-VLLM/Lumina-DiMOO
 - UAE：https://github.com/PKU-YuanGroup/UAE
+- RecA：https://arxiv.org/abs/2509.07295
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
