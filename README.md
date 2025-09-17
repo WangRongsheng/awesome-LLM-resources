@@ -956,6 +956,7 @@ MCP工具聚合：
 18. https://github.com/Om-Alve/smolGPT
 19. https://github.com/skyzh/tiny-llm
 20. https://github.com/qibin0506/Cortex
+21. https://github.com/huggingface/picotron
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
