@@ -40,6 +40,7 @@
 - [社区 Community](#社区-Community)
 - [模型上下文协议 MCP](#模型上下文协议-MCP)
 - [推理 Open o1](#推理-Open-o1)
+- [推理 Open o3](#推理-Open-o3)
 - [小语言模型 Small Language Model](#小语言模型-Small-Language-Model)
 - [小多模态模型 Small Vision Language Model](#小多模态模型-Small-Vision-Language-Model)
 - [技巧 Tips](#技巧-tips)
@@ -929,6 +930,15 @@ MCP工具聚合：
 131. https://huggingface.co/a-m-team/AM-Thinking-v1
 132. https://huggingface.co/Intelligent-Internet/II-Medical-8B
 133. https://github.com/CSfufu/Revisual-R1
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 推理 Open o3
+
+1. Mini-o3: https://arxiv.org/abs/2509.07969
+2. Simple-o3: https://arxiv.org/abs/2508.12109
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
