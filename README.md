@@ -483,6 +483,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 20. VibeVoice: https://github.com/microsoft/VibeVoice
 21. Index-TTS-2: https://huggingface.co/IndexTeam/IndexTTS-2
 22. FireRedTTS2: https://github.com/FireRedTeam/FireRedTTS2
+23. VoxCPM: https://github.com/OpenBMB/VoxCPM/
 
 #### STT
 
