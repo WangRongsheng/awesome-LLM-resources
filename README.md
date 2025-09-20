@@ -940,6 +940,7 @@ MCP工具聚合：
 
 1. Mini-o3: https://arxiv.org/abs/2509.07969
 2. Simple-o3: https://arxiv.org/abs/2508.12109
+3. Thyme: https://arxiv.org/abs/2508.11630
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
