@@ -548,6 +548,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Lumina-DiMOO：https://github.com/Alpha-VLLM/Lumina-DiMOO
 - UAE：https://github.com/PKU-YuanGroup/UAE
 - RecA：https://arxiv.org/abs/2509.07295
+- UniLM：https://arxiv.org/abs/1905.03197
+- Hyper-Bagel：https://arxiv.org/abs/2509.18824
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
