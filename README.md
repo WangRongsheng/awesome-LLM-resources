@@ -435,6 +435,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 - [awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)
 - [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
+- HunyuanImage-3.0：https://github.com/Tencent-Hunyuan/HunyuanImage-3.0
+- Seedream 4.0：https://arxiv.org/abs/2509.20427
 
 #### 训练
 
