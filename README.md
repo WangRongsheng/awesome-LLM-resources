@@ -353,6 +353,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 39. [JoyAgent-JDGenie](https://github.com/jd-opensource/joyagent-jdgenie): 业界首个开源高完成度轻量化通用多智能体产品.
 40. [coze-studio](https://github.com/coze-dev/coze-studio): An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before.
 41. [OxyGent](https://github.com/jd-opensource/OxyGent): An advanced Python framework that empowers developers to quickly build production-ready intelligent systems.
+42. [LazyCraft](https://github.com/LazyAGI/LazyCraft): LazyCraft 是一个基于 LazyLLM 构建的 AI Agent 应用开发与管理平台，旨在协助开发者以 低门槛、低成本 快速构建和发布大模型应用。
 
 
 <div align="right">
@@ -443,6 +444,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 - Ostris：https://github.com/ostris/ai-toolkit
 - FlymyAI：https://github.com/FlyMyAI/flymyai-lora-trainer
+- Nitro-T：https://github.com/AMD-AGI/Nitro-T
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
