@@ -445,6 +445,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Ostris：https://github.com/ostris/ai-toolkit
 - FlymyAI：https://github.com/FlyMyAI/flymyai-lora-trainer
 - Nitro-T：https://github.com/AMD-AGI/Nitro-T
+- DiffSynth-Studio：https://github.com/modelscope/DiffSynth-Studio
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
