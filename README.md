@@ -354,6 +354,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 40. [coze-studio](https://github.com/coze-dev/coze-studio): An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before.
 41. [OxyGent](https://github.com/jd-opensource/OxyGent): An advanced Python framework that empowers developers to quickly build production-ready intelligent systems.
 42. [LazyCraft](https://github.com/LazyAGI/LazyCraft): LazyCraft 是一个基于 LazyLLM 构建的 AI Agent 应用开发与管理平台，旨在协助开发者以 低门槛、低成本 快速构建和发布大模型应用。
+43. [OpenAgents](https://github.com/openagents-org/openagents): AI Agent Networks for Open Collaboration.
+44. [SandBox](https://github.com/agent-infra/sandbox): All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 
 
 <div align="right">
