@@ -449,6 +449,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Nitro-T：https://github.com/AMD-AGI/Nitro-T
 - DiffSynth-Studio：https://github.com/modelscope/DiffSynth-Studio
 
+#### 评估
+
+- ULMEvalKit：https://github.com/ULMEvalKit/ULMEvalKit
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
