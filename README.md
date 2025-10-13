@@ -562,6 +562,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - RecA：https://arxiv.org/abs/2509.07295
 - UniLM：https://arxiv.org/abs/1905.03197
 - Hyper-Bagel：https://arxiv.org/abs/2509.18824
+- Ming-UniVision：https://arxiv.org/abs/2510.06590
+- EditVerse：https://arxiv.org/abs/2509.20360
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
