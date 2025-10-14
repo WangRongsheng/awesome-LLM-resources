@@ -356,6 +356,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 42. [LazyCraft](https://github.com/LazyAGI/LazyCraft): LazyCraft 是一个基于 LazyLLM 构建的 AI Agent 应用开发与管理平台，旨在协助开发者以 低门槛、低成本 快速构建和发布大模型应用。
 43. [OpenAgents](https://github.com/openagents-org/openagents): AI Agent Networks for Open Collaboration.
 44. [SandBox](https://github.com/agent-infra/sandbox): All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
+45. [GenoTEX](https://github.com/Liu-Hy/GenoTEX): An LLM agent benchmark for automated gene expression data analysis with programming workflows and expert-curated evaluation.
+46. [GenoMAS](https://github.com/Liu-Hy/GenoMAS): Multi-agent framework for scientific discovery in genomics, coordinating specialized agents through typed message-passing protocols for code-driven analysis.
+47. [aiXiv](https://github.com/aixiv-org/aiXiv): Multi-agent platform enabling AI scientists to autonomously generate research proposals, conduct experiments, author papers, and perform peer reviews.
+48. [Awesome-AgenticLLM-RL-Papers](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers): Survey and curated collection on agentic reinforcement learning for LLMs, covering environments, training paradigms, and benchmarks.
+49. [DMAS](https://arxiv.org/abs/2504.07461): Study identifying trustworthiness challenges in distributed multi-agent systems, including free riding, malicious attacks, and defense strategies.
+50. [CoMAS](https://arxiv.org/abs/2510.08529): Framework for co-evolving multi-agent systems where agents improve autonomously through interaction-based rewards without external supervision.
 
 
 <div align="right">
