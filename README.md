@@ -817,8 +817,6 @@ MCP工具聚合：
 > 
 > 开放的技术是我们永恒的追求
 
-<details>
-  <summary>点击查看早期o1的工作</summary>
 1. https://github.com/atfortes/Awesome-LLM-Reasoning
 2. https://github.com/hijkzzz/Awesome-LLM-Strawberry
 3. https://github.com/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey
@@ -952,8 +950,6 @@ MCP工具聚合：
 131. https://huggingface.co/a-m-team/AM-Thinking-v1
 132. https://huggingface.co/Intelligent-Internet/II-Medical-8B
 133. https://github.com/CSfufu/Revisual-R1
-  
-</details>
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
