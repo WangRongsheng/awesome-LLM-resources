@@ -205,6 +205,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 48. [TokenSwift](https://github.com/bigai-nlco/TokenSwift): From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation.
 49. [Cherry Studio](https://github.com/CherryHQ/cherry-studio): a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
 50. [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy): Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.
+51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
 
 
 <div align="right">
