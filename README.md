@@ -95,6 +95,8 @@
 39. [DataFlow](https://github.com/OpenDCAI/DataFlow): Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 40. [DatasetLoom (`multimodal`)](https://github.com/599yongyang/DatasetLoom): 一个面向多模态大模型训练的智能数据集构建与评估平台.
 41. [Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
+42. [DeepSeek-OCR](https://huggingface.co/deepseek-ai/DeepSeek-OCR)
+43. [PaddleOCR-VL](https://huggingface.co/PaddlePaddle/PaddleOCR-VL)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
