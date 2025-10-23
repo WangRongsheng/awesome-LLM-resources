@@ -991,6 +991,8 @@ MCP工具聚合：
 19. https://github.com/skyzh/tiny-llm
 20. https://github.com/qibin0506/Cortex
 21. https://github.com/huggingface/picotron
+22. https://github.com/Alic-Li/Mini_RWKV_7
+
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
