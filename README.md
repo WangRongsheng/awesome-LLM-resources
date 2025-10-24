@@ -418,6 +418,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 16. [FramePack](https://github.com/lllyasviel/FramePack)
 17. [Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen)
 18. [Wan2.2](https://github.com/Wan-Video/Wan2.2)
+19. [MoGA](https://arxiv.org/pdf/2510.18692) `长视频`
 
 #### 训练
 
