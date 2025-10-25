@@ -149,6 +149,7 @@
 44. [RM-Gallery](https://github.com/modelscope/RM-Gallery): A One-Stop Reward Model Platform.
 45. [ART](https://github.com/OpenPipe/ART): rain multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training.
 46. [VeRL (`🔥`)](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLMs.
+47. [LMMs-Engine](https://github.com/EvolvingLMMs-Lab/lmms-engine): A simple, any-to-any modality framework for pretraining and finetuning. Lean, flexible, and built for research.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -419,6 +420,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen)
 18. [Wan2.2](https://github.com/Wan-Video/Wan2.2)
 19. [MoGA](https://arxiv.org/pdf/2510.18692) `长视频`
+20. [LongCat-Video](https://huggingface.co/meituan-longcat/LongCat-Video)
 
 #### 训练
 
