@@ -251,15 +251,6 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 ## 体验 Usage
 
 1. [LMSYS Chatbot Arena: Benchmarking LLMs in the Wild](https://arena.lmsys.org/)
-2. [CompassArena 司南大模型竞技场](https://modelscope.cn/studios/opencompass/CompassArena/summary)
-3. [琅琊榜](https://langyb.com/)
-4. [Huggingface Spaces](https://huggingface.co/spaces)
-5. [WiseModel Spaces](https://wisemodel.cn/spaces)
-6. [Poe](https://poe.com/)
-7. [林哥的大模型野榜](https://lyihub.com/)
-8. [OpenRouter](https://openrouter.ai/)
-9. [AnyChat](https://huggingface.co/spaces/akhaliq/anychat)
-10. [智谱Z.AI](https://chat.z.ai/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -415,6 +406,11 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 18. [Wan2.2](https://github.com/Wan-Video/Wan2.2)
 19. [MoGA](https://arxiv.org/pdf/2510.18692) `长视频`
 20. [LongCat-Video](https://huggingface.co/meituan-longcat/LongCat-Video)
+
+#### 编辑
+
+1. Wan2.1-VACE-14B: https://huggingface.co/Wan-AI/Wan2.1-VACE-14B
+2. Ditto: https://github.com/EzioBy/Ditto
 
 #### 训练
 
