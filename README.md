@@ -2,9 +2,6 @@
 
 <p align="center">全世界最好的大语言模型资源汇总 持续更新</p>
 
-
-<details>
-<summary>Check More Information</summary>
 <p align="center">
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg ></a>
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/forks/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
@@ -12,11 +9,7 @@
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/watchers/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
 </p>
 
-</details>
-
-<p align="center">
-  <a href="https://wangrongsheng.github.io/awesome-LLM-resources/">[在线阅读]</a>
-</p>
+---
 
 #### Contents
 
