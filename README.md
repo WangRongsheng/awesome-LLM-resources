@@ -1,4 +1,4 @@
-![](./assets/logo2.png)
+![](./assets/logo6.png)
 
 <p align="center">全世界最好的大语言模型资源汇总 持续更新</p>
 
