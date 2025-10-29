@@ -360,7 +360,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 42. [LazyCraft](https://github.com/LazyAGI/LazyCraft): LazyCraft 是一个基于 LazyLLM 构建的 AI Agent 应用开发与管理平台，旨在协助开发者以 低门槛、低成本 快速构建和发布大模型应用。
 43. [OpenAgents](https://github.com/openagents-org/openagents): AI Agent Networks for Open Collaboration.
 44. [SandBox](https://github.com/agent-infra/sandbox): All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
-
+45. [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): First agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (produce analyst-grade research reports).
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
