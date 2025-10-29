@@ -571,6 +571,9 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Hyper-Bagel：https://arxiv.org/abs/2509.18824
 - Ming-UniVision：https://arxiv.org/abs/2510.06590
 - EditVerse：https://arxiv.org/abs/2509.20360
+- LightBagel: https://arxiv.org/abs/2510.22946
+- DreamLLM: https://arxiv.org/abs/2309.11499
+- X-Omni: https://arxiv.org/abs/2507.22058
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
