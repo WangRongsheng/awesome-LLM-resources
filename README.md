@@ -772,6 +772,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 54. [KAT-V1: Kwai-AutoThink Technical Report](https://arxiv.org/abs/2507.08297v3)
 55. [Step3](https://github.com/stepfun-ai/Step3)
 56. [SAIL-VL2 Technical Report](https://arxiv.org/abs/2509.14033)
+57. [LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training](https://arxiv.org/abs/2509.23661) `[85M-Midtraining Data](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M)` `[22M Instruct Data](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Instruct-Data)`
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
