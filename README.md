@@ -440,6 +440,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - HunyuanImage-3.0：https://github.com/Tencent-Hunyuan/HunyuanImage-3.0
 - Seedream 4.0：https://arxiv.org/abs/2509.20427
 
+#### 编辑
+
+- ChronoEdit-14B: https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers
+
 #### 训练
 
 - Ostris：https://github.com/ostris/ai-toolkit
@@ -595,6 +599,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 18. [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 19. [Textbook on reinforcement learning from human feedback](https://github.com/natolambert/rlhf-book)
 20. [《大模型算法：强化学习、微调与对齐》](https://book.douban.com/subject/37331056/)
+21. [《The Smol Training Playbook: The Secrets to Building World-Class LLMs》](https://github.com/WangRongsheng/awesome-LLM-resources/blob/main/books/the-smol-training-playbook-the-secrets-to-building-world-class-llms.pdf)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
