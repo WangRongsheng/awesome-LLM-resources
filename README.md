@@ -462,6 +462,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. [nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI): The simplest open-source implementation of perplexity.ai.
 4. [curiosity](https://github.com/jank/curiosity): Try to build a Perplexity-like user experience.
 5. [MiniPerplx](https://github.com/zaidmukaddam/miniperplx): A minimalistic AI-powered search engine that helps you find information on the internet.
+6. [Coco AI](https://github.com/infinilabs/coco-app): 一款完全开源、跨平台的企业级智能搜索与助手系统，专为现代企业打造。它通过统一搜索入口，连接企业内外部的异构数据源，融合大模型能力，帮助团队高效访问知识，智能决策协作。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
