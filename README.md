@@ -204,6 +204,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 49. [Cherry Studio](https://github.com/CherryHQ/cherry-studio): a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
 50. [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy): Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.
 51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
+52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
 
 
 <div align="right">
