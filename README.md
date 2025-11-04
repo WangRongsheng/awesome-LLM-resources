@@ -92,6 +92,7 @@
 41. [Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
 42. [DeepSeek-OCR](https://huggingface.co/deepseek-ai/DeepSeek-OCR)
 43. [PaddleOCR-VL](https://huggingface.co/PaddlePaddle/PaddleOCR-VL)
+44. [Chandra](https://github.com/datalab-to/chandra): a highly accurate OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
