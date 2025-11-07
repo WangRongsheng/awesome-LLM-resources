@@ -453,6 +453,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Nitro-T：https://github.com/AMD-AGI/Nitro-T
 - DiffSynth-Studio：https://github.com/modelscope/DiffSynth-Studio
 - Musubi Tuner: https://github.com/kohya-ss/musubi-tuner
+- SimpleTuner: https://github.com/bghira/SimpleTuner
+- MS Training: https://www.modelscope.cn/aigc/modelTraining
 
 #### 评估
 
