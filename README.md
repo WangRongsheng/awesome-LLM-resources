@@ -515,6 +515,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 4. Voxtral: https://huggingface.co/mistralai/Voxtral-Mini-3B-2507
 5. Step-Audio2: https://github.com/stepfun-ai/Step-Audio2
 6. SoulX-Podcast: https://huggingface.co/collections/Soul-AILab/soulx-podcast
+7. Omnilingual ASR: https://github.com/facebookresearch/omnilingual-asr
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
