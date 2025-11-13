@@ -580,6 +580,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - DreamLLM: https://arxiv.org/abs/2309.11499
 - X-Omni: https://arxiv.org/abs/2507.22058
 - Ming-flash-omni-Preview: https://huggingface.co/inclusionAI/Ming-flash-omni-Preview
+- Omni-View: https://arxiv.org/abs/2511.07222
+- NExT-OMNI: https://arxiv.org/abs/2510.13721
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
