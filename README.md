@@ -446,6 +446,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 #### 编辑
 
 - ChronoEdit-14B: https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers
+- Eigen-Banana-Qwen-Image-Edit: https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit
+- Qwen-Image-Edit-2509: https://huggingface.co/Qwen/Qwen-Image-Edit-2509
 
 #### 训练
 
