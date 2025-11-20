@@ -589,6 +589,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - NExT-OMNI: https://arxiv.org/abs/2510.13721
 - Uni-MoE-2.0-Omni: https://arxiv.org/abs/2511.12609
 - LongCat-Flash-Omni: https://huggingface.co/meituan-longcat/LongCat-Flash-Omni
+- ShapeLLM-Omni: https://arxiv.org/abs/2506.01853
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
