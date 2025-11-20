@@ -378,6 +378,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 18. [Kiro](https://kiro.dev/)
 19. [CodeBuddy](https://copilot.tencent.com/)
 20. [Kiro](https://kiro.dev/)
+21. [CodeX](https://github.com/openai/codex)
+22. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 
 
 <div align="right">
