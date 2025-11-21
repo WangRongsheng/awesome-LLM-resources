@@ -414,6 +414,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 18. [Wan2.2](https://github.com/Wan-Video/Wan2.2)
 19. [MoGA](https://arxiv.org/pdf/2510.18692) `长视频`
 20. [LongCat-Video](https://huggingface.co/meituan-longcat/LongCat-Video)
+21. [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
 
 #### 编辑
 
