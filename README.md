@@ -7,7 +7,7 @@
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/forks/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/stars/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/watchers/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
-  <a href="https://gitcode.com/rongshengwang/awesome-LLM-resources"><img src="https://raw.githubusercontent.com/WangRongsheng/awesome-LLM-resources/main/assets/gitcode.png" height="25" alt="gitcode">
+  <a href="https://gitcode.com/wangrongsheng/awesome-LLM-resources"><img src="https://raw.githubusercontent.com/WangRongsheng/awesome-LLM-resources/main/assets/gitcode.png" height="25" alt="gitcode">
 </a>
 </p>
 
