@@ -434,6 +434,11 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - https://github.com/Yaofang-Liu/Mochi-Full-Finetuner
 - https://github.com/bghira/SimpleTuner
 
+### 实用工具
+
+- [PySceneDetect](https://github.com/Breakthrough/PySceneDetect): Python and OpenCV-based scene cut/transition detection program & library.
+- [DOVER](https://github.com/VQAssessment/DOVER): Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
