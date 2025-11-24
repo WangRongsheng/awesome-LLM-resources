@@ -805,6 +805,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 56. [SAIL-VL2 Technical Report](https://arxiv.org/abs/2509.14033)
 57. [LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training](https://arxiv.org/abs/2509.23661) `[85M-Midtraining Data](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M)` `[22M Instruct Data](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Instruct-Data)`
 58. [Olmo3](https://www.datocms-assets.com/64837/1763646865-olmo_3_technical_report-1.pdf): Charting a path through the model flow to lead open-source AI. `[Website](https://allenai.org/blog/olmo3)`
+59. [OpenMMReasoner](https://arxiv.org/abs/2511.16334)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
