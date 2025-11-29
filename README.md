@@ -250,7 +250,6 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 10. [WaveSpeed](https://wavespeed.ai/) `视频生成`
 11. [OpenRouter](https://openrouter.ai/)
 12. [数标标 (`🔥`)](https://api.ai-gaochao.cn/)
-13. [WaveSpeed](https://wavespeed.ai/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
