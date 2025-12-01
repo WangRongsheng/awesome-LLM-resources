@@ -601,6 +601,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - LongCat-Flash-Omni: https://huggingface.co/meituan-longcat/LongCat-Flash-Omni
 - ShapeLLM-Omni: https://arxiv.org/abs/2506.01853
 - UniGen-1.5: https://arxiv.org/abs/2511.14760
+- Jodi: https://arxiv.org/abs/2505.19084
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
