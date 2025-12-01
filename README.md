@@ -11,6 +11,9 @@
 </a>
 </p>
 
+> [!TIP]
+> 如果您对**医疗数据集/大模型/多模态/评估相关资源感兴趣**！请访问我们的 🤗 [Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) !
+
 ---
 
 #### Contents
