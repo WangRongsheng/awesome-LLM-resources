@@ -697,6 +697,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 53. [100+ LLM & RL Algorithm Maps | 原创 LLM / RL 100+原理图](https://github.com/changyeyu/LLM-RL-Visualized)
 54. [Reinforcement Learning of Large Language Models](https://ernestryu.com/courses/RL-LLM.html)
 55. [NanoChat](https://github.com/karpathy/nanochat): The best ChatGPT that $100 can buy.
+56. [斯坦福CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
