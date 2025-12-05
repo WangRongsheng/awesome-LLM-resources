@@ -152,6 +152,7 @@
 47. [LMMs-Engine](https://github.com/EvolvingLMMs-Lab/lmms-engine): A simple, any-to-any modality framework for pretraining and finetuning. Lean, flexible, and built for research.
 48. [dLLM](https://github.com/ZHZisZZ/dllm): a library that unifies the training and evaluation of diffusion language models, bringing transparency and reproducibility to the entire development pipeline. `diffusion`
 49. [Miles](https://github.com/radixark/miles): an enterprise-facing reinforcement learning framework for large-scale MoE post-training and production workloads.
+50. [Skills](https://github.com/NVIDIA-NeMo/Skills): a collection of pipelines to improve "skills" of large language models (LLMs).
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
