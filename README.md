@@ -438,6 +438,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - https://github.com/Yaofang-Liu/Mochi-Full-Finetuner
 - https://github.com/bghira/SimpleTuner
 
+#### 推理
+
+- https://github.com/ModelTC/LightX2V
+
 #### 实用工具
 
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect): Python and OpenCV-based scene cut/transition detection program & library.
@@ -607,6 +611,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Jodi: https://arxiv.org/abs/2505.19084
 - UniModel: https://arxiv.org/abs/2511.16917
 - TUNA: https://arxiv.org/abs/2512.02014
+- HBridge: https://arxiv.org/abs/2511.20520
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
