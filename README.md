@@ -460,6 +460,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
 - HunyuanImage-3.0：https://github.com/Tencent-Hunyuan/HunyuanImage-3.0
 - Seedream 4.0：https://arxiv.org/abs/2509.20427
+- LongCat-Image：https://huggingface.co/meituan-longcat/LongCat-Image
 
 #### 编辑
 
@@ -469,6 +470,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
   - Upscale: https://huggingface.co/vafipas663/Qwen-Edit-2509-Upscale-LoRA
   - Multiple-angles: https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles
   - Multi-Angle-Lighting: https://huggingface.co/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting
+- LongCat-Image-Edit: https://huggingface.co/meituan-longcat/LongCat-Image-Edit
 
 #### 训练
 
@@ -479,6 +481,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Musubi Tuner: https://github.com/kohya-ss/musubi-tuner
 - SimpleTuner: https://github.com/bghira/SimpleTuner
 - MS Training: https://www.modelscope.cn/aigc/modelTraining
+- Finetune HunyuanImage-3.0: https://github.com/PhotonAISG/hunyuan-image3-finetune
 
 #### 评估
 
