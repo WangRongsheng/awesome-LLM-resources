@@ -532,6 +532,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. VoxCPM: https://github.com/OpenBMB/VoxCPM/
 24. Neutts-Air: https://github.com/neuphonic/neutts-air
 25. Maya1: https://huggingface.co/maya-research/maya1
+26. VibeVoice: https://huggingface.co/collections/microsoft/vibevoice
 
 #### STT
 
