@@ -25,6 +25,7 @@
 - [体验 Usage](#体验-Usage)
 - [知识库 RAG](#知识库-RAG)
 - [智能体 Agents](#智能体-Agents)
+- [研究 Research](#研究-Research)
 - [代码 Coding](#代码-Coding)
 - [视频 Video](#视频-Video)
 - [图片 Image](#图片-Image)
@@ -357,6 +358,32 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 44. [SandBox](https://github.com/agent-infra/sandbox): All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 45. [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): First agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (produce analyst-grade research reports).
 46. [Astron Agent](https://github.com/iflytek/astron-agent): Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 研究 Research
+
+#### 写作
+
+- PaperDebugger: https://github.com/PaperDebugger/PaperDebugger
+- Chat Overleaf: https://github.com/anuin-cat/chat-overleaf
+
+#### 审稿
+
+- PaperReview: https://paperreview.ai/
+- aiXiv: https://aixiv.science/
+
+#### 其他
+
+- Paper2Video: https://github.com/showlab/Paper2Video
+- Paper2Poster: https://github.com/Paper2Poster/Paper2Poster
+- AutoPR: https://github.com/irgolic/AutoPR
+- Auto-Slides: https://github.com/Westlake-AGI-Lab/Auto-Slides
+- EvoPresent: https://github.com/eric-ai-lab/EvoPresent
+- Paper2All: https://github.com/YuhangChen1/Paper2All
+- AutoPage: https://github.com/AutoLab-SAI-SJTU/AutoPage
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
