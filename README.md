@@ -617,6 +617,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - UniModel: https://arxiv.org/abs/2511.16917
 - TUNA: https://arxiv.org/abs/2512.02014
 - HBridge: https://arxiv.org/abs/2511.20520
+- EMMA: https://arxiv.org/abs/2512.04810
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
