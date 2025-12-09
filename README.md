@@ -241,6 +241,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 16. [MathArena](https://github.com/eth-sri/matharena): Evaluation of LLMs on latest math competitions.
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
+19. [promptfoo](https://github.com/promptfoo/promptfoo): LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
 
 `LLM API 服务平台`：
 1. [Groq](https://groq.com/)
