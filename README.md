@@ -509,6 +509,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - SimpleTuner: https://github.com/bghira/SimpleTuner
 - MS Training: https://www.modelscope.cn/aigc/modelTraining
 - Finetune HunyuanImage-3.0: https://github.com/PhotonAISG/hunyuan-image3-finetune
+- OneTrainer: https://github.com/Nerogar/OneTrainer
 
 #### 评估
 
@@ -560,6 +561,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 24. Neutts-Air: https://github.com/neuphonic/neutts-air
 25. Maya1: https://huggingface.co/maya-research/maya1
 26. VibeVoice: https://huggingface.co/collections/microsoft/vibevoice
+27. GLM-TTS: https://github.com/zai-org/GLM-TTS
 
 #### STT
 
