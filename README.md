@@ -562,8 +562,9 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. Maya1: https://huggingface.co/maya-research/maya1
 26. VibeVoice: https://huggingface.co/collections/microsoft/vibevoice
 27. GLM-TTS: https://github.com/zai-org/GLM-TTS
+28. Fun-CosyVoice3: https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512
 
-#### STT
+#### STT/ASR
 
 1. Kyutai: https://github.com/kyutai-labs/delayed-streams-modeling
 2. Whisper: https://github.com/openai/whisper
@@ -572,6 +573,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 5. Step-Audio2: https://github.com/stepfun-ai/Step-Audio2
 6. SoulX-Podcast: https://huggingface.co/collections/Soul-AILab/soulx-podcast
 7. Omnilingual ASR: https://github.com/facebookresearch/omnilingual-asr
+8. Fun-ASR: https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
