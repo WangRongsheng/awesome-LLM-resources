@@ -515,6 +515,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 - ULMEvalKit：https://github.com/ULMEvalKit/ULMEvalKit
 
+#### 推理
+
+- TypemovieInfer: https://github.com/typemovie/TypemovieInfer
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
