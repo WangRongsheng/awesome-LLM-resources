@@ -653,6 +653,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - TUNA: https://arxiv.org/abs/2512.02014
 - HBridge: https://arxiv.org/abs/2511.20520
 - EMMA: https://arxiv.org/abs/2512.04810
+- OpenOmni: https://github.com/RainBowLuoCS/OpenOmni
+- Ming-Flash-Omni: https://arxiv.org/abs/2510.24821
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
