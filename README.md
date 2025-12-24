@@ -514,6 +514,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
   - Multiple-angles: https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles
   - Multi-Angle-Lighting: https://huggingface.co/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting
 - LongCat-Image-Edit: https://huggingface.co/meituan-longcat/LongCat-Image-Edit
+- Qwen-Image-Edit-2511: https://huggingface.co/Qwen/Qwen-Image-Edit-2511
 
 #### 训练
 
@@ -595,6 +596,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 6. SoulX-Podcast: https://huggingface.co/collections/Soul-AILab/soulx-podcast
 7. Omnilingual ASR: https://github.com/facebookresearch/omnilingual-asr
 8. Fun-ASR: https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512
+
+#### Voice Interaction
+
+1. https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
