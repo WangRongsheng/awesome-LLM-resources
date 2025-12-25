@@ -485,6 +485,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 #### 推理
 
 - https://github.com/ModelTC/LightX2V
+- https://github.com/thu-ml/TurboDiffusion
 
 #### 实用工具
 
