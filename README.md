@@ -385,6 +385,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 - PaperDebugger: https://github.com/PaperDebugger/PaperDebugger
 - Chat Overleaf: https://github.com/anuin-cat/chat-overleaf
+- 文智云助手: https://overleaf.top/
 
 #### 审稿
 
