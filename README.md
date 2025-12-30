@@ -506,6 +506,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - HunyuanImage-3.0：https://github.com/Tencent-Hunyuan/HunyuanImage-3.0
 - Seedream 4.0：https://arxiv.org/abs/2509.20427
 - LongCat-Image：https://huggingface.co/meituan-longcat/LongCat-Image
+- Z-Image-Turbo：https://huggingface.co/Tongyi-MAI/Z-Image-Turbo
+  - https://huggingface.co/inclusionAI/TwinFlow
 
 #### 编辑
 
