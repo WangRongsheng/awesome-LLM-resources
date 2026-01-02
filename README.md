@@ -1133,6 +1133,7 @@ MCP工具聚合：
 11. https://github.com/GeeeekExplorer/nano-vllm
 12. https://github.com/ritabratamaiti/AnyModal
 13. https://github.com/yujunhuics/Reyes
+14. https://github.com/Victorwz/Open-Qwen2VL
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
