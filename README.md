@@ -519,6 +519,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
   - Multi-Angle-Lighting: https://huggingface.co/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting
 - LongCat-Image-Edit: https://huggingface.co/meituan-longcat/LongCat-Image-Edit
 - Qwen-Image-Edit-2511: https://huggingface.co/Qwen/Qwen-Image-Edit-2511
+  - Qwen-Image-Edit-2511-Upscale2K: https://huggingface.co/valiantcat/Qwen-Image-Edit-2511-Upscale2K
 
 #### 训练
 
