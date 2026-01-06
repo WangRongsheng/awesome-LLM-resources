@@ -374,6 +374,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 44. [SandBox](https://github.com/agent-infra/sandbox): All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 45. [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): First agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (produce analyst-grade research reports).
 46. [Astron Agent](https://github.com/iflytek/astron-agent): Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
+47. [Youtu-Agent](https://github.com/TencentCloudADP/youtu-agent): A simple yet powerful agent framework that delivers with open-source models.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
