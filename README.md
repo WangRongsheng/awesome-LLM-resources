@@ -375,6 +375,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 45. [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): First agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (produce analyst-grade research reports).
 46. [Astron Agent](https://github.com/iflytek/astron-agent): Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 47. [Youtu-Agent](https://github.com/TencentCloudADP/youtu-agent): A simple yet powerful agent framework that delivers with open-source models.
+48. [MiroThinker](https://github.com/MiroMindAI/MiroThinker): an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
