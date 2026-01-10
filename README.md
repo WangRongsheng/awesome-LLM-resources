@@ -504,7 +504,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 ## 图片 Image
 
-#### 模型
+#### 生成
 
 - [awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)
 - [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
@@ -513,6 +513,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - LongCat-Image：https://huggingface.co/meituan-longcat/LongCat-Image
 - Z-Image-Turbo：https://huggingface.co/Tongyi-MAI/Z-Image-Turbo
   - https://huggingface.co/inclusionAI/TwinFlow
+- Qwen-Image：https://huggingface.co/Qwen/Qwen-Image
+- Qwen-Image-2512：https://huggingface.co/Qwen/Qwen-Image-2512
 
 #### 编辑
 
@@ -525,6 +527,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - LongCat-Image-Edit: https://huggingface.co/meituan-longcat/LongCat-Image-Edit
 - Qwen-Image-Edit-2511: https://huggingface.co/Qwen/Qwen-Image-Edit-2511
   - Qwen-Image-Edit-2511-Upscale2K: https://huggingface.co/valiantcat/Qwen-Image-Edit-2511-Upscale2K
+  - Qwen-Image-Edit-2511-Multiple-Angles-LoRA: https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
 
 #### 训练
 
