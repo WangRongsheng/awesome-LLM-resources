@@ -39,6 +39,7 @@
 - [论文 Paper](#论文-Paper)
 - [社区 Community](#社区-Community)
 - [模型上下文协议 MCP](#模型上下文协议-MCP)
+- [技能 Skills](#技能-Skills)
 - [推理 Open o1](#推理-Open-o1)
 - [推理 Open o3](#推理-Open-o3)
 - [小语言模型 Small Language Model](#小语言模型-Small-Language-Model)
@@ -933,6 +934,16 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 技能 Skills
+
+1. [Agent Skills (Claude Skills) 详细攻略，一期视频精通](https://www.bilibili.com/video/BV1HuiyBQE9G)
+2. [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+3. [Anthropics Skills](https://github.com/anthropics/skills)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
