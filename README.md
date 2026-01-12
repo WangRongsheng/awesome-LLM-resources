@@ -279,7 +279,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 ## 体验 Usage
 
-1. [LMSYS Chatbot Arena: Benchmarking LLMs in the Wild](https://arena.lmsys.org/)
+1. [LM Arena](https://lmarena.ai/zh)
+2. [Design Arena](https://www.designarena.ai/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
