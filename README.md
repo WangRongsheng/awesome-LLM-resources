@@ -62,6 +62,7 @@
 
 - Doubao-Seed-1.8
 - GLM-4.7
+- Microthinker-1.5
 
 ## 数据 Data
 
@@ -258,6 +259,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 16. [MathArena](https://github.com/eth-sri/matharena): Evaluation of LLMs on latest math competitions.
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
+19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
 
 `LLM API 服务平台`：
 1. [Groq](https://groq.com/)
