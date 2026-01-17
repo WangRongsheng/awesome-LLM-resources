@@ -518,7 +518,6 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
   - https://huggingface.co/inclusionAI/TwinFlow
 - Qwen-Image：https://huggingface.co/Qwen/Qwen-Image
 - Qwen-Image-2512：https://huggingface.co/Qwen/Qwen-Image-2512
-- GLM-Image: https://huggingface.co/zai-org/GLM-Image
 
 #### 编辑
 
@@ -532,6 +531,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Qwen-Image-Edit-2511: https://huggingface.co/Qwen/Qwen-Image-Edit-2511
   - Qwen-Image-Edit-2511-Upscale2K: https://huggingface.co/valiantcat/Qwen-Image-Edit-2511-Upscale2K
   - Qwen-Image-Edit-2511-Multiple-Angles-LoRA: https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
+
+#### 统一
+
+- GLM-Image: https://huggingface.co/zai-org/GLM-Image
+- https://huggingface.co/black-forest-labs/FLUX.2-klein-4B
+  - https://huggingface.co/black-forest-labs/FLUX.2-klein-9B
 
 #### 训练
 
