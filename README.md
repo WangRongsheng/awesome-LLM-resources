@@ -498,6 +498,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 19. [MoGA](https://arxiv.org/pdf/2510.18692) `长视频`
 20. [LongCat-Video](https://huggingface.co/meituan-longcat/LongCat-Video)
 21. [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
+22. [LTX-2](https://huggingface.co/Lightricks/LTX-2)
+    - [Training](https://github.com/Lightricks/LTX-2/blob/main/packages/ltx-trainer/README.md)
 
 #### 编辑
 
