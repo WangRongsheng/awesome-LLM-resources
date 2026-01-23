@@ -406,6 +406,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 46. [Astron Agent](https://github.com/iflytek/astron-agent): Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 47. [Youtu-Agent](https://github.com/TencentCloudADP/youtu-agent): A simple yet powerful agent framework that delivers with open-source models.
 48. [MiroThinker](https://github.com/MiroMindAI/MiroThinker): an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
+49. [Nexent](https://github.com/ModelEngine-Group/nexent): A zero-code platform for auto-generating agents — no orchestration, no complex drag-and-drop required, using pure language to develop any agent you want.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
