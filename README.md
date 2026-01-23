@@ -636,6 +636,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 26. VibeVoice: https://huggingface.co/collections/microsoft/vibevoice
 27. GLM-TTS: https://github.com/zai-org/GLM-TTS
 28. Fun-CosyVoice3: https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512
+29. Qwen3-TTS:https://huggingface.co/collections/Qwen/qwen3-tts
 
 #### STT/ASR
 
@@ -647,10 +648,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 6. SoulX-Podcast: https://huggingface.co/collections/Soul-AILab/soulx-podcast
 7. Omnilingual ASR: https://github.com/facebookresearch/omnilingual-asr
 8. Fun-ASR: https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512
+9. VibeVoice-ASR: https://huggingface.co/microsoft/VibeVoice-ASR
 
 #### Voice Interaction
 
-1. https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B
+1. Fun-Audio-Chat: https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B
+2. Chroma 1.0: https://huggingface.co/FlashLabs/Chroma-4B
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
