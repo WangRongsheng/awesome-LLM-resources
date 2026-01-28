@@ -130,6 +130,7 @@
 43. [PaddleOCR-VL](https://huggingface.co/PaddlePaddle/PaddleOCR-VL)
 44. [Chandra](https://github.com/datalab-to/chandra): a highly accurate OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information.
 45. [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR): a leading end-to-end OCR expert VLM powered by Hunyuan's native multimodal architecture.
+46. [DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2): Visual Causal Flow.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
