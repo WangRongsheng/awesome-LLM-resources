@@ -53,16 +53,15 @@
 
 #### Coding
 
-- GLM-4.7
 - Gemini-3-Pro
-- Kimi-K2
+- Gemini-3-Flash
+- Kimi-K2.5
 - MiniMax-M2.1
 - Claude-4.5
 
 #### Tool Use
 
 - Doubao-Seed-1.8
-- GLM-4.7
 - Microthinker-1.5
 
 #### Podcast
