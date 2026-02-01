@@ -651,6 +651,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 7. Omnilingual ASR: https://github.com/facebookresearch/omnilingual-asr
 8. Fun-ASR: https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512
 9. VibeVoice-ASR: https://huggingface.co/microsoft/VibeVoice-ASR
+10. Qwen3-ASR: https://github.com/QwenLM/Qwen3-ASR
 
 #### Voice Interaction
 
