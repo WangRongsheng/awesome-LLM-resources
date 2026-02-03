@@ -422,6 +422,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Chat Overleaf: https://github.com/anuin-cat/chat-overleaf
 - 文智云助手: https://overleaf.top/
 - LiteWrite: https://litewrite.ai/
+- Prism: https://openai.com/zh-Hans-CN/prism/
 
 #### 审稿
 
