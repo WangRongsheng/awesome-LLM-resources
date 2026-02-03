@@ -132,6 +132,7 @@
 45. [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR): a leading end-to-end OCR expert VLM powered by Hunyuan's native multimodal architecture.
 46. [DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2): Visual Causal Flow.
 47. [PaddleOCR-VL-1.5](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5): Towards a Multi-Task 0.9B VLM for Robust In-the-Wild Document Parsing.
+48. [GLM-OCR](https://huggingface.co/zai-org/GLM-OCR): a multimodal OCR model for complex document understanding, built on the GLM-V encoder–decoder architecture.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
