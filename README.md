@@ -985,6 +985,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [FirstData](https://github.com/MLT-OSS/FirstData): 全球最全面的权威数据源知识库 (132+ 政府/国际组织/学术机构数据源)，提供 MCP Server，帮助 AI 减少幻觉，100% URL 验证，中英双语支持。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
