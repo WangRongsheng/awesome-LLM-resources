@@ -441,6 +441,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - AutoPage: https://github.com/AutoLab-SAI-SJTU/AutoPage
 - pdf2video: https://github.com/DangJin/pdf2video
 - Idea2Paper: https://github.com/AgentAlphaAGI/Idea2Paper
+- PaperX: https://github.com/yutao1024/PaperX
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
