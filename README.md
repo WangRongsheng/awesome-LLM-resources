@@ -879,6 +879,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 35. [cnblog: 第七子](https://www.cnblogs.com/theseventhson)
 36. [Implementation of all RAG techniques in a simpler way.](https://github.com/FareedKhan-dev/all-rag-techniques)
 37. [Theoretical Machine Learning: A Handbook for Everyone](https://www.tengjiaye.com/mlbook.html)
+38. [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs): 开源项目深度技术教程索引（架构、核心实现与生产实践）。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
