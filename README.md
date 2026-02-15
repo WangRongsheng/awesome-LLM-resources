@@ -56,13 +56,8 @@
 - Gemini-3-Pro
 - Gemini-3-Flash
 - Kimi-K2.5
-- MiniMax-M2.1
+- MiniMax-M2.5
 - Claude-4.5
-
-#### Tool Use
-
-- Doubao-Seed-1.8
-- Microthinker-1.5
 
 #### Podcast
 
