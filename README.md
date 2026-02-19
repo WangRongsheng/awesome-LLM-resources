@@ -984,6 +984,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [bgpt-mcp](https://github.com/connerlambden/bgpt-mcp) - 搜索科学论文，获取从全文研究中提取的结构化实验数据（方法、结果、样本量、质量评分）
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
