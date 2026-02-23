@@ -1280,3 +1280,5 @@ MCP工具聚合：
 [![Stargazers over time](https://starchart.cc/WangRongsheng/awesome-LLM-resourses.svg)](https://starchart.cc/WangRongsheng/awesome-LLM-resourses)
 
 ![Alt](https://repobeats.axiom.co/api/embed/a7c45f31e87a3e6973bb9a926e33e80d05553c52.svg "Repobeats analytics image")
+
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Neo4j knowledge graph (91 nodes, 6 domains), 7-layer safety guardrails. [GitHub](https://github.com/odei-ai/web)
