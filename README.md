@@ -51,14 +51,6 @@
 
 ## 推荐 Suggestion
 
-#### Coding
-
-- Gemini-3-Pro
-- Gemini-3-Flash
-- Kimi-K2.5
-- MiniMax-M2.5
-- Claude-4.5
-
 #### Podcast
 
 - [翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast](https://www.bilibili.com/video/BV1darmBcE4A?vd_source=c739db1ebdd361d47af5a0b8497417db)
@@ -640,6 +632,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 27. GLM-TTS: https://github.com/zai-org/GLM-TTS
 28. Fun-CosyVoice3: https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512
 29. Qwen3-TTS:https://huggingface.co/collections/Qwen/qwen3-tts
+30. Ming-Omni-TTS: https://github.com/inclusionAI/Ming-omni-tts
 
 #### STT/ASR
 
