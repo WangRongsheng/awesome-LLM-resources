@@ -555,6 +555,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Qwen-Image-Edit-2511: https://huggingface.co/Qwen/Qwen-Image-Edit-2511
   - Qwen-Image-Edit-2511-Upscale2K: https://huggingface.co/valiantcat/Qwen-Image-Edit-2511-Upscale2K
   - Qwen-Image-Edit-2511-Multiple-Angles-LoRA: https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
+- FireRed-Image-Edit: https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0
 
 #### 统一
 
