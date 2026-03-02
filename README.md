@@ -289,6 +289,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 10. [WaveSpeed](https://wavespeed.ai/) `视频生成`
 11. [OpenRouter](https://openrouter.ai/)
 12. [数标标 (`🔥`)](https://api.ai-gaochao.cn/)
+13. [SkillBoss](https://skillboss.co/) - 统一AI网关，一个API密钥接入100+服务：Claude/GPT/Gemini/DeepSeek + 图像/视频生成 + 语音 + 网页抓取等。OpenAI兼容，支持Claude Code/Cursor/Windsurf。[GitHub](https://github.com/heeyo-life/skillboss-mcp)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -978,6 +979,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [SkillBoss MCP](https://github.com/heeyo-life/skillboss-mcp) - 一个API密钥解锁100+服务：Claude/GPT/Gemini/DeepSeek、图像生成(DALL-E/Midjourney)、视频生成(Runway/Kling)、语音(ElevenLabs)、网页抓取等。支持Claude Code/Cursor/Windsurf。[官网](https://skillboss.co/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
