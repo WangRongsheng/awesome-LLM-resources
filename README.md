@@ -990,6 +990,8 @@ MCP工具聚合：
 3. [Anthropics Skills](https://github.com/anthropics/skills)
 4. [Skillsmp](https://skillsmp.com/)
 5. [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
+6. [ClawHub](https://clawhub.ai/)
+7. [水产市场](https://openclawmp.cc/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
