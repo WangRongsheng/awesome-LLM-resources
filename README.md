@@ -992,6 +992,9 @@ MCP工具聚合：
 5. [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
 6. [ClawHub](https://clawhub.ai/)
 7. [水产市场](https://openclawmp.cc/)
+8. [Skills.Sh](https://skills.sh/)
+9. [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+10. [llmbase](https://llmbase.ai/openclaw/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
