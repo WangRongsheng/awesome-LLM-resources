@@ -988,6 +988,8 @@ MCP工具聚合：
 1. [Agent Skills (Claude Skills) 详细攻略，一期视频精通](https://www.bilibili.com/video/BV1HuiyBQE9G)
 2. [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 3. [Anthropics Skills](https://github.com/anthropics/skills)
+4. [Skillsmp](https://skillsmp.com/)
+5. [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
