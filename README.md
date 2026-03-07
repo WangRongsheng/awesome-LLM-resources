@@ -995,6 +995,7 @@ MCP工具聚合：
 8. [Skills.Sh](https://skills.sh/)
 9. [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
 10. [llmbase](https://llmbase.ai/openclaw/)
+11. [OpenClaw](https://docs.openclaw.ai/zh-CN)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
