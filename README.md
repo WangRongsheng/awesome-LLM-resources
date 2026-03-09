@@ -997,6 +997,8 @@ MCP工具聚合：
 10. [llmbase](https://llmbase.ai/openclaw/)
 11. [OpenClaw](https://docs.openclaw.ai/zh-CN)
 12. [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
+13. [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
+14. [LLMs-Universal-Life-Science-and-Clinical-Skills-](https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
