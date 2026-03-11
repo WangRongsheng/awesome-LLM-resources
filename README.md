@@ -275,6 +275,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
+20. [LLM Benchmark Costco](https://github.com/joe1chief/llm-benchmark-costco): 一个可搜索的 LLM 评测基准数据库，收录 378+ 个跨 12 个能力维度的基准，支持内嵌 PDF 阅读、Mermaid 构建流程图、中英双语界面及 CI/CD 自动部署。[🌐 Live Demo](https://joe1chief.github.io/llm-benchmark-costco/)
 
 `LLM API 服务平台`：
 1. [Groq](https://groq.com/)
