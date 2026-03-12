@@ -417,6 +417,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 - PaperReview: https://paperreview.ai/
 - aiXiv: https://aixiv.science/
+- OpenJudge Review: https://openjudge.me/paper_review
 
 #### 其他
 
