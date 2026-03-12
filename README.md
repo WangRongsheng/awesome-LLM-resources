@@ -176,6 +176,7 @@
 48. [dLLM](https://github.com/ZHZisZZ/dllm): a library that unifies the training and evaluation of diffusion language models, bringing transparency and reproducibility to the entire development pipeline. `diffusion`
 49. [Miles](https://github.com/radixark/miles): an enterprise-facing reinforcement learning framework for large-scale MoE post-training and production workloads.
 50. [Skills](https://github.com/NVIDIA-NeMo/Skills): a collection of pipelines to improve "skills" of large language models (LLMs).
+51. [Twinkle](https://github.com/modelscope/twinkle): a lightweight, client-server training framework engineered with modular, high-cohesion interfaces.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
