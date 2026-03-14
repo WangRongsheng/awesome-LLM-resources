@@ -1002,6 +1002,7 @@ MCP工具聚合：
 13. [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
 14. [LLMs-Universal-Life-Science-and-Clinical-Skills-](https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-)
 15. [SkillHub](https://skillhub.tencent.com/#categories)
+16. [LabClaw](https://github.com/wu-yc/LabClaw)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
