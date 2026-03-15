@@ -1188,6 +1188,7 @@ MCP工具聚合：
 21. https://github.com/huggingface/picotron
 22. https://github.com/Alic-Li/Mini_RWKV_7
 23. https://huggingface.co/Nanbeige/Nanbeige4-3B-Thinking-2511 `23T tokens预训练模型`
+24. https://github.com/stepfun-ai/SteptronOss
 
 
 <div align="right">
