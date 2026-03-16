@@ -433,6 +433,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - PaperX: https://github.com/yutao1024/PaperX
 - figures4papers: https://github.com/ChenLiu-1996/figures4papers
 
+#### 全自动科研
+
+- EvoScientist: https://github.com/EvoScientist/EvoScientist
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
