@@ -436,6 +436,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 #### 全自动科研
 
 - EvoScientist: https://github.com/EvoScientist/EvoScientist
+- Auto-claude-code-research-in-sleep: https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
