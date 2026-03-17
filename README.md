@@ -432,12 +432,15 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Idea2Paper: https://github.com/AgentAlphaAGI/Idea2Paper
 - PaperX: https://github.com/yutao1024/PaperX
 - figures4papers: https://github.com/ChenLiu-1996/figures4papers
+- PaperBanana: https://github.com/dwzhu-pku/PaperBanana
+- PaperBanana-Pro: https://github.com/elpsykongloo/PaperBanana-Pro
 
 #### 全自动科研
 
 - EvoScientist: https://github.com/EvoScientist/EvoScientist
 - Auto-claude-code-research-in-sleep: https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
 - ArgusBot: https://github.com/waltstephen/ArgusBot
+- Station: https://github.com/dualverse-ai/station
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
