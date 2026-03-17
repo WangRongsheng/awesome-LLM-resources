@@ -441,6 +441,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Auto-claude-code-research-in-sleep: https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
 - ArgusBot: https://github.com/waltstephen/ArgusBot
 - Station: https://github.com/dualverse-ai/station
+- Dr.Claw: https://github.com/OpenLAIR/dr-claw
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
