@@ -545,6 +545,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 #### 生成
 
+- [NanoBanana2](https://nanobanana2.com) - 免费AI图片生成器，支持趋势模板和多模型（Gemini/DALL-E/SD），提供文生图、图片编辑、超分辨率等功能。
 - [awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)
 - [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
 - HunyuanImage-3.0：https://github.com/Tencent-Hunyuan/HunyuanImage-3.0
