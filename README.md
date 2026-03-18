@@ -1000,21 +1000,24 @@ MCP工具聚合：
 ## 技能 Skills
 
 1. [Agent Skills (Claude Skills) 详细攻略，一期视频精通](https://www.bilibili.com/video/BV1HuiyBQE9G)
-2. [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
-3. [Anthropics Skills](https://github.com/anthropics/skills)
-4. [Skillsmp](https://skillsmp.com/)
-5. [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
-6. [ClawHub](https://clawhub.ai/)
-7. [水产市场](https://openclawmp.cc/)
-8. [Skills.Sh](https://skills.sh/)
-9. [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
-10. [llmbase](https://llmbase.ai/openclaw/)
-11. [OpenClaw](https://docs.openclaw.ai/zh-CN)
-12. [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
-13. [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
-14. [LLMs-Universal-Life-Science-and-Clinical-Skills-](https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-)
-15. [SkillHub](https://skillhub.tencent.com/#categories)
-16. [LabClaw](https://github.com/wu-yc/LabClaw)
+2. [OpenClaw](https://docs.openclaw.ai/zh-CN)
+
+
+1. [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+2. [Anthropics Skills](https://github.com/anthropics/skills)
+3. [Skillsmp](https://skillsmp.com/)
+4. [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
+5. [ClawHub](https://clawhub.ai/)
+6. [水产市场](https://openclawmp.cc/)
+7. [Skills.Sh](https://skills.sh/)
+8. [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+9. [llmbase](https://llmbase.ai/openclaw/)
+10. [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
+11. [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
+12. [LLMs-Universal-Life-Science-and-Clinical-Skills-](https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-)
+13. [SkillHub](https://skillhub.tencent.com/#categories)
+14. [LabClaw](https://github.com/wu-yc/LabClaw)
+15. [Modelscope Skills](https://modelscope.cn/skills)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
