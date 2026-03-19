@@ -443,6 +443,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - ArgusBot: https://github.com/waltstephen/ArgusBot
 - Station: https://github.com/dualverse-ai/station
 - Dr.Claw: https://github.com/OpenLAIR/dr-claw
+- Redigg: https://github.com/redigg/redigg
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
