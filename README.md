@@ -445,6 +445,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Dr.Claw: https://github.com/OpenLAIR/dr-claw
 - Redigg: https://github.com/redigg/redigg
 - AutoResearchClaw: https://github.com/aiming-lab/AutoResearchClaw
+- NanoResearch: https://github.com/OpenRaiser/NanoResearch
+- ScienceClaw: https://github.com/AgentTeam-TaichuAI/ScienceClaw
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
