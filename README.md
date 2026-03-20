@@ -444,6 +444,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Station: https://github.com/dualverse-ai/station
 - Dr.Claw: https://github.com/OpenLAIR/dr-claw
 - Redigg: https://github.com/redigg/redigg
+- AutoResearchClaw: https://github.com/aiming-lab/AutoResearchClaw
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
