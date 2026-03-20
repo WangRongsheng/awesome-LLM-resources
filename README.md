@@ -886,6 +886,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 35. [cnblog: 第七子](https://www.cnblogs.com/theseventhson)
 36. [Implementation of all RAG techniques in a simpler way.](https://github.com/FareedKhan-dev/all-rag-techniques)
 37. [Theoretical Machine Learning: A Handbook for Everyone](https://www.tengjiaye.com/mlbook.html)
+38. [Zoom In 电路简介（双语教程）](https://github.com/Jonny-English/circuits-zoom-in)：中英双语 Jupyter Notebook 手动复现 Olah 等人 2020 年的经典论文「Zoom In: An Introduction to Circuits」，涵盖特征可视化与卷积神经网络中的机械可解释性。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
