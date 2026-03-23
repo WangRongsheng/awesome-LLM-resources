@@ -436,6 +436,17 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - PaperBanana: https://github.com/dwzhu-pku/PaperBanana
 - PaperBanana-Pro: https://github.com/elpsykongloo/PaperBanana-Pro
 
+#### 写作优化与降ai率
+
+- Thesis-optimizer: https://github.com/Haimbeau1o/thesis-optimizer
+- Fast-detect-gpt: https://github.com/baoguangsheng/fast-detect-gpt
+- Academic-ai-prompt: https://github.com/bohyy/academic-ai-prompt
+- AdaDetectGPT: https://github.com/Mamba413/AdaDetectGPT
+
+#### 半自动科研
+
+- Claude-scholar: https://github.com/Galaxy-Dawn/claude-scholar/
+
 #### 全自动科研
 
 - EvoScientist: https://github.com/EvoScientist/EvoScientist
