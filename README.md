@@ -448,6 +448,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - NanoResearch: https://github.com/OpenRaiser/NanoResearch
 - ScienceClaw: https://github.com/AgentTeam-TaichuAI/ScienceClaw
 - EurekaClaw: https://github.com/EurekaClaw/EurekaClaw
+- Claude-scholar: https://github.com/Galaxy-Dawn/claude-scholar/
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
