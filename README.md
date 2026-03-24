@@ -250,6 +250,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
 52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
 53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
+54. [ai-gateway](https://github.com/ferro-labs/ai-gateway): Open-source AI Gateway written in Go — one API for OpenAI, Anthropic, Bedrock, Azure, and 100+ LLMs. Built-in caching, guardrails, retries, routing strategies, MCP support, and cost optimization. Run as a proxy or embed as a library.
 
 
 <div align="right">
