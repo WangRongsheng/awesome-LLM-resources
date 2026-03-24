@@ -479,6 +479,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 21. [CodeX](https://github.com/openai/codex)
 22. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 23. [opencode](https://github.com/anomalyco/opencode)
+24. [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 
 
 <div align="right">
