@@ -449,6 +449,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - ScienceClaw: https://github.com/AgentTeam-TaichuAI/ScienceClaw
 - EurekaClaw: https://github.com/EurekaClaw/EurekaClaw
 - Claude-scholar: https://github.com/Galaxy-Dawn/claude-scholar/
+- claude-scientific-skills: https://github.com/K-Dense-AI/claude-scientific-skills
+- K-Dense BYOK: https://github.com/K-Dense-AI/k-dense-byok
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
