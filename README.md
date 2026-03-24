@@ -400,6 +400,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 49. [Nexent](https://github.com/ModelEngine-Group/nexent): A zero-code platform for auto-generating agents — no orchestration, no complex drag-and-drop required, using pure language to develop any agent you want.
 50. [Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent): A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks.
 
+#### OpenClaw-Style
+
+1. NEXU: https://github.com/nexu-io/nexu
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
