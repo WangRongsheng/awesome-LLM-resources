@@ -53,6 +53,7 @@
 
 #### Podcast
 
+- [A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42](https://www.youtube.com/watch?v=rIwgZWzUKm8)
 - [翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast](https://www.bilibili.com/video/BV1darmBcE4A?vd_source=c739db1ebdd361d47af5a0b8497417db)
 - [Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去](https://www.bilibili.com/video/BV14eiQBmEbN/?spm_id_from=333.1387.upload.video_card.click)
 - [MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越](https://www.bilibili.com/video/BV11NmtBzE36/?spm_id_from=333.1387.upload.video_card.click&vd_source=c739db1ebdd361d47af5a0b8497417db)
@@ -64,7 +65,6 @@
 - [118. 对李想的第二次3小时访谈：CEO大模型、MoE、梁文锋、VLA、能量、记忆、对抗人性、亲密关系、人类的智慧](https://www.youtube.com/watch?v=RxXVq7-sJzM&list=PLwAchVoh-4zNSI5UlKEkKCL5r_jJyrFeO&index=13)
 - [115. 对OpenAI姚顺雨3小时访谈：6年Agent研究、人与系统、吞噬的边界、既单极又多元的世界](https://www.youtube.com/watch?v=gQgKkUsx5q0&list=PLwAchVoh-4zNSI5UlKEkKCL5r_jJyrFeO&index=16)
 - [113. 和杨植麟时隔1年的对话：K2、Agentic LLM、缸中之脑和“站在无限的开端”](https://www.youtube.com/watch?v=ouG6jrkECrc&list=PLwAchVoh-4zNSI5UlKEkKCL5r_jJyrFeO&index=18)
-- [A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42](https://www.youtube.com/watch?v=rIwgZWzUKm8)
 
 ## 数据 Data
 
