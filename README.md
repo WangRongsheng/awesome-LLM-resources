@@ -486,6 +486,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 21. [CodeX](https://github.com/openai/codex)
 22. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 23. [opencode](https://github.com/anomalyco/opencode)
+24. [Cortex](https://github.com/SKULLFIRE07/cortex-memory): Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
 
 
 <div align="right">
