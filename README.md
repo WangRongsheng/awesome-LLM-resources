@@ -456,6 +456,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Claude-scholar: https://github.com/Galaxy-Dawn/claude-scholar/
 - claude-scientific-skills: https://github.com/K-Dense-AI/claude-scientific-skills
 - K-Dense BYOK: https://github.com/K-Dense-AI/k-dense-byok
+- latex-paper-skills: https://github.com/yunshenwuchuxun/latex-paper-skills
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
