@@ -758,6 +758,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - OpenOmni: https://github.com/RainBowLuoCS/OpenOmni
 - Ming-Flash-Omni: https://arxiv.org/abs/2510.24821
 - STAR: https://github.com/mm-mvr/star
+- InternVL-U: https://github.com/OpenGVLab/InternVL-U
+- LongCat-Next: https://github.com/meituan-longcat/LongCat-Next
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
