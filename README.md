@@ -33,6 +33,7 @@
 - [图片 Image](#图片-Image)
 - [搜索 Search](#搜索-Search)
 - [语音 Speech](#语音-Speech)
+- [龙虾 OpenClaw](#龙虾-OpenClaw)
 - [统一模型 Unified Model](#统一模型-Unified-Model)
 - [书籍 Book](#书籍-Book)
 - [课程 Course](#课程-Course)
@@ -682,6 +683,16 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 1. Fun-Audio-Chat: https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B
 2. Chroma 1.0: https://huggingface.co/FlashLabs/Chroma-4B
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 龙虾 OpenClaw
+
+1. MultiUserClaw: https://github.com/johnson7788/MultiUserClaw
+2. ClawManager: https://github.com/Yuan-lab-LLM/ClawManager
+3. Qclaw: https://github.com/qiuzhi2046/Qclaw
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
