@@ -301,6 +301,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 1. [LM Arena](https://lmarena.ai/zh)
 2. [Design Arena](https://www.designarena.ai/)
+3. [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - All-in-one local AI desktop app for uncensored chat, image generation, and video creation using Ollama and ComfyUI.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
