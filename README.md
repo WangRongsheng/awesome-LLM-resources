@@ -400,6 +400,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 48. [MiroThinker](https://github.com/MiroMindAI/MiroThinker): an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
 49. [Nexent](https://github.com/ModelEngine-Group/nexent): A zero-code platform for auto-generating agents — no orchestration, no complex drag-and-drop required, using pure language to develop any agent you want.
 50. [Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent): A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks.
+51. [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
 
 #### OpenClaw-Style
 
