@@ -443,6 +443,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - PaperBanana: https://github.com/dwzhu-pku/PaperBanana
 - PaperBanana-Pro: https://github.com/elpsykongloo/PaperBanana-Pro
 - PPTAgent: https://github.com/icip-cas/PPTAgent
+- AutoFigure: https://github.com/ResearAI/AutoFigure
+  - FigureWeave: https://github.com/Krisocer/FigureWeave
 
 #### 全自动科研
 
