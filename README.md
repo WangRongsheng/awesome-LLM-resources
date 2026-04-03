@@ -445,6 +445,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - PPTAgent: https://github.com/icip-cas/PPTAgent
 - AutoFigure: https://github.com/ResearAI/AutoFigure
   - FigureWeave: https://github.com/Krisocer/FigureWeave
+- AutoFigure-Edit: https://github.com/ResearAI/AutoFigure-Edit
 
 #### 全自动科研
 
