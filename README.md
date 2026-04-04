@@ -279,20 +279,6 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
 
-`LLM API 服务平台`：
-1. [Groq](https://groq.com/)
-2. [硅基流动](https://cloud.siliconflow.cn/models)
-3. [火山引擎](https://www.volcengine.com/product/ark)
-4. [文心千帆](https://qianfan.cloud.baidu.com/)
-5. [DashScope](https://dashscope.aliyun.com/)
-6. [aisuite](https://github.com/andrewyng/aisuite)
-7. [DeerAPI](https://www.deerapi.com/)
-8. [Qwen-Chat](https://chat.qwenlm.ai/)
-9. [DeepSeek-v3](https://www.deepseek.com/)
-10. [WaveSpeed](https://wavespeed.ai/) `视频生成`
-11. [OpenRouter](https://openrouter.ai/)
-12. [数标标 (`🔥`)](https://api.ai-gaochao.cn/)
-
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
@@ -463,6 +449,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - claude-scientific-skills: https://github.com/K-Dense-AI/claude-scientific-skills
 - K-Dense BYOK: https://github.com/K-Dense-AI/k-dense-byok
 - latex-paper-skills: https://github.com/yunshenwuchuxun/latex-paper-skills
+- NeuriCo: https://github.com/ChicagoHAI/NeuriCo
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
