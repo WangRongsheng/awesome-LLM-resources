@@ -1036,6 +1036,7 @@ MCP工具聚合：
 13. [SkillHub](https://skillhub.tencent.com/#categories)
 14. [LabClaw](https://github.com/wu-yc/LabClaw)
 15. [Modelscope Skills](https://modelscope.cn/skills)
+16. [Agent Skill](https://agentskill.sh/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
