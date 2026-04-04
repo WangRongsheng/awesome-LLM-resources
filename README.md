@@ -120,7 +120,7 @@
 44. [Chandra](https://github.com/datalab-to/chandra): a highly accurate OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information.
 45. [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR): a leading end-to-end OCR expert VLM powered by Hunyuan's native multimodal architecture.
 46. [DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2): Visual Causal Flow.
-47. [PaddleOCR-VL-1.5](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5): Towards a Multi-Task 0.9B VLM for Robust In-the-Wild Document Parsing.
+47. [PaddleOCR-VL-1.5 (`🔥`)](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5): Towards a Multi-Task 0.9B VLM for Robust In-the-Wild Document Parsing.
 48. [GLM-OCR](https://huggingface.co/zai-org/GLM-OCR): a multimodal OCR model for complex document understanding, built on the GLM-V encoder–decoder architecture.
 
 <div align="right">
@@ -131,7 +131,7 @@
 
 1. [LLaMA-Factory (`🔥`)](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs.
 2. [360-LLaMA-Factory](https://github.com/Qihoo360/360-LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs. (add Sequence Parallelism for supporting long context training)
-4. [unsloth](https://github.com/unslothai/unsloth): 2-5X faster 80% less memory LLM finetuning.
+4. [unsloth (`🔥`)](https://github.com/unslothai/unsloth): 2-5X faster 80% less memory LLM finetuning.
 5. [TRL](https://huggingface.co/docs/trl/index): Transformer Reinforcement Learning.
 6. [Firefly](https://github.com/yangjianxin1/Firefly): Firefly: 大模型训练工具，支持训练数十种大模型
 7. [Xtuner](https://github.com/InternLM/xtuner): An efficient, flexible and full-featured toolkit for fine-tuning large models.
@@ -164,7 +164,7 @@
 34. [finetune-Qwen2-VL](https://github.com/zhangfaen/finetune-Qwen2-VL): Quick Start for Fine-tuning or continue pre-train Qwen2-VL Model.
 35. [Online-RLHF](https://github.com/RLHFlow/Online-RLHF): A recipe for online RLHF and online iterative DPO.
 36. [InternEvo](https://github.com/InternLM/InternEvo): an open-sourced lightweight training framework aims to support model pre-training without the need for extensive dependencies.
-37. [veRL](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLM.
+37. [veRL (`🔥`)](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLM.
 38. [Axolotl](https://axolotl-ai-cloud.github.io/axolotl/): Axolotl is designed to work with YAML config files that contain everything you need to preprocess a dataset, train or fine-tune a model, run model inference or evaluation, and much more.
 39. [Oumi](https://github.com/oumi-ai/oumi): Everything you need to build state-of-the-art foundation models, end-to-end.
 40. [Kiln](https://github.com/Kiln-AI/Kiln): The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
@@ -173,12 +173,11 @@
 43. [RL-Factory](https://github.com/Simple-Efficient/RL-Factory): Train your Agent model via our easy and efficient framework.
 44. [RM-Gallery](https://github.com/modelscope/RM-Gallery): A One-Stop Reward Model Platform.
 45. [ART](https://github.com/OpenPipe/ART): rain multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training.
-46. [VeRL (`🔥`)](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLMs.
-47. [LMMs-Engine](https://github.com/EvolvingLMMs-Lab/lmms-engine): A simple, any-to-any modality framework for pretraining and finetuning. Lean, flexible, and built for research.
-48. [dLLM](https://github.com/ZHZisZZ/dllm): a library that unifies the training and evaluation of diffusion language models, bringing transparency and reproducibility to the entire development pipeline. `diffusion`
-49. [Miles](https://github.com/radixark/miles): an enterprise-facing reinforcement learning framework for large-scale MoE post-training and production workloads.
-50. [Skills](https://github.com/NVIDIA-NeMo/Skills): a collection of pipelines to improve "skills" of large language models (LLMs).
-51. [Twinkle](https://github.com/modelscope/twinkle): a lightweight, client-server training framework engineered with modular, high-cohesion interfaces.
+46. [LMMs-Engine](https://github.com/EvolvingLMMs-Lab/lmms-engine): A simple, any-to-any modality framework for pretraining and finetuning. Lean, flexible, and built for research.
+47. [dLLM](https://github.com/ZHZisZZ/dllm): a library that unifies the training and evaluation of diffusion language models, bringing transparency and reproducibility to the entire development pipeline. `diffusion`
+48. [Miles](https://github.com/radixark/miles): an enterprise-facing reinforcement learning framework for large-scale MoE post-training and production workloads.
+49. [Skills](https://github.com/NVIDIA-NeMo/Skills): a collection of pipelines to improve "skills" of large language models (LLMs).
+50. [Twinkle](https://github.com/modelscope/twinkle): a lightweight, client-server training framework engineered with modular, high-cohesion interfaces.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -186,9 +185,9 @@
 
 ## Agentic RL
 
-- veRL: https://github.com/volcengine/verl
+- veRL (`🔥`): https://github.com/volcengine/verl
 - AReaL: https://github.com/inclusionAI/AReaL
-- slime: https://github.com/THUDM/slime
+- slime (`🔥`): https://github.com/THUDM/slime
 - Agent Lightning: https://github.com/microsoft/agent-lightning
 
 <div align="right">
@@ -197,7 +196,7 @@
 
 ## 推理 Inference
 
-1. [ollama](https://github.com/ollama/ollama): Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+1. [ollama (`🔥`)](https://github.com/ollama/ollama): Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 2. [Open WebUI](https://github.com/open-webui/open-webui): User-friendly WebUI for LLMs (Formerly Ollama WebUI).
 3. [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 4. [Xinference](https://github.com/xorbitsai/inference): A powerful and versatile library designed to serve language, speech recognition, and multimodal models.
@@ -208,7 +207,7 @@
 9. [vllm (`🔥`)](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs.
 10. [LlamaChat](https://github.com/alexrozanski/LlamaChat): Chat with your favourite LLaMA models in a native macOS app.
 11. [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/): ChatRTX is a demo app that lets you personalize a GPT large language model (LLM) connected to your own content—docs, notes, or other data.
-12. [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs.
+12. [LM Studio (`🔥`)](https://lmstudio.ai/): Discover, download, and run local LLMs.
 13. [chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx): Chat with your data natively on Apple Silicon using MLX Framework.
 14. [LLM Pricing](https://llmpricecheck.com/): Quickly Find the Perfect Large Language Models (LLM) API for Your Budget! Use Our Free Tool for Instant Access to the Latest Prices from Top Providers.
 15. [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter): A natural language interface for computers.
@@ -229,7 +228,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 29. [AirLLM](https://github.com/lyogavin/airllm): AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run 405B Llama3.1 on 8GB vram now.
 30. [LLMHub](https://github.com/jmather/llmhub): LLMHub is a lightweight management platform designed to streamline the operation and interaction with various language models (LLMs).
 31. [YuanChat](https://github.com/IEIT-Yuan/YuanChat)
-32. [LiteLLM](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
+32. [LiteLLM (`🔥`)](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
 33. [GuideLLM](https://github.com/neuralmagic/guidellm): GuideLLM is a powerful tool for evaluating and optimizing the deployment of large language models (LLMs).
 34. [LLM-Engines](https://github.com/jdf-prog/LLM-Engines): A unified inference engine for large language models (LLMs) including open-source models (VLLM, SGLang, Together) and commercial models (OpenAI, Mistral, Claude).
 35. [OARC](https://github.com/Leoleojames1/ollama_agent_roll_cage): ollama_agent_roll_cage (OARC) is a local python agent fusing ollama llm's with Coqui-TTS speech models, Keras classifiers, Llava vision, Whisper recognition, and more to create a unified chatbot agent for local, custom automation.
@@ -246,7 +245,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 46. [SkyPilot](https://github.com/skypilot-org/skypilot): Run AI and batch jobs on any infra (Kubernetes or 14+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 47. [Chitu](https://github.com/thu-pacman/chitu): High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 48. [TokenSwift](https://github.com/bigai-nlco/TokenSwift): From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation.
-49. [Cherry Studio](https://github.com/CherryHQ/cherry-studio): a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
+49. [Cherry Studio (`🔥`)](https://github.com/CherryHQ/cherry-studio): a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
 50. [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy): Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.
 51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
 52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
@@ -260,7 +259,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 ## 评估 Evaluation
 
 1. [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
-2. [opencompass](https://github.com/open-compass/opencompass): OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
+2. [opencompass (`🔥`)](https://github.com/open-compass/opencompass): OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 3. [llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed.
 4. [EvalScope (`🔥`)](https://github.com/modelscope/evalscope)
 5. [Weave](https://weave-docs.wandb.ai/guides/core-types/evaluations): A lightweight toolkit for tracking and evaluating LLM applications.
@@ -388,10 +387,6 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 50. [Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent): A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks.
 51. [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
 
-#### OpenClaw-Style
-
-1. NEXU: https://github.com/nexu-io/nexu
-
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
@@ -469,7 +464,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 10. [Roo Code](https://github.com/RooCodeInc/Roo-Code)
 11. [Kilo Code](https://github.com/Kilo-Org/kilocode)
 12. [AugmentCode](https://www.augmentcode.com/)
-13. [Claude Code](https://github.com/anthropics/claude-code)
+13. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code)
 14. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 15. [Serena](https://github.com/oraios/serena)
 16. [Claudia](https://github.com/getAsterisk/claudia)
@@ -477,7 +472,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 18. [Kiro](https://kiro.dev/)
 19. [CodeBuddy](https://copilot.tencent.com/)
 20. [Kiro](https://kiro.dev/)
-21. [CodeX](https://github.com/openai/codex)
+21. [CodeX (`🔥`)](https://github.com/openai/codex)
 22. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 23. [opencode](https://github.com/anomalyco/opencode)
 
@@ -528,7 +523,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - https://github.com/hao-ai-lab/FastVideo
 - https://github.com/tdrussell/diffusion-pipe
 - https://github.com/VideoVerses/VideoTuna
-- https://github.com/modelscope/DiffSynth-Studio
+- (`🔥`) https://github.com/modelscope/DiffSynth-Studio
 - https://github.com/huggingface/diffusers
 - https://github.com/kohya-ss/musubi-tuner
 - https://github.com/spacepxl/HunyuanVideo-Training
@@ -591,7 +586,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Ostris：https://github.com/ostris/ai-toolkit
 - FlymyAI：https://github.com/FlyMyAI/flymyai-lora-trainer
 - Nitro-T：https://github.com/AMD-AGI/Nitro-T
-- DiffSynth-Studio：https://github.com/modelscope/DiffSynth-Studio
+- (`🔥`) DiffSynth-Studio：https://github.com/modelscope/DiffSynth-Studio
 - Musubi Tuner: https://github.com/kohya-ss/musubi-tuner
 - SimpleTuner: https://github.com/bghira/SimpleTuner
 - MS Training: https://www.modelscope.cn/aigc/modelTraining
@@ -685,6 +680,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 1. MultiUserClaw: https://github.com/johnson7788/MultiUserClaw
 2. ClawManager: https://github.com/Yuan-lab-LLM/ClawManager
 3. Qclaw: https://github.com/qiuzhi2046/Qclaw
+4. NEXU: https://github.com/nexu-io/nexu
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
