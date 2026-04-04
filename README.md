@@ -18,34 +18,34 @@
 
 #### Contents
 
-- [推荐 Suggestion](#推荐-Suggestion)
+- [推荐 Suggestion](#推荐-Suggestion) 🌟
 - [数据 Data](#数据-Data)
-- [微调 Fine-Tuning](#微调-Fine-Tuning)
-- [Agentic RL](#Agentic-RL)
+- [微调 Fine-Tuning](#微调-Fine-Tuning) 🌟
+- [Agentic RL](#Agentic-RL) 🌟
 - [推理 Inference](#推理-Inference)
 - [评估 Evaluation](#评估-Evaluation)
 - [体验 Usage](#体验-Usage)
 - [知识库 RAG](#知识库-RAG)
 - [智能体 Agents](#智能体-Agents)
-- [研究 Research](#研究-Research)
+- [研究 Research](#研究-Research) 🔥
 - [代码 Coding](#代码-Coding)
-- [视频 Video](#视频-Video)
-- [图片 Image](#图片-Image)
+- [视频 Video](#视频-Video) 🌟
+- [图片 Image](#图片-Image) 🌟
 - [搜索 Search](#搜索-Search)
-- [语音 Speech](#语音-Speech)
-- [龙虾 OpenClaw](#龙虾-OpenClaw)
-- [统一模型 Unified Model](#统一模型-Unified-Model)
+- [语音 Speech](#语音-Speech) 🌟
+- [龙虾 OpenClaw](#龙虾-OpenClaw) 🔥
+- [统一模型 Unified Model](#统一模型-Unified-Model) 🌟
 - [书籍 Book](#书籍-Book)
 - [课程 Course](#课程-Course)
 - [教程 Tutorial](#教程-Tutorial)
 - [论文 Paper](#论文-Paper)
 - [社区 Community](#社区-Community)
 - [模型上下文协议 MCP](#模型上下文协议-MCP)
-- [技能 Skills](#技能-Skills)
+- [技能 Skills](#技能-Skills) 🔥
 - [推理 Open o1](#推理-Open-o1)
 - [推理 Open o3](#推理-Open-o3)
-- [小语言模型 Small Language Model](#小语言模型-Small-Language-Model)
-- [小多模态模型 Small Vision Language Model](#小多模态模型-Small-Vision-Language-Model)
+- [小语言模型 Small Language Model](#小语言模型-Small-Language-Model) 🌟
+- [小多模态模型 Small Vision Language Model](#小多模态模型-Small-Vision-Language-Model) 🌟
 - [技巧 Tips](#技巧-tips)
 
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
