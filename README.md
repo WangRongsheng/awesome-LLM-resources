@@ -446,6 +446,9 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - K-Dense BYOK: https://github.com/K-Dense-AI/k-dense-byok
 - latex-paper-skills: https://github.com/yunshenwuchuxun/latex-paper-skills
 - NeuriCo: https://github.com/ChicagoHAI/NeuriCo
+- AutoResearch : https://github.com/karpathy/autoresearch
+- RD-Agent : https://github.com/microsoft/RD-Agent
+- DeepScientist : https://github.com/ResearAI/DeepScientist
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
