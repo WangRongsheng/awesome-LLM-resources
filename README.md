@@ -194,6 +194,7 @@
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ## 推理 Inference
 
 1. [ollama (`🔥`)](https://github.com/ollama/ollama): Get up and running with Llama 3, Mistral, Gemma, and other large language models.
