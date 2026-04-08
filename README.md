@@ -450,6 +450,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - AutoResearch : https://github.com/karpathy/autoresearch
 - RD-Agent : https://github.com/microsoft/RD-Agent
 - DeepScientist : https://github.com/ResearAI/DeepScientist
+- Deep Researcher Agent: https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
