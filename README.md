@@ -429,6 +429,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
   - FigureWeave: https://github.com/Krisocer/FigureWeave
   - EditDeck: https://github.com/Morgensonne/EditDeck
 - AutoFigure-Edit: https://github.com/ResearAI/AutoFigure-Edit
+- Academic Figure Generator: https://github.com/LigphiDonk/academic-figure-generator
 
 #### 全自动科研
 
