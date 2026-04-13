@@ -484,6 +484,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 22. [CodeX (`🔥`)](https://github.com/openai/codex)
 23. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 24. [opencode](https://github.com/anomalyco/opencode)
+25. [Multica](https://github.com/multica-ai/multica)
 
 
 <div align="right">
