@@ -1047,6 +1047,7 @@ MCP工具聚合：
 14. [LabClaw](https://github.com/wu-yc/LabClaw)
 15. [Modelscope Skills](https://modelscope.cn/skills)
 16. [Agent Skill](https://agentskill.sh/)
+17. [mmx-cli](https://github.com/MiniMax-AI/cli)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
