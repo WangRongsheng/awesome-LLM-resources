@@ -547,6 +547,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - https://github.com/thu-ml/TurboDiffusion
 
 #### 实用工具
+- [Formatho Tools](https://formatho.com/Tools): 100+ privacy-first developer utilities. All client-side processing, no signup. [awesome-ai-tools](https://github.com/formatho/awesome-ai-tools)
 
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect): Python and OpenCV-based scene cut/transition detection program & library.
 - [DOVER](https://github.com/VQAssessment/DOVER): Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.
