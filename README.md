@@ -550,6 +550,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect): Python and OpenCV-based scene cut/transition detection program & library.
 - [DOVER](https://github.com/VQAssessment/DOVER): Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
