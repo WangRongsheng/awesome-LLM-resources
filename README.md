@@ -569,6 +569,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Qwen-Image：https://huggingface.co/Qwen/Qwen-Image
 - Qwen-Image-2512：https://huggingface.co/Qwen/Qwen-Image-2512
 - Z-Image：https://huggingface.co/Tongyi-MAI/Z-Image
+- ERNIE-Image: https://huggingface.co/baidu/ERNIE-Image
+  - ERNIE-Image-Turbo: https://huggingface.co/Baidu/ERNIE-Image-Turbo
 
 #### 编辑
 
