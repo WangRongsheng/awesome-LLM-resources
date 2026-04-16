@@ -626,6 +626,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. [nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI): The simplest open-source implementation of perplexity.ai.
 4. [curiosity](https://github.com/jank/curiosity): Try to build a Perplexity-like user experience.
 5. [MiniPerplx](https://github.com/zaidmukaddam/miniperplx): A minimalistic AI-powered search engine that helps you find information on the internet.
+6. [Not Human Search](https://nothumansearch.ai): Search engine for AI agents indexing 9,000+ AI tools and APIs by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic discovery.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
