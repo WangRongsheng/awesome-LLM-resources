@@ -55,6 +55,8 @@
 #### Podcast
 
 - [A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42](https://www.youtube.com/watch?v=rIwgZWzUKm8)
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast](https://www.bilibili.com/video/BV1darmBcE4A?vd_source=c739db1ebdd361d47af5a0b8497417db)
 - [Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去](https://www.bilibili.com/video/BV14eiQBmEbN/?spm_id_from=333.1387.upload.video_card.click)
 - [MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越](https://www.bilibili.com/video/BV11NmtBzE36/?spm_id_from=333.1387.upload.video_card.click&vd_source=c739db1ebdd361d47af5a0b8497417db)
