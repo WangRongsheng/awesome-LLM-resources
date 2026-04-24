@@ -54,6 +54,7 @@
 
 #### Podcast
 
+- [Luo Fuli: OpenClaw, Agent Frameworks — The AI Paradigm Has Already Changed Dramatically!](https://www.youtube.com/watch?v=V9eI-t3TApE)
 - [A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42](https://www.youtube.com/watch?v=rIwgZWzUKm8)
 - [翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast](https://www.bilibili.com/video/BV1darmBcE4A?vd_source=c739db1ebdd361d47af5a0b8497417db)
 - [Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去](https://www.bilibili.com/video/BV14eiQBmEbN/?spm_id_from=333.1387.upload.video_card.click)
