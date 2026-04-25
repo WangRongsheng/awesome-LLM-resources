@@ -252,6 +252,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
 52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
 53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
+54. [Vekil](https://github.com/sozercan/vekil): Go reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs behind one local endpoint, with multi-provider routing across GitHub Copilot, Azure OpenAI, and OpenAI Codex.
 
 
 <div align="right">
