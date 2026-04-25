@@ -54,6 +54,8 @@
 
 #### Podcast
 
+- [张驰: A Year Inside ByteDance's AI Lab](https://changche.substack.com/p/a-year-inside-bytedances-ai-lab)
+- [Luo Fuli: OpenClaw, Agent Frameworks — The AI Paradigm Has Already Changed Dramatically!](https://www.youtube.com/watch?v=V9eI-t3TApE)
 - [A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42](https://www.youtube.com/watch?v=rIwgZWzUKm8)
 - [翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast](https://www.bilibili.com/video/BV1darmBcE4A?vd_source=c739db1ebdd361d47af5a0b8497417db)
 - [Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去](https://www.bilibili.com/video/BV14eiQBmEbN/?spm_id_from=333.1387.upload.video_card.click)
@@ -178,6 +180,7 @@
 48. [Miles](https://github.com/radixark/miles): an enterprise-facing reinforcement learning framework for large-scale MoE post-training and production workloads.
 49. [Skills](https://github.com/NVIDIA-NeMo/Skills): a collection of pipelines to improve "skills" of large language models (LLMs).
 50. [Twinkle](https://github.com/modelscope/twinkle): a lightweight, client-server training framework engineered with modular, high-cohesion interfaces.
+51. [NeMo AutoModel](https://github.com/NVIDIA-NeMo/Automodel): Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -387,6 +390,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 49. [Nexent](https://github.com/ModelEngine-Group/nexent): A zero-code platform for auto-generating agents — no orchestration, no complex drag-and-drop required, using pure language to develop any agent you want.
 50. [Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent): A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks.
 51. [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
+52. [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Self-hostable multi-agent orchestration with remote AI workstations (AgentPods), PTY sandbox + git worktree isolation, channels-based agent collaboration, built-in Kanban, and per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -431,6 +435,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
   - EditDeck: https://github.com/Morgensonne/EditDeck
 - AutoFigure-Edit: https://github.com/ResearAI/AutoFigure-Edit
 - Kahneman4Review: https://huggingface.co/spaces/nuojohnchen/Kahneman4Review
+- Academic Figure Generator: https://github.com/LigphiDonk/academic-figure-generator
 
 #### 全自动科研
 
@@ -453,6 +458,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - RD-Agent : https://github.com/microsoft/RD-Agent
 - DeepScientist : https://github.com/ResearAI/DeepScientist
 - Deep Researcher Agent: https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7
+- academic-research-skills: https://github.com/Imbad0202/academic-research-skills
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -473,16 +479,18 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 11. [Kilo Code](https://github.com/Kilo-Org/kilocode)
 12. [AugmentCode](https://www.augmentcode.com/)
 13. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code)
-14. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
-15. [Serena](https://github.com/oraios/serena)
-16. [Claudia](https://github.com/getAsterisk/claudia)
-17. [OpenCode](https://github.com/opencode-ai/opencode)
-18. [Kiro](https://kiro.dev/)
-19. [CodeBuddy](https://copilot.tencent.com/)
-20. [Kiro](https://kiro.dev/)
-21. [CodeX (`🔥`)](https://github.com/openai/codex)
-22. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
-23. [opencode](https://github.com/anomalyco/opencode)
+14. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code) + [Happy Coder](https://github.com/slopus/happy) / [CodePilot](https://github.com/op7418/CodePilot)
+15. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+16. [Serena](https://github.com/oraios/serena)
+17. [Claudia](https://github.com/getAsterisk/claudia)
+18. [OpenCode](https://github.com/opencode-ai/opencode)
+19. [Kiro](https://kiro.dev/)
+20. [CodeBuddy](https://copilot.tencent.com/)
+21. [Kiro](https://kiro.dev/)
+22. [CodeX (`🔥`)](https://github.com/openai/codex)
+23. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
+24. [opencode](https://github.com/anomalyco/opencode)
+25. [Multica](https://github.com/multica-ai/multica)
 
 
 <div align="right">
@@ -567,6 +575,9 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Qwen-Image：https://huggingface.co/Qwen/Qwen-Image
 - Qwen-Image-2512：https://huggingface.co/Qwen/Qwen-Image-2512
 - Z-Image：https://huggingface.co/Tongyi-MAI/Z-Image
+- ERNIE-Image: https://huggingface.co/baidu/ERNIE-Image
+  - ERNIE-Image-Turbo: https://huggingface.co/Baidu/ERNIE-Image-Turbo
+- Nucleus-Image: https://huggingface.co/NucleusAI/Nucleus-Image
 
 #### 编辑
 
@@ -1045,6 +1056,7 @@ MCP工具聚合：
 14. [LabClaw](https://github.com/wu-yc/LabClaw)
 15. [Modelscope Skills](https://modelscope.cn/skills)
 16. [Agent Skill](https://agentskill.sh/)
+17. [mmx-cli](https://github.com/MiniMax-AI/cli)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
