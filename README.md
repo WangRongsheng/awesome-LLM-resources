@@ -544,6 +544,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - https://github.com/Tele-AI/TeleTron
 - https://github.com/Yaofang-Liu/Mochi-Full-Finetuner
 - https://github.com/bghira/SimpleTuner
+- https://github.com/X-GenGroup/Flow-Factory
 
 #### 推理
 
@@ -610,6 +611,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Finetune HunyuanImage-3.0: https://github.com/PhotonAISG/hunyuan-image3-finetune
 - OneTrainer: https://github.com/Nerogar/OneTrainer
 - Finetune LongCat-Image and Edit: https://github.com/meituan-longcat/LongCat-Image/tree/main/train_examples
+- https://github.com/X-GenGroup/Flow-Factory
 
 #### 评估
 
