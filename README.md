@@ -253,6 +253,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
 52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
 53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
+54. [TokenMix](https://tokenmix.ai): One API key for GPT-5, Claude, Gemini, DeepSeek and 155+ LLMs through an OpenAI-compatible endpoint. Open-source SDKs in 10+ languages.
 
 
 <div align="right">
