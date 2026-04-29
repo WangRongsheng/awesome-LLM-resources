@@ -13,6 +13,10 @@
 
 > [!TIP]
 > 如果您对**医疗数据集/大模型/多模态/评估相关资源感兴趣**！请访问我们的 🤗 [Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) !
+> 
+> 如果您希望赞助此项目，欢迎邮件联系：**wrs6@88.com**
+> 
+> 赞助项目会被置顶显示在该仓库！
 
 ---
 
