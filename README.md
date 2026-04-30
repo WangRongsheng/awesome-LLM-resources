@@ -675,6 +675,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 27. GLM-TTS: https://github.com/zai-org/GLM-TTS
 28. Fun-CosyVoice3: https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512
 29. Qwen3-TTS:https://huggingface.co/collections/Qwen/qwen3-tts
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — AI monitoring dashboard for AI agents and LLMs (Vue3 + Node.js, open source). [![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)](https://github.com/flik2002/openclaw-monitor-frontend)
+
 30. Ming-Omni-TTS: https://github.com/inclusionAI/Ming-omni-tts
 31. VoxCPM2: https://huggingface.co/openbmb/VoxCPM2
 
