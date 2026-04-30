@@ -787,6 +787,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - InternVL-U: https://github.com/OpenGVLab/InternVL-U
 - LongCat-Next: https://github.com/meituan-longcat/LongCat-Next
 - SenseNova-U1: https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-SFT
+- TUNA-2: https://github.com/facebookresearch/tuna-2
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
