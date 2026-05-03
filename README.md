@@ -335,6 +335,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 33. [XRAG](https://github.com/DocAILab/XRAG): a benchmarking framework designed to evaluate the foundational components of advanced Retrieval-Augmented Generation (RAG) systems.
 34. [Rankify](https://github.com/DataScienceUIBK/rankify): A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation.
 35. [RAG-Anything](https://github.com/HKUDS/RAG-Anything): All-in-One RAG System.
+36. [Korean RAG SSOT Golden 50](https://huggingface.co/datasets/neogenesislab/korean-rag-ssot-golden-50): Bilingual ko/en RAG retrieval golden set of 50 tasks across 5 categories (rag design, quant, governance, security/PII, ops) with 5 evaluation metrics including credential-leak-rate and injection-quarantine-recall — useful for Korean RAG retrieval and security-eval benchmarking.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
