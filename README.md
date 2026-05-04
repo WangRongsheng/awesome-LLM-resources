@@ -1036,6 +1036,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [memtrace](https://github.com/syncable-dev/memtrace-public)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
