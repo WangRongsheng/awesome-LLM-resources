@@ -1251,6 +1251,7 @@ MCP工具聚合：
 22. https://github.com/Alic-Li/Mini_RWKV_7
 23. https://huggingface.co/Nanbeige/Nanbeige4-3B-Thinking-2511 `23T tokens预训练模型`
 24. https://github.com/stepfun-ai/SteptronOss
+25. https://github.com/huggingface/nanowhale
 
 
 <div align="right">
@@ -1273,6 +1274,7 @@ MCP工具聚合：
 12. https://github.com/ritabratamaiti/AnyModal
 13. https://github.com/yujunhuics/Reyes
 14. https://github.com/Victorwz/Open-Qwen2VL
+15. https://github.com/jingyaogong/minimind-o
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
