@@ -677,6 +677,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 29. Qwen3-TTS:https://huggingface.co/collections/Qwen/qwen3-tts
 30. Ming-Omni-TTS: https://github.com/inclusionAI/Ming-omni-tts
 31. VoxCPM2: https://huggingface.co/openbmb/VoxCPM2
+32. OmniVoice: https://github.com/k2-fsa/OmniVoice
 
 #### STT/ASR
 
