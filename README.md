@@ -58,6 +58,7 @@
 
 #### Podcast
 
+- [140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去](https://www.youtube.com/watch?v=Gk_KUg3qED0)
 - [张驰: A Year Inside ByteDance's AI Lab](https://changche.substack.com/p/a-year-inside-bytedances-ai-lab)
 - [Luo Fuli: OpenClaw, Agent Frameworks — The AI Paradigm Has Already Changed Dramatically!](https://www.youtube.com/watch?v=V9eI-t3TApE)
 - [A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42](https://www.youtube.com/watch?v=rIwgZWzUKm8)
