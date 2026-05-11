@@ -605,6 +605,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - https://huggingface.co/black-forest-labs/FLUX.2-klein-4B
   - https://huggingface.co/black-forest-labs/FLUX.2-klein-9B
 - DreamLite: https://github.com/ByteVisionLab/DreamLite
+- SenseNova-U1: https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-SFT
 
 #### 训练
 
