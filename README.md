@@ -438,6 +438,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
   - EditDeck: https://github.com/Morgensonne/EditDeck
 - AutoFigure-Edit: https://github.com/ResearAI/AutoFigure-Edit
 - Academic Figure Generator: https://github.com/LigphiDonk/academic-figure-generator
+- Paper PPT Agent: https://github.com/CRui5in/paper-ppt-agent
+- PPT Master: https://github.com/hugohe3/ppt-master
 
 #### 全自动科研
 
