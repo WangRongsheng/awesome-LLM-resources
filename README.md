@@ -485,7 +485,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 11. [Kilo Code](https://github.com/Kilo-Org/kilocode)
 12. [AugmentCode](https://www.augmentcode.com/)
 13. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code)
-14. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code) + [Happy Coder](https://github.com/slopus/happy) / [CodePilot](https://github.com/op7418/CodePilot)
+14. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code) + [Happy Coder](https://github.com/slopus/happy) / [CodePilot](https://github.com/op7418/CodePilot) / [cc-connect](https://github.com/chenhg5/cc-connect)
 15. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 16. [Serena](https://github.com/oraios/serena)
 17. [Claudia](https://github.com/getAsterisk/claudia)
