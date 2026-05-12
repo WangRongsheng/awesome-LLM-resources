@@ -218,46 +218,47 @@
 12. [LM Studio (`🔥`)](https://lmstudio.ai/): Discover, download, and run local LLMs.
 13. [chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx): Chat with your data natively on Apple Silicon using MLX Framework.
 14. [LLM Pricing](https://llmpricecheck.com/): Quickly Find the Perfect Large Language Models (LLM) API for Your Budget! Use Our Free Tool for Instant Access to the Latest Prices from Top Providers.
-15. [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter): A natural language interface for computers.
-16. [Chat-ollama](https://github.com/sugarforever/chat-ollama): An open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
-17. [chat-ui](https://github.com/huggingface/chat-ui): Open source codebase powering the HuggingChat app.
-18. [MemGPT](https://github.com/cpacker/MemGPT): Create LLM agents with long-term memory and custom tools.
-19. [koboldcpp](https://github.com/LostRuins/koboldcpp): A simple one-file way to run various GGML and GGUF models with KoboldAI's UI.
-20. [LLMFarm](https://github.com/guinmoon/LLMFarm): llama and other large language models on iOS and MacOS offline using GGML library.
-21. [enchanted](https://github.com/AugustDev/enchanted): Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
-22. [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow.
-23. [Jan](https://github.com/janhq/jan): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM).
-24. [LMDeploy](https://github.com/InternLM/lmdeploy): LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
-25. [RouteLLM](https://github.com/lm-sys/RouteLLM): A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
-26. [MInference](https://github.com/microsoft/MInference): About
+15. [llm-prices](https://github.com/benbencodes/llm-prices): Zero-dependency CLI and Python library to compare LLM API costs across 185 models and 25 providers (OpenAI, Anthropic, Google, Mistral, Groq, xAI, DeepSeek, and more). Works offline — pricing data is baked in. Also available as an MCP server for use with Claude Code and Cursor.
+16. [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter): A natural language interface for computers.
+17. [Chat-ollama](https://github.com/sugarforever/chat-ollama): An open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
+18. [chat-ui](https://github.com/huggingface/chat-ui): Open source codebase powering the HuggingChat app.
+19. [MemGPT](https://github.com/cpacker/MemGPT): Create LLM agents with long-term memory and custom tools.
+20. [koboldcpp](https://github.com/LostRuins/koboldcpp): A simple one-file way to run various GGML and GGUF models with KoboldAI's UI.
+21. [LLMFarm](https://github.com/guinmoon/LLMFarm): llama and other large language models on iOS and MacOS offline using GGML library.
+22. [enchanted](https://github.com/AugustDev/enchanted): Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+23. [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow.
+24. [Jan](https://github.com/janhq/jan): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM).
+25. [LMDeploy](https://github.com/InternLM/lmdeploy): LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
+26. [RouteLLM](https://github.com/lm-sys/RouteLLM): A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
+27. [MInference](https://github.com/microsoft/MInference): About
 To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.
-27. [Mem0](https://github.com/mem0ai/mem0): The memory layer for Personalized AI.
-28. [SGLang (`🔥`)](https://github.com/sgl-project/sglang): SGLang is yet another fast serving framework for large language models and vision language models.
-29. [AirLLM](https://github.com/lyogavin/airllm): AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run 405B Llama3.1 on 8GB vram now.
-30. [LLMHub](https://github.com/jmather/llmhub): LLMHub is a lightweight management platform designed to streamline the operation and interaction with various language models (LLMs).
-31. [YuanChat](https://github.com/IEIT-Yuan/YuanChat)
-32. [LiteLLM (`🔥`)](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
-33. [GuideLLM](https://github.com/neuralmagic/guidellm): GuideLLM is a powerful tool for evaluating and optimizing the deployment of large language models (LLMs).
-34. [LLM-Engines](https://github.com/jdf-prog/LLM-Engines): A unified inference engine for large language models (LLMs) including open-source models (VLLM, SGLang, Together) and commercial models (OpenAI, Mistral, Claude).
-35. [OARC](https://github.com/Leoleojames1/ollama_agent_roll_cage): ollama_agent_roll_cage (OARC) is a local python agent fusing ollama llm's with Coqui-TTS speech models, Keras classifiers, Llava vision, Whisper recognition, and more to create a unified chatbot agent for local, custom automation.
-36. [g1](https://github.com/bklieger-groq/g1): Using Llama-3.1 70b on Groq to create o1-like reasoning chains.
-37. [MemoryScope](https://github.com/modelscope/MemoryScope): MemoryScope provides LLM chatbots with powerful and flexible long-term memory capabilities, offering a framework for building such abilities.
-38. [OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
-39. [Infinity](https://github.com/infiniflow/infinity): The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor and full-text.
-40. [optillm](https://github.com/codelion/optillm): an OpenAI API compatible optimizing inference proxy which implements several state-of-the-art techniques that can improve the accuracy and performance of LLMs.
-41. [LLaMA Box](https://github.com/gpustack/llama-box): LLM inference server implementation based on llama.cpp.
-42. [ZhiLight](https://github.com/zhihu/ZhiLight): A highly optimized inference acceleration engine for Llama and its variants.
-43. [DashInfer](https://github.com/modelscope/dash-infer): DashInfer is a native LLM inference engine aiming to deliver industry-leading performance atop various hardware architectures.
-44. [LocalAI](https://github.com/mudler/LocalAI): The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required.
-45. [ktransformers](https://github.com/kvcache-ai/ktransformers): A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations.
-46. [SkyPilot](https://github.com/skypilot-org/skypilot): Run AI and batch jobs on any infra (Kubernetes or 14+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
-47. [Chitu](https://github.com/thu-pacman/chitu): High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
-48. [TokenSwift](https://github.com/bigai-nlco/TokenSwift): From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation.
-49. [Cherry Studio (`🔥`)](https://github.com/CherryHQ/cherry-studio): a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
-50. [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy): Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.
-51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
-52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
-53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
+28. [Mem0](https://github.com/mem0ai/mem0): The memory layer for Personalized AI.
+29. [SGLang (`🔥`)](https://github.com/sgl-project/sglang): SGLang is yet another fast serving framework for large language models and vision language models.
+30. [AirLLM](https://github.com/lyogavin/airllm): AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run 405B Llama3.1 on 8GB vram now.
+31. [LLMHub](https://github.com/jmather/llmhub): LLMHub is a lightweight management platform designed to streamline the operation and interaction with various language models (LLMs).
+32. [YuanChat](https://github.com/IEIT-Yuan/YuanChat)
+33. [LiteLLM (`🔥`)](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
+34. [GuideLLM](https://github.com/neuralmagic/guidellm): GuideLLM is a powerful tool for evaluating and optimizing the deployment of large language models (LLMs).
+35. [LLM-Engines](https://github.com/jdf-prog/LLM-Engines): A unified inference engine for large language models (LLMs) including open-source models (VLLM, SGLang, Together) and commercial models (OpenAI, Mistral, Claude).
+36. [OARC](https://github.com/Leoleojames1/ollama_agent_roll_cage): ollama_agent_roll_cage (OARC) is a local python agent fusing ollama llm's with Coqui-TTS speech models, Keras classifiers, Llava vision, Whisper recognition, and more to create a unified chatbot agent for local, custom automation.
+37. [g1](https://github.com/bklieger-groq/g1): Using Llama-3.1 70b on Groq to create o1-like reasoning chains.
+38. [MemoryScope](https://github.com/modelscope/MemoryScope): MemoryScope provides LLM chatbots with powerful and flexible long-term memory capabilities, offering a framework for building such abilities.
+39. [OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
+40. [Infinity](https://github.com/infiniflow/infinity): The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor and full-text.
+41. [optillm](https://github.com/codelion/optillm): an OpenAI API compatible optimizing inference proxy which implements several state-of-the-art techniques that can improve the accuracy and performance of LLMs.
+42. [LLaMA Box](https://github.com/gpustack/llama-box): LLM inference server implementation based on llama.cpp.
+43. [ZhiLight](https://github.com/zhihu/ZhiLight): A highly optimized inference acceleration engine for Llama and its variants.
+44. [DashInfer](https://github.com/modelscope/dash-infer): DashInfer is a native LLM inference engine aiming to deliver industry-leading performance atop various hardware architectures.
+45. [LocalAI](https://github.com/mudler/LocalAI): The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required.
+46. [ktransformers](https://github.com/kvcache-ai/ktransformers): A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations.
+47. [SkyPilot](https://github.com/skypilot-org/skypilot): Run AI and batch jobs on any infra (Kubernetes or 14+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+48. [Chitu](https://github.com/thu-pacman/chitu): High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
+49. [TokenSwift](https://github.com/bigai-nlco/TokenSwift): From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation.
+50. [Cherry Studio (`🔥`)](https://github.com/CherryHQ/cherry-studio): a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
+51. [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy): Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.
+52. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
+53. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
+54. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 
 
 <div align="right">
