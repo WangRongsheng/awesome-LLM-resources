@@ -304,7 +304,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 1. [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm): The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.
 2. [MaxKB](https://github.com/1Panel-dev/MaxKB): 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统
 3. [RAGFlow](https://github.com/infiniflow/ragflow): An open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-4. [Dify](https://github.com/langgenius/dify): An open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+4. [Dakera](https://github.com/dakera-ai/dakera-deploy): Persistent memory layer for AI agents with hybrid BM25 + vector retrieval, temporal reasoning, and LangChain/LlamaIndex integrations for production RAG pipelines.
+5. [Dify](https://github.com/langgenius/dify): An open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 5. [FastGPT](https://github.com/labring/FastGPT): A knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization.
 6. [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat): 基于 Langchain 与 ChatGLM 等不同大语言模型的本地知识库问答
 7. [QAnything](https://github.com/netease-youdao/QAnything): Question and Answer based on Anything.
