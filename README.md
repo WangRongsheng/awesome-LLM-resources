@@ -194,6 +194,7 @@
 
 ## Agentic RL
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
 - veRL (`🔥`): https://github.com/volcengine/verl
 - AReaL: https://github.com/inclusionAI/AReaL
 - slime (`🔥`): https://github.com/THUDM/slime
