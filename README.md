@@ -418,6 +418,13 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - aiXiv: https://aixiv.science/
 - OpenJudge Review: https://openjudge.me/paper_review
 
+#### PPT
+
+- PPTAgent: https://github.com/icip-cas/PPTAgent
+- Paper PPT Agent: https://github.com/CRui5in/paper-ppt-agent
+- PPT Master: https://github.com/hugohe3/ppt-master
+- LandPPT: https://github.com/sligter/LandPPT
+
 #### 其他
 
 - Paper2Video: https://github.com/showlab/Paper2Video
@@ -433,15 +440,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - figures4papers: https://github.com/ChenLiu-1996/figures4papers
 - PaperBanana: https://github.com/dwzhu-pku/PaperBanana
 - PaperBanana-Pro: https://github.com/elpsykongloo/PaperBanana-Pro
-- PPTAgent: https://github.com/icip-cas/PPTAgent
 - AutoFigure: https://github.com/ResearAI/AutoFigure
   - FigureWeave: https://github.com/Krisocer/FigureWeave
   - EditDeck: https://github.com/Morgensonne/EditDeck
 - AutoFigure-Edit: https://github.com/ResearAI/AutoFigure-Edit
 - Academic Figure Generator: https://github.com/LigphiDonk/academic-figure-generator
-- Paper PPT Agent: https://github.com/CRui5in/paper-ppt-agent
-- PPT Master: https://github.com/hugohe3/ppt-master
-- LandPPT: https://github.com/sligter/LandPPT
+- PaperFit: https://github.com/OpenRaiser/PaperFit
 
 #### 全自动科研
 
