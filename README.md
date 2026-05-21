@@ -427,6 +427,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - LandPPT: https://github.com/sligter/LandPPT
 - Kami: https://github.com/tw93/kami
 - beautiful-html-templates: https://github.com/zarazhangrui/beautiful-html-templates
+- guizang-ppt-skill: https://github.com/op7418/guizang-ppt-skill
 
 #### 其他
 
