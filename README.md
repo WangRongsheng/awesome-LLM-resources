@@ -898,7 +898,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 55. [NanoChat](https://github.com/karpathy/nanochat): The best ChatGPT that $100 can buy.
 56. [斯坦福CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
 57. [awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh): 三语(英 / 繁中 / 简中)Agentic AI 阶段式学习地图,8 个阶段从 LLM 基础到 multi-agent,配动手练习,精选 145+ 个相关项目。MIT。
-58. 
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
