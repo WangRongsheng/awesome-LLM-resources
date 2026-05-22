@@ -255,6 +255,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
 52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
 53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
+54. [Auxen](https://auxen.ai): Managed private LLM endpoints. Provisions a per-customer dedicated GPU running an open-source model (Llama, Qwen, Mistral, Gemma, Mixtral, Phi, Command R) behind a stable OpenAI-compatible `/v1/chat/completions` URL. Per-minute pricing, no per-token billing.
 
 
 <div align="right">
