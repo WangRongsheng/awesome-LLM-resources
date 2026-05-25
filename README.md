@@ -539,6 +539,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 22. [LTX-2](https://huggingface.co/Lightricks/LTX-2)
     - [Training](https://github.com/Lightricks/LTX-2/blob/main/packages/ltx-trainer/README.md)
 23. [daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)
+24. [LongLive](https://github.com/NVlabs/LongLive)
 
 #### 编辑
 
