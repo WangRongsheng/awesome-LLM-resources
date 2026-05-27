@@ -183,6 +183,7 @@
 49. [Skills](https://github.com/NVIDIA-NeMo/Skills): a collection of pipelines to improve "skills" of large language models (LLMs).
 50. [Twinkle](https://github.com/modelscope/twinkle): a lightweight, client-server training framework engineered with modular, high-cohesion interfaces.
 51. [NeMo AutoModel](https://github.com/NVIDIA-NeMo/Automodel): Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support.
+52. [VeOmni](https://github.com/ByteDance-Seed/VeOmni): Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
