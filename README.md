@@ -1268,6 +1268,7 @@ MCP工具聚合：
 23. https://huggingface.co/Nanbeige/Nanbeige4-3B-Thinking-2511 `23T tokens预训练模型`
 24. https://github.com/stepfun-ai/SteptronOss
 25. https://github.com/huggingface/nanowhale
+26. https://github.com/OpenBMB/ForgeTrain
 
 
 <div align="right">
