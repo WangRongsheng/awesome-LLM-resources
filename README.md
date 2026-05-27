@@ -261,6 +261,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
+54. [Lynkr](https://github.com/Fast-Editor/Lynkr): Self-hosted LLM gateway and LiteLLM alternative (Node.js, Apache 2.0). Drop-in proxy for Claude Code, Cursor, Codex with tier-based routing, MCP Code Mode (~96% token reduction), Headroom compression, trajectory export across 12+ providers.
 ## 评估 Evaluation
 
 1. [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
