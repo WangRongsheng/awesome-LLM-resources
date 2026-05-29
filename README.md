@@ -560,6 +560,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - https://github.com/Yaofang-Liu/Mochi-Full-Finetuner
 - https://github.com/bghira/SimpleTuner
 - https://github.com/X-GenGroup/Flow-Factory
+- https://github.com/shengshu-ai/minWM `world model`
 
 #### 推理
 
