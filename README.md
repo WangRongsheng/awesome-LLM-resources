@@ -115,6 +115,7 @@
 35. [Dolphin](https://github.com/bytedance/Dolphin): Document Image Parsing via Heterogeneous Anchor Prompting.
 36. [EasyDistill](https://github.com/modelscope/easydistill): Easy Knowledge Distillation for Large Language Models.
 37. [ContextGem](https://github.com/shcherbak-ai/contextgem): a free, open-source LLM framework that makes it radically easier to extract structured data and insights from documents.
+38. [langchain-langgraph-langsmith-tutorial](https://github.com/estelledc/langchain-langgraph-langsmith-tutorial) - 给编程零基础选手的 LangChain 1.3.x 中文教程，4 周 14 篇 learning-by-doing；含 AI 辅助学习元教程（7 条 prompt 心法 + 任务卡结构）+ 6 处 1.3.x 破坏性变更修法实测。
 38. [OCRFlux](https://github.com/chatdoc-com/OCRFlux): a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content merging.
 39. [DataFlow](https://github.com/OpenDCAI/DataFlow): Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 40. [DatasetLoom (`multimodal`)](https://github.com/599yongyang/DatasetLoom): 一个面向多模态大模型训练的智能数据集构建与评估平台.
