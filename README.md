@@ -292,6 +292,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 1. [LM Arena](https://lmarena.ai/zh)
 2. [Design Arena](https://www.designarena.ai/)
+3. [Promptra](https://promptra.ru/): OpenAI-compatible gateway for Claude, GPT, Gemini, DeepSeek, Qwen and other LLMs. Russian-market focused.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
