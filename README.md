@@ -1017,6 +1017,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 58. [Olmo3](https://www.datocms-assets.com/64837/1763646865-olmo_3_technical_report-1.pdf): Charting a path through the model flow to lead open-source AI. [Website](https://allenai.org/blog/olmo3)
 59. [OpenMMReasoner](https://arxiv.org/abs/2511.16334)
 60. [Qwen3-VL Technical Report](https://arxiv.org/pdf/2511.21631)
+61. [LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard](https://arxiv.org/abs/2504.13125) `Finance`
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
