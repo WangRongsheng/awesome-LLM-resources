@@ -542,6 +542,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. [daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)
 24. [LongLive](https://github.com/NVlabs/LongLive)
 25. [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
+26. [NAVA](https://huggingface.co/baidu/NAVA)
 
 #### 编辑
 
