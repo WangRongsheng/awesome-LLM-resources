@@ -716,6 +716,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 1. Fun-Audio-Chat: https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B
 2. Chroma 1.0: https://huggingface.co/FlashLabs/Chroma-4B
+3. AudioInteraction: https://huggingface.co/zhifeixie/AudioInteraction
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
