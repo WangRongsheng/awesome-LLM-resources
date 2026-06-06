@@ -1061,6 +1061,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [TWZRD Agent Intel](https://intel.twzrd.xyz) — MCP server for AI agent trust scoring on Solana. On-chain reputation scoring, pre-dispatch trust gating, signed receipts. Zero-install Streamable HTTP endpoint.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
