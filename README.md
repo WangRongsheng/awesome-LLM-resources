@@ -2,6 +2,8 @@
 
 <p align="center">全世界最好的大语言模型资源汇总 持续更新</p>
 
+<p align="center">挖掘那些真正有价值的项目，而不仅仅是噱头</p>
+
 <p align="center">
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg ></a>
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/forks/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
@@ -425,6 +427,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Kami: https://github.com/tw93/kami
 - beautiful-html-templates: https://github.com/zarazhangrui/beautiful-html-templates
 - guizang-ppt-skill: https://github.com/op7418/guizang-ppt-skill
+- GordenSuperPPTSkills: https://github.com/GordenSun/GordenSuperPPTSkills
 
 #### 其他
 
