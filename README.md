@@ -1383,3 +1383,6 @@ MCP工具聚合：
 [![Stargazers over time](https://starchart.cc/WangRongsheng/awesome-LLM-resourses.svg)](https://starchart.cc/WangRongsheng/awesome-LLM-resourses)
 
 ![Alt](https://repobeats.axiom.co/api/embed/a7c45f31e87a3e6973bb9a926e33e80d05553c52.svg "Repobeats analytics image")
+
+
+- [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
