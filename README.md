@@ -576,6 +576,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect): Python and OpenCV-based scene cut/transition detection program & library.
 - [DOVER](https://github.com/VQAssessment/DOVER): Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.
+- [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit): renders 4-6s animated b-roll overlay mp4s for short-form social (LinkedIn / IG Reels / YouTube Shorts / TikTok). AI-driven via MCP: paste your script into Claude Code / Cursor / Codex, the model writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. npm: `@alichherawalla/video-overlay-kit`. Free, MIT, local.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
