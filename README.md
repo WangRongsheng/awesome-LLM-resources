@@ -658,6 +658,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. [nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI): The simplest open-source implementation of perplexity.ai.
 4. [curiosity](https://github.com/jank/curiosity): Try to build a Perplexity-like user experience.
 5. [MiniPerplx](https://github.com/zaidmukaddam/miniperplx): A minimalistic AI-powered search engine that helps you find information on the internet.
+6. [Superhighway](https://superhighway.walls.sh): Web search API for AI agents — search, news, images, scrape, and one-call deep research. Pay per call via x402/USDC on Base (no signup) or free API key. MCP server: `npx -y superhighway-mcp`.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -1370,7 +1371,7 @@ MCP工具聚合：
       year={2024},
       publisher = {GitHub},
       journal = {GitHub repository},
-      howpublished = {\url{https://github.com/WangRongsheng/awesome-LLM-resourses}},
+      howpublished = { rl{https://github.com/WangRongsheng/awesome-LLM-resourses}},
 }
 ```
 
