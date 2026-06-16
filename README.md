@@ -1065,6 +1065,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [GCF Proxy](https://github.com/blackwell-systems/gcf-proxy): MCP 工具响应 token 压缩代理，零代码接入，节省 71% token。支持 JSON、YAML、TOML、CSV、MessagePack 五种格式，330 亿+ 无损往返验证。[格式规范](https://gcformat.com) | [基准测试](https://gcformat.com/guide/benchmarks.html)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
