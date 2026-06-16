@@ -506,6 +506,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 24. [opencode](https://github.com/anomalyco/opencode)
 25. [Multica](https://github.com/multica-ai/multica)
+26. [OpenClacky](https://openclacky.com) - 开源 AI 编程 Agent，MIT 协议。通过冻结 16 工具 Schema、双缓存标记和 Insert-then-Compress 上下文管理，实现 **93.8% Prompt Cache 命中率**，API 成本约为 Claude Code 的 0.8×。支持 Claude / GPT-4 / DeepSeek / Gemini / OpenRouter 等模型（BYOK）。[GitHub](https://github.com/clacky-ai/open-clacky)
 
 
 <div align="right">
