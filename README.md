@@ -285,6 +285,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
+21. [Future AGI](https://github.com/future-agi/future-agi): an open-source platform to evaluate, trace, and guardrail LLM and AI agent apps, with 70+ metrics and LLM-as-Judge evaluators.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
