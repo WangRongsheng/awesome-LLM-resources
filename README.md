@@ -847,6 +847,9 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 21. [《The Smol Training Playbook: The Secrets to Building World-Class LLMs》](https://github.com/WangRongsheng/awesome-LLM-resources/blob/main/books/the-smol-training-playbook-the-secrets-to-building-world-class-llms.pdf)
 22. [《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents)
 23. [《Hands-On Modern RL》](https://github.com/walkinglabs/hands-on-modern-rl)
+24. [《Advanced RAG Patterns》(Free eBook)](https://futureagi.com/ebooks/advanced-rag-patterns/)
+25. [《The Agentic RAG Playbook》(Free eBook)](https://futureagi.com/ebooks/mastering-agentic-rag/)
+26. [《Mastering AI Agent Evaluation》(Free eBook)](https://futureagi.com/mastering-ai-agent-evaluation)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
