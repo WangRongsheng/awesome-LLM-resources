@@ -1094,6 +1094,7 @@ MCP工具聚合：
 15. [Modelscope Skills](https://modelscope.cn/skills)
 16. [Agent Skill](https://agentskill.sh/)
 17. [mmx-cli](https://github.com/MiniMax-AI/cli)
+18. [NotFair](https://github.com/nowork-studio/NotFair): Open-source Claude Code skills for SEO, GEO, Google Ads ([google-ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads)) and Meta Ads ([meta-ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads)), connecting to live data via the Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
