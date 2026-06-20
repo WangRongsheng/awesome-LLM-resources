@@ -701,6 +701,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 32. OmniVoice: https://github.com/k2-fsa/OmniVoice
 33. MOSS-TTS-v1.5: https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5
 34. Higgs Audio v3 TTS: https://huggingface.co/bosonai/higgs-audio-v3-tts-4b
+35. Confucius4-TTS: https://github.com/netease-youdao/Confucius4-TTS
 
 #### STT/ASR
 
