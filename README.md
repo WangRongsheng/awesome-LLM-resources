@@ -1067,6 +1067,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory MCP server for 13+ AI coding tools (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and more). SQLite-backed state survives context resets. `npm install -g @egchq/egc`
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
