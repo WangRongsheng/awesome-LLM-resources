@@ -1067,6 +1067,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [skillselion.com](https://skillselion.com/) - 技能、MCP 服务器与插件市场目录站，按安装量与 GitHub stars 排名
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
