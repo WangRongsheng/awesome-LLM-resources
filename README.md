@@ -600,6 +600,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Nucleus-Image: https://huggingface.co/NucleusAI/Nucleus-Image
 - HiDream-O1-Image: https://huggingface.co/HiDream-ai/HiDream-O1-Image
 - Ideogram 4: https://github.com/ideogram-oss/ideogram4
+- Boogu-Image: https://github.com/boogu-project/Boogu-Image
 
 #### 编辑
 
