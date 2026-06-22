@@ -551,6 +551,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 1. Wan2.1-VACE-14B: https://huggingface.co/Wan-AI/Wan2.1-VACE-14B
 2. Ditto: https://github.com/EzioBy/Ditto
+3. Bernini: https://github.com/bytedance/Bernini
 
 #### 训练
 
