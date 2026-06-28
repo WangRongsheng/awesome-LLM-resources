@@ -259,6 +259,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
 53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 54. [TokenSpeed](https://github.com/lightseekorg/tokenspeed): a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
+55. [Requesty](https://requesty.ai/): LLM gateway with one OpenAI compatible API across 400+ models, featuring smart routing, automatic fallbacks, caching, per user and per team cost tracking, spend limits, and observability. SOC2 and GDPR compliant with EU data residency.
 
 
 <div align="right">
