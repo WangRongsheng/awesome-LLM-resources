@@ -963,9 +963,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 36. [Implementation of all RAG techniques in a simpler way.](https://github.com/FareedKhan-dev/all-rag-techniques)
 37. [Theoretical Machine Learning: A Handbook for Everyone](https://www.tengjiaye.com/mlbook.html)
 
+38. [AI全书](https://aibook.ren/)：中文 AI 系统学习知识库，覆盖 AI 基础、大模型、RAG、Agent、MCP、AI 编程、Prompt、AI 工具和安全合规，适合中文学习者按路线建立 AI 知识体系。
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
+
 
 ## 论文 Paper
 
