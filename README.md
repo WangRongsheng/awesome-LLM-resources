@@ -1101,6 +1101,7 @@ MCP工具聚合：
 15. [Modelscope Skills](https://modelscope.cn/skills)
 16. [Agent Skill](https://agentskill.sh/)
 17. [mmx-cli](https://github.com/MiniMax-AI/cli)
+18. [agent-qa](https://github.com/vostride/agent-qa): Self-improving QA agent with SKILL.md modules for natural-language web/mobile test authoring, debugging, and result triage.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
