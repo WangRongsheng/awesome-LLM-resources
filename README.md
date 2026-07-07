@@ -723,10 +723,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 6. SoulX-Podcast: https://huggingface.co/collections/Soul-AILab/soulx-podcast
 7. Omnilingual ASR: https://github.com/facebookresearch/omnilingual-asr
 8. Fun-ASR: https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512
-9. VibeVoice-ASR: https://huggingface.co/microsoft/VibeVoice-ASR
-10. Qwen3-ASR: https://github.com/QwenLM/Qwen3-ASR
-11. Mega-ASR: https://github.com/xzf-thu/Mega-ASR
-12. MOSS-Transcribe-Diarize: https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize
+9. FunASR: https://github.com/modelscope/FunASR
+10. SenseVoice: https://github.com/FunAudioLLM/SenseVoice
+11. VibeVoice-ASR: https://huggingface.co/microsoft/VibeVoice-ASR
+12. Qwen3-ASR: https://github.com/QwenLM/Qwen3-ASR
+13. Mega-ASR: https://github.com/xzf-thu/Mega-ASR
+14. MOSS-Transcribe-Diarize: https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize
 
 #### Voice Interaction
 
