@@ -605,6 +605,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Ideogram 4: https://github.com/ideogram-oss/ideogram4
 - Boogu-Image: https://github.com/boogu-project/Boogu-Image
 - Krea-2-Raw: https://huggingface.co/krea/Krea-2-Raw
+- SenseNova-U1: https://github.com/OpenSenseNova/SenseNova-U1
 
 #### 编辑
 
