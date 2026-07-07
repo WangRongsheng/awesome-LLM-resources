@@ -35,6 +35,7 @@
 - [图片 Image](#图片-Image) 🌟
 - [搜索 Search](#搜索-Search)
 - [语音 Speech](#语音-Speech) 🌟
+- [世界模型 World Models](#世界模型-World-Models) 🌟
 - [龙虾 OpenClaw](#龙虾-OpenClaw) 🔥
 - [统一模型 Unified Model](#统一模型-Unified-Model) 🌟
 - [书籍 Book](#书籍-Book)
