@@ -734,6 +734,14 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
+## 世界模型 World Models
+
+- MIRA: https://github.com/mira-wm/mira `Multiplayer`
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
 ## 龙虾 OpenClaw
 
 1. MultiUserClaw: https://github.com/johnson7788/MultiUserClaw
