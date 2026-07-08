@@ -737,7 +737,30 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 ## 世界模型 World Models
 
+#### 模型
+
+- AlayaWorld: https://github.com/AlayaLab/AlayaWorld
+- MoWorld: https://moxin-tech.github.io/moworld/
 - MIRA: https://github.com/mira-wm/mira `Multiplayer`
+- ActWorld: https://interactwm.github.io/ActWorld/
+- Sana-WM: https://nvlabs.github.io/Sana/WM/
+- Cosmos-3: https://github.com/nvidia/cosmos
+- DreamX-World-5B: https://huggingface.co/GD-ML/DreamX-World-5B
+- DreamX-World-5B-Cam: https://modelscope.cn/models/GD-ML/DreamX-World-5B-Cam
+- Astra: https://eternalevan.github.io/Astra-project/
+- Yume-5B: https://huggingface.co/stdstu123/Yume-5B-720P
+- LingBot-World: https://github.com/robbyant/lingbot-world
+- HY-WorldPlay: https://huggingface.co/tencent/HY-WorldPlay
+- Matrix-Game-3.0: https://huggingface.co/Skywork/Matrix-Game-3.0
+- Matrix-Game-2.0: https://huggingface.co/Skywork/Matrix-Game-2.0
+- Waypoint-1.5-1B: https://huggingface.co/Overworld/Waypoint-1.5-1B
+
+#### 框架
+
+- nano-world-model: https://github.com/simchowitzlabpublic/nano-world-model
+- minWM: https://github.com/shengshu-ai/minWM
+- stable-worldmodel: https://github.com/galilai-group/stable-worldmodel
+- OpenWorldLib: https://github.com/OpenDCAI/OpenWorldLib
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
