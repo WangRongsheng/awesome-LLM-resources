@@ -741,6 +741,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 - AlayaWorld: https://github.com/AlayaLab/AlayaWorld
 - MoWorld: https://moxin-tech.github.io/moworld/
+- Warp-as-History: https://github.com/yyfz/Warp-as-History
 - MIRA: https://github.com/mira-wm/mira `Multiplayer`
 - ActWorld: https://interactwm.github.io/ActWorld/
 - Sana-WM: https://nvlabs.github.io/Sana/WM/
@@ -754,6 +755,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Matrix-Game-3.0: https://huggingface.co/Skywork/Matrix-Game-3.0
 - Matrix-Game-2.0: https://huggingface.co/Skywork/Matrix-Game-2.0
 - Waypoint-1.5-1B: https://huggingface.co/Overworld/Waypoint-1.5-1B
+- Hunyuan-GameCraft: https://hunyuan-gamecraft.github.io/
 
 #### 框架
 
