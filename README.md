@@ -739,6 +739,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 #### 模型
 
+- LingBot-World-V2: https://huggingface.co/collections/robbyant/lingbot-world-v2
 - AlayaWorld: https://github.com/AlayaLab/AlayaWorld
 - MoWorld: https://moxin-tech.github.io/moworld/
 - Warp-as-History: https://github.com/yyfz/Warp-as-History
