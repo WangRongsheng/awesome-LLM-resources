@@ -1103,6 +1103,7 @@ MCP工具聚合：
 5. [pulsemcp.com](https://www.pulsemcp.com/)
 6. [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 7. [glama.ai](https://glama.ai/mcp/servers)
+8. [awesome-agentic-commerce](https://github.com/MentionNetwork/awesome-agentic-commerce)（聚焦电商场景：智能体商务协议 UCP/ACP/AP2 与商务类 MCP 服务器资源汇总）
 8. [mcp.composio.dev](https://mcp.composio.dev/)
 9. [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)
 10. [mcpo](https://github.com/open-webui/mcpo)
