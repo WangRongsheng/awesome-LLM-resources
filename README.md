@@ -725,6 +725,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 9. VibeVoice-ASR: https://huggingface.co/microsoft/VibeVoice-ASR
 10. Qwen3-ASR: https://github.com/QwenLM/Qwen3-ASR
 11. Mega-ASR: https://github.com/xzf-thu/Mega-ASR
+12. MOSS-Transcribe-Diarize: https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize
 
 #### Voice Interaction
 
