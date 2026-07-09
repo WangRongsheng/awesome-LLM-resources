@@ -296,6 +296,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 1. [LM Arena](https://lmarena.ai/zh)
 2. [Design Arena](https://www.designarena.ai/)
+3. [AI Models Catalog](https://github.com/i-need-token/ai-models): 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Interactive catalog at [i-need-token.github.io/ai-models](https://i-need-token.github.io/ai-models/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
