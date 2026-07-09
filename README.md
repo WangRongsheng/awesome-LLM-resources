@@ -765,6 +765,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - minWM: https://github.com/shengshu-ai/minWM
 - stable-worldmodel: https://github.com/galilai-group/stable-worldmodel
 - OpenWorldLib: https://github.com/OpenDCAI/OpenWorldLib
+- BiWM: https://github.com/LynnReal-AI/BiWM
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
