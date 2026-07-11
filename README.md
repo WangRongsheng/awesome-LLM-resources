@@ -510,6 +510,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 24. [opencode](https://github.com/anomalyco/opencode)
 25. [Multica](https://github.com/multica-ai/multica)
+26. [usage](https://github.com/aqua5230/usage): 把 Claude Code / Codex 额度钉在 macOS 菜单栏，零 Token 消耗的用量监控。
 
 
 <div align="right">
