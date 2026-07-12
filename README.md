@@ -22,7 +22,7 @@
 
 - [推荐 Suggestion](#推荐-Suggestion) 🌟
 - [数据 Data](#数据-Data)
-- [微调 Fine-Tuning](#微调-Fine-Tuning) 
+- [微调 Fine-Tuning](#微调-Fine-Tuning)
 - [Agentic RL](#Agentic-RL) 🌟
 - [推理 Inference](#推理-Inference)
 - [评估 Evaluation](#评估-Evaluation)
@@ -31,7 +31,7 @@
 - [智能体 Agents](#智能体-Agents)
 - [研究 Research](#研究-Research) 🔥
 - [代码 Coding](#代码-Coding)
-- [视频 Video](#视频-Video) 
+- [视频 Video](#视频-Video)
 - [图片 Image](#图片-Image) 🔥
 - [搜索 Search](#搜索-Search)
 - [语音 Speech](#语音-Speech) 🔥
@@ -44,7 +44,7 @@
 - [论文 Paper](#论文-Paper)
 - [社区 Community](#社区-Community)
 - [模型上下文协议 MCP](#模型上下文协议-MCP)
-- [技能 Skills](#技能-Skills) 
+- [技能 Skills](#技能-Skills)
 - [推理 Open o1](#推理-Open-o1)
 - [推理 Open o3](#推理-Open-o3)
 - [小语言模型 Small Language Model](#小语言模型-Small-Language-Model) 🌟
@@ -77,7 +77,7 @@
 ## 数据 Data
 
 > [!NOTE]
-> 
+>
 > 此处命名为`数据`，但这里并没有提供具体数据集，而是提供了处理获取大规模数据的方法
 
 
@@ -1153,7 +1153,7 @@ MCP工具聚合：
 ## 推理 Open o1
 
 > [!NOTE]
-> 
+>
 > 开放的技术是我们永恒的追求
 
 1. https://github.com/atfortes/Awesome-LLM-Reasoning
@@ -1417,7 +1417,7 @@ MCP工具聚合：
 如果你觉得本项目对你有帮助，欢迎引用：
 ```bib
 @misc{wang2024llm,
-      title={awesome-LLM-resourses}, 
+      title={awesome-LLM-resourses},
       author={Rongsheng Wang},
       year={2024},
       publisher = {GitHub},
