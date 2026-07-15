@@ -864,7 +864,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - SenseNova-U1: https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-SFT
 - TUNA-2: https://github.com/facebookresearch/tuna-2
 - Lance: https://github.com/bytedance/Lance
-- JoyAI-VL-Interaction: https://arxiv.org/abs/2606.14777
+- JoyAI-VL-Interaction: https://arxiv.org/abs/2606.14777 `Interaction`
+- MOSS-VL-Realtime: https://huggingface.co/OpenMOSS-Team/MOSS-VL-Realtime `Interaction`
 - SenseNova-Vision: https://huggingface.co/collections/sensenova/sensenova-vision
 
 <div align="right">
