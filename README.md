@@ -198,6 +198,7 @@
 - AReaL: https://github.com/inclusionAI/AReaL
 - slime (`🔥`): https://github.com/THUDM/slime
 - Agent Lightning: https://github.com/microsoft/agent-lightning
+- Molt: https://github.com/NVIDIA-NeMo/labs-molt
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
