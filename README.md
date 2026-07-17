@@ -511,7 +511,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 24. [opencode](https://github.com/anomalyco/opencode)
 25. [Multica](https://github.com/multica-ai/multica)
-26. [Tura](https://github.com/Tura-AI/tura): A local-first open-source coding agent written in Rust, with CLI, TUI, desktop, and web interfaces plus OpenAI-compatible and local model support.
+26. [Tura](https://github.com/Tura-AI/tura): Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
 
 
 <div align="right">
