@@ -198,6 +198,7 @@
 - AReaL: https://github.com/inclusionAI/AReaL
 - slime (`🔥`): https://github.com/THUDM/slime
 - Agent Lightning: https://github.com/microsoft/agent-lightning
+- Molt: https://github.com/NVIDIA-NeMo/labs-molt
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -763,6 +764,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Matrix-Game-2.0: https://huggingface.co/Skywork/Matrix-Game-2.0
 - Waypoint-1.5-1B: https://huggingface.co/Overworld/Waypoint-1.5-1B
 - Hunyuan-GameCraft: https://hunyuan-gamecraft.github.io/
+- AlayaWorld: https://github.com/AlayaLab/AlayaWorld
 
 #### 框架
 
@@ -866,7 +868,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - SenseNova-U1: https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-SFT
 - TUNA-2: https://github.com/facebookresearch/tuna-2
 - Lance: https://github.com/bytedance/Lance
-- JoyAI-VL-Interaction: https://arxiv.org/abs/2606.14777
+- JoyAI-VL-Interaction: https://arxiv.org/abs/2606.14777 `Interaction`
+- MOSS-VL-Realtime: https://huggingface.co/OpenMOSS-Team/MOSS-VL-Realtime `Interaction`
 - SenseNova-Vision: https://huggingface.co/collections/sensenova/sensenova-vision
 
 <div align="right">
