@@ -743,6 +743,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 #### 模型
 
+- Matrix-Game-3.5: https://github.com/Riemann-Dynamics/Matrix-Game-3.5
 - ABot-World: https://github.com/amap-cvlab/ABot-World
 - LingBot-World-V2: https://huggingface.co/collections/robbyant/lingbot-world-v2
 - AlayaWorld: https://github.com/AlayaLab/AlayaWorld
@@ -763,6 +764,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Waypoint-1.5-1B: https://huggingface.co/Overworld/Waypoint-1.5-1B
 - Hunyuan-GameCraft: https://hunyuan-gamecraft.github.io/
 - AlayaWorld: https://github.com/AlayaLab/AlayaWorld
+
 
 #### 框架
 
