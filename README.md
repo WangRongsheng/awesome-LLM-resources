@@ -766,6 +766,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Waypoint-1.5-1B: https://huggingface.co/Overworld/Waypoint-1.5-1B
 - Hunyuan-GameCraft: https://hunyuan-gamecraft.github.io/
 - AlayaWorld: https://github.com/AlayaLab/AlayaWorld
+- WorldWander: https://github.com/showlab/WorldWander
 
 
 #### 框架
