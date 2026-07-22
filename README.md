@@ -611,6 +611,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Boogu-Image: https://github.com/boogu-project/Boogu-Image
 - Krea-2-Raw: https://huggingface.co/krea/Krea-2-Raw
 - SenseNova-U1: https://github.com/OpenSenseNova/SenseNova-U1
+- Mage-Flow: https://huggingface.co/collections/microsoft/mage
 
 #### 编辑
 
