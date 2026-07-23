@@ -288,6 +288,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
+20. [whatbroke](https://github.com/arthi-arumugam-git/whatbroke): A CLI that diffs two runs of an AI agent, showing changes in tool calls, arguments, cost, latency, and outcomes, with multi-sample flake detection.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
