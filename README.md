@@ -199,6 +199,7 @@
 - slime (`🔥`): https://github.com/THUDM/slime
 - Agent Lightning: https://github.com/microsoft/agent-lightning
 - Molt: https://github.com/NVIDIA-NeMo/labs-molt
+- prime-rl: https://github.com/PrimeIntellect-ai/prime-rl
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
