@@ -748,6 +748,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 #### 模型
 
+- ShadowDancer: https://github.com/AlayaLab/ShadowDancer
+- PhiZero: https://github.com/yaoyao-jpg/PhiZero
+- Wonder: https://arxiv.org/pdf/2607.26037
+- open-dreamer: https://github.com/next-state/open-dreamer
+- Cosmos3-Edge: https://huggingface.co/nvidia/Cosmos3-Edge
+- WorldWander: https://github.com/showlab/WorldWander
 - Matrix-Game-3.5: https://github.com/Riemann-Dynamics/Matrix-Game-3.5
 - ABot-World: https://github.com/amap-cvlab/ABot-World
 - LingBot-World-V2: https://huggingface.co/collections/robbyant/lingbot-world-v2
