@@ -553,6 +553,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
 26. [NAVA](https://huggingface.co/baidu/NAVA)
 27. [LingBot-Video](https://huggingface.co/collections/robbyant/lingbot-video)
+28. [MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
 
 #### 编辑
 
