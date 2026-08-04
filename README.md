@@ -884,6 +884,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - JoyAI-VL-Interaction: https://arxiv.org/abs/2606.14777 `Interaction`
 - MOSS-VL-Realtime: https://huggingface.co/OpenMOSS-Team/MOSS-VL-Realtime `Interaction`
 - SenseNova-Vision: https://huggingface.co/collections/sensenova/sensenova-vision
+- Mage-VL: https://huggingface.co/microsoft/Mage-VL `Interaction`
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
