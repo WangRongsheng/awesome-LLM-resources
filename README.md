@@ -512,6 +512,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 24. [opencode](https://github.com/anomalyco/opencode)
 25. [Multica](https://github.com/multica-ai/multica)
+26. [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics): Curated list of tools, benchmarks and configs for AI token costs of coding agents (harness overhead, cache economics, model routing).
 
 
 <div align="right">
