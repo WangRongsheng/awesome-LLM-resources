@@ -557,6 +557,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 26. [NAVA](https://huggingface.co/baidu/NAVA)
 27. [LingBot-Video](https://huggingface.co/collections/robbyant/lingbot-video)
 28. [MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
+29. [MAGI-2-preview](https://huggingface.co/sand-ai/MAGI-2-preview)
 
 #### 编辑
 
