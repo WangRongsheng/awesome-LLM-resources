@@ -412,6 +412,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 #### 写作
 
 - PaperDebugger: https://github.com/PaperDebugger/PaperDebugger
+  - XtraGPT served as refiner: https://github.com/Xtra-Computing/XtraGPT
 - Chat Overleaf: https://github.com/anuin-cat/chat-overleaf
 - 文智云助手: https://overleaf.top/
 - LiteWrite: https://litewrite.ai/
@@ -455,6 +456,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
   - FigureWeave: https://github.com/Krisocer/FigureWeave
   - EditDeck: https://github.com/Morgensonne/EditDeck
 - AutoFigure-Edit: https://github.com/ResearAI/AutoFigure-Edit
+- Kahneman4Review: https://huggingface.co/spaces/nuojohnchen/Kahneman4Review
 - Academic Figure Generator: https://github.com/LigphiDonk/academic-figure-generator
 - PaperFit: https://github.com/OpenRaiser/PaperFit
 
