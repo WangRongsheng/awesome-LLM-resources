@@ -262,7 +262,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
 52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
 53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
-54. [TokenSpeed](https://github.com/lightseekorg/tokenspeed): a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
+54. [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX): OpenAI-compatible local LLM inference server for Apple Silicon, 2-4x faster than Ollama.
+55. [TokenSpeed](https://github.com/lightseekorg/tokenspeed): a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
 
 
 <div align="right">
