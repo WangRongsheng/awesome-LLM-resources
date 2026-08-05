@@ -2,12 +2,14 @@
 
 <p align="center">全世界最好的大语言模型资源汇总 持续更新</p>
 
+<p align="center">挖掘那些真正有价值的项目，而不仅仅是噱头</p>
+
 <p align="center">
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg ></a>
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/forks/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/stars/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
   <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/watchers/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
-  <a href="https://gitcode.com/wangrongsheng/awesome-LLM-resources"><img src="https://raw.githubusercontent.com/WangRongsheng/awesome-LLM-resources/main/assets/gitcode.png" height="25" alt="gitcode">
+  <!-- <a href="https://gitcode.com/wangrongsheng/awesome-LLM-resources"><img src="https://raw.githubusercontent.com/WangRongsheng/awesome-LLM-resources/main/assets/gitcode.png" height="25" alt="gitcode"> -->
 </a>
 </p>
 
@@ -18,33 +20,35 @@
 
 #### Contents
 
-- [推荐 Suggestion](#推荐-Suggestion)
+- [推荐 Suggestion](#推荐-Suggestion) 🌟
 - [数据 Data](#数据-Data)
-- [微调 Fine-Tuning](#微调-Fine-Tuning)
-- [Agentic RL](#Agentic-RL)
+- [微调 Fine-Tuning](#微调-Fine-Tuning) 
+- [Agentic RL](#Agentic-RL) 🌟
 - [推理 Inference](#推理-Inference)
 - [评估 Evaluation](#评估-Evaluation)
 - [体验 Usage](#体验-Usage)
 - [知识库 RAG](#知识库-RAG)
 - [智能体 Agents](#智能体-Agents)
-- [研究 Research](#研究-Research)
+- [研究 Research](#研究-Research) 🔥
 - [代码 Coding](#代码-Coding)
-- [视频 Video](#视频-Video)
-- [图片 Image](#图片-Image)
+- [视频 Video](#视频-Video) 
+- [图片 Image](#图片-Image) 🔥
 - [搜索 Search](#搜索-Search)
-- [语音 Speech](#语音-Speech)
-- [统一模型 Unified Model](#统一模型-Unified-Model)
+- [语音 Speech](#语音-Speech) 🔥
+- [世界模型 World Models](#世界模型-World-Models) 🔥
+- [龙虾 OpenClaw](#龙虾-OpenClaw)
+- [统一模型 Unified Model](#统一模型-Unified-Model) 🌟
 - [书籍 Book](#书籍-Book)
 - [课程 Course](#课程-Course)
 - [教程 Tutorial](#教程-Tutorial)
 - [论文 Paper](#论文-Paper)
 - [社区 Community](#社区-Community)
 - [模型上下文协议 MCP](#模型上下文协议-MCP)
-- [技能 Skills](#技能-Skills)
+- [技能 Skills](#技能-Skills) 
 - [推理 Open o1](#推理-Open-o1)
 - [推理 Open o3](#推理-Open-o3)
-- [小语言模型 Small Language Model](#小语言模型-Small-Language-Model)
-- [小多模态模型 Small Vision Language Model](#小多模态模型-Small-Vision-Language-Model)
+- [小语言模型 Small Language Model](#小语言模型-Small-Language-Model) 🌟
+- [小多模态模型 Small Vision Language Model](#小多模态模型-Small-Vision-Language-Model) 🌟
 - [技巧 Tips](#技巧-tips)
 
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
@@ -53,6 +57,11 @@
 
 #### Podcast
 
+- [谷歌AI的14年、Gemini翻身之战，与视觉理解模型：专访DeepMind前核心科学家Andrew Dai｜Neolabs特辑](https://www.youtube.com/watch?v=cqW_VWYbIcU)
+- [140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去](https://www.youtube.com/watch?v=Gk_KUg3qED0)
+- [张驰: A Year Inside ByteDance's AI Lab](https://changche.substack.com/p/a-year-inside-bytedances-ai-lab)
+- [Luo Fuli: OpenClaw, Agent Frameworks — The AI Paradigm Has Already Changed Dramatically!](https://www.youtube.com/watch?v=V9eI-t3TApE)
+- [A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42](https://www.youtube.com/watch?v=rIwgZWzUKm8)
 - [翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast](https://www.bilibili.com/video/BV1darmBcE4A?vd_source=c739db1ebdd361d47af5a0b8497417db)
 - [Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去](https://www.bilibili.com/video/BV14eiQBmEbN/?spm_id_from=333.1387.upload.video_card.click)
 - [MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越](https://www.bilibili.com/video/BV11NmtBzE36/?spm_id_from=333.1387.upload.video_card.click&vd_source=c739db1ebdd361d47af5a0b8497417db)
@@ -64,7 +73,6 @@
 - [118. 对李想的第二次3小时访谈：CEO大模型、MoE、梁文锋、VLA、能量、记忆、对抗人性、亲密关系、人类的智慧](https://www.youtube.com/watch?v=RxXVq7-sJzM&list=PLwAchVoh-4zNSI5UlKEkKCL5r_jJyrFeO&index=13)
 - [115. 对OpenAI姚顺雨3小时访谈：6年Agent研究、人与系统、吞噬的边界、既单极又多元的世界](https://www.youtube.com/watch?v=gQgKkUsx5q0&list=PLwAchVoh-4zNSI5UlKEkKCL5r_jJyrFeO&index=16)
 - [113. 和杨植麟时隔1年的对话：K2、Agentic LLM、缸中之脑和“站在无限的开端”](https://www.youtube.com/watch?v=ouG6jrkECrc&list=PLwAchVoh-4zNSI5UlKEkKCL5r_jJyrFeO&index=18)
-- [A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42](https://www.youtube.com/watch?v=rIwgZWzUKm8)
 
 ## 数据 Data
 
@@ -119,7 +127,7 @@
 44. [Chandra](https://github.com/datalab-to/chandra): a highly accurate OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information.
 45. [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR): a leading end-to-end OCR expert VLM powered by Hunyuan's native multimodal architecture.
 46. [DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2): Visual Causal Flow.
-47. [PaddleOCR-VL-1.5](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5): Towards a Multi-Task 0.9B VLM for Robust In-the-Wild Document Parsing.
+47. [PaddleOCR-VL-1.5 (`🔥`)](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5): Towards a Multi-Task 0.9B VLM for Robust In-the-Wild Document Parsing.
 48. [GLM-OCR](https://huggingface.co/zai-org/GLM-OCR): a multimodal OCR model for complex document understanding, built on the GLM-V encoder–decoder architecture.
 
 <div align="right">
@@ -130,7 +138,7 @@
 
 1. [LLaMA-Factory (`🔥`)](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs.
 2. [360-LLaMA-Factory](https://github.com/Qihoo360/360-LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs. (add Sequence Parallelism for supporting long context training)
-4. [unsloth](https://github.com/unslothai/unsloth): 2-5X faster 80% less memory LLM finetuning.
+4. [unsloth (`🔥`)](https://github.com/unslothai/unsloth): 2-5X faster 80% less memory LLM finetuning.
 5. [TRL](https://huggingface.co/docs/trl/index): Transformer Reinforcement Learning.
 6. [Firefly](https://github.com/yangjianxin1/Firefly): Firefly: 大模型训练工具，支持训练数十种大模型
 7. [Xtuner](https://github.com/InternLM/xtuner): An efficient, flexible and full-featured toolkit for fine-tuning large models.
@@ -163,7 +171,7 @@
 34. [finetune-Qwen2-VL](https://github.com/zhangfaen/finetune-Qwen2-VL): Quick Start for Fine-tuning or continue pre-train Qwen2-VL Model.
 35. [Online-RLHF](https://github.com/RLHFlow/Online-RLHF): A recipe for online RLHF and online iterative DPO.
 36. [InternEvo](https://github.com/InternLM/InternEvo): an open-sourced lightweight training framework aims to support model pre-training without the need for extensive dependencies.
-37. [veRL](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLM.
+37. [veRL (`🔥`)](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLM.
 38. [Axolotl](https://axolotl-ai-cloud.github.io/axolotl/): Axolotl is designed to work with YAML config files that contain everything you need to preprocess a dataset, train or fine-tune a model, run model inference or evaluation, and much more.
 39. [Oumi](https://github.com/oumi-ai/oumi): Everything you need to build state-of-the-art foundation models, end-to-end.
 40. [Kiln](https://github.com/Kiln-AI/Kiln): The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
@@ -172,12 +180,14 @@
 43. [RL-Factory](https://github.com/Simple-Efficient/RL-Factory): Train your Agent model via our easy and efficient framework.
 44. [RM-Gallery](https://github.com/modelscope/RM-Gallery): A One-Stop Reward Model Platform.
 45. [ART](https://github.com/OpenPipe/ART): rain multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training.
-46. [VeRL (`🔥`)](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLMs.
-47. [LMMs-Engine](https://github.com/EvolvingLMMs-Lab/lmms-engine): A simple, any-to-any modality framework for pretraining and finetuning. Lean, flexible, and built for research.
-48. [dLLM](https://github.com/ZHZisZZ/dllm): a library that unifies the training and evaluation of diffusion language models, bringing transparency and reproducibility to the entire development pipeline. `diffusion`
-49. [Miles](https://github.com/radixark/miles): an enterprise-facing reinforcement learning framework for large-scale MoE post-training and production workloads.
-50. [Skills](https://github.com/NVIDIA-NeMo/Skills): a collection of pipelines to improve "skills" of large language models (LLMs).
-51. [Twinkle](https://github.com/modelscope/twinkle): a lightweight, client-server training framework engineered with modular, high-cohesion interfaces.
+46. [LMMs-Engine](https://github.com/EvolvingLMMs-Lab/lmms-engine): A simple, any-to-any modality framework for pretraining and finetuning. Lean, flexible, and built for research.
+47. [dLLM](https://github.com/ZHZisZZ/dllm): a library that unifies the training and evaluation of diffusion language models, bringing transparency and reproducibility to the entire development pipeline. `diffusion`
+48. [Miles](https://github.com/radixark/miles): an enterprise-facing reinforcement learning framework for large-scale MoE post-training and production workloads.
+49. [Skills](https://github.com/NVIDIA-NeMo/Skills): a collection of pipelines to improve "skills" of large language models (LLMs).
+50. [Twinkle](https://github.com/modelscope/twinkle): a lightweight, client-server training framework engineered with modular, high-cohesion interfaces.
+51. [NeMo AutoModel](https://github.com/NVIDIA-NeMo/Automodel): Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support.
+52. [VeOmni](https://github.com/ByteDance-Seed/VeOmni): Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo.
+53. [Soup](https://github.com/MakazhanAlpamys/Soup): One-config CLI for LLM post-training (SFT/DPO/GRPO/KTO/ORPO). Layer streaming trains an 8B model on a 4 GB laptop GPU by streaming the frozen base from host RAM one decoder layer at a time.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -185,10 +195,12 @@
 
 ## Agentic RL
 
-- veRL: https://github.com/volcengine/verl
+- veRL (`🔥`): https://github.com/volcengine/verl
 - AReaL: https://github.com/inclusionAI/AReaL
-- slime: https://github.com/THUDM/slime
+- slime (`🔥`): https://github.com/THUDM/slime
 - Agent Lightning: https://github.com/microsoft/agent-lightning
+- Molt: https://github.com/NVIDIA-NeMo/labs-molt
+- prime-rl: https://github.com/PrimeIntellect-ai/prime-rl
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -196,7 +208,7 @@
 
 ## 推理 Inference
 
-1. [ollama](https://github.com/ollama/ollama): Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+1. [ollama (`🔥`)](https://github.com/ollama/ollama): Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 2. [Open WebUI](https://github.com/open-webui/open-webui): User-friendly WebUI for LLMs (Formerly Ollama WebUI).
 3. [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 4. [Xinference](https://github.com/xorbitsai/inference): A powerful and versatile library designed to serve language, speech recognition, and multimodal models.
@@ -207,7 +219,7 @@
 9. [vllm (`🔥`)](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs.
 10. [LlamaChat](https://github.com/alexrozanski/LlamaChat): Chat with your favourite LLaMA models in a native macOS app.
 11. [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/): ChatRTX is a demo app that lets you personalize a GPT large language model (LLM) connected to your own content—docs, notes, or other data.
-12. [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs.
+12. [LM Studio (`🔥`)](https://lmstudio.ai/): Discover, download, and run local LLMs.
 13. [chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx): Chat with your data natively on Apple Silicon using MLX Framework.
 14. [LLM Pricing](https://llmpricecheck.com/): Quickly Find the Perfect Large Language Models (LLM) API for Your Budget! Use Our Free Tool for Instant Access to the Latest Prices from Top Providers.
 15. [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter): A natural language interface for computers.
@@ -228,7 +240,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 29. [AirLLM](https://github.com/lyogavin/airllm): AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run 405B Llama3.1 on 8GB vram now.
 30. [LLMHub](https://github.com/jmather/llmhub): LLMHub is a lightweight management platform designed to streamline the operation and interaction with various language models (LLMs).
 31. [YuanChat](https://github.com/IEIT-Yuan/YuanChat)
-32. [LiteLLM](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
+32. [LiteLLM (`🔥`)](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
 33. [GuideLLM](https://github.com/neuralmagic/guidellm): GuideLLM is a powerful tool for evaluating and optimizing the deployment of large language models (LLMs).
 34. [LLM-Engines](https://github.com/jdf-prog/LLM-Engines): A unified inference engine for large language models (LLMs) including open-source models (VLLM, SGLang, Together) and commercial models (OpenAI, Mistral, Claude).
 35. [OARC](https://github.com/Leoleojames1/ollama_agent_roll_cage): ollama_agent_roll_cage (OARC) is a local python agent fusing ollama llm's with Coqui-TTS speech models, Keras classifiers, Llava vision, Whisper recognition, and more to create a unified chatbot agent for local, custom automation.
@@ -245,12 +257,13 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 46. [SkyPilot](https://github.com/skypilot-org/skypilot): Run AI and batch jobs on any infra (Kubernetes or 14+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 47. [Chitu](https://github.com/thu-pacman/chitu): High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 48. [TokenSwift](https://github.com/bigai-nlco/TokenSwift): From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation.
-49. [Cherry Studio](https://github.com/CherryHQ/cherry-studio): a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
+49. [Cherry Studio (`🔥`)](https://github.com/CherryHQ/cherry-studio): a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
 50. [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy): Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.
 51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
 52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
 53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 54. [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX): OpenAI-compatible local LLM inference server for Apple Silicon, 2-4x faster than Ollama.
+55. [TokenSpeed](https://github.com/lightseekorg/tokenspeed): a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
 
 
 <div align="right">
@@ -260,7 +273,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 ## 评估 Evaluation
 
 1. [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
-2. [opencompass](https://github.com/open-compass/opencompass): OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
+2. [opencompass (`🔥`)](https://github.com/open-compass/opencompass): OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 3. [llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed.
 4. [EvalScope (`🔥`)](https://github.com/modelscope/evalscope)
 5. [Weave](https://weave-docs.wandb.ai/guides/core-types/evaluations): A lightweight toolkit for tracking and evaluating LLM applications.
@@ -279,20 +292,6 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
 
-`LLM API 服务平台`：
-1. [Groq](https://groq.com/)
-2. [硅基流动](https://cloud.siliconflow.cn/models)
-3. [火山引擎](https://www.volcengine.com/product/ark)
-4. [文心千帆](https://qianfan.cloud.baidu.com/)
-5. [DashScope](https://dashscope.aliyun.com/)
-6. [aisuite](https://github.com/andrewyng/aisuite)
-7. [DeerAPI](https://www.deerapi.com/)
-8. [Qwen-Chat](https://chat.qwenlm.ai/)
-9. [DeepSeek-v3](https://www.deepseek.com/)
-10. [WaveSpeed](https://wavespeed.ai/) `视频生成`
-11. [OpenRouter](https://openrouter.ai/)
-12. [数标标 (`🔥`)](https://api.ai-gaochao.cn/)
-
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
@@ -301,6 +300,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 1. [LM Arena](https://lmarena.ai/zh)
 2. [Design Arena](https://www.designarena.ai/)
+3. [Vals AI](https://www.vals.ai/home) `evaluation`
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -363,7 +363,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 11. [agentUniverse](https://github.com/alipay/agentUniverse): agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications. Furthermore, through the community, they can exchange and share practices of patterns across different domains.
 12. [LazyLLM](https://github.com/LazyAGI/LazyLLM): 低代码构建多Agent大模型应用的开发工具
 13. [AgentScope](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way.
-14. [MoA](https://github.com/togethercomputer/MoA): Mixture of Agents (MoA) is a novel approach that leverages the collective strengths of multiple LLMs to enhance performance, achieving state-of-the-art results.
+14. [AgentField](https://github.com/Agent-Field/agentfield): Open-source control plane for building and operating AI agents like APIs at scale, with routing, memory, observability, identity, auth, and policy controls.
+15. [MoA](https://github.com/togethercomputer/MoA): Mixture of Agents (MoA) is a novel approach that leverages the collective strengths of multiple LLMs to enhance performance, achieving state-of-the-art results.
 15. [Agently](https://github.com/Maplemx/Agently): AI Agent Application Development Framework.
 16. [OmAgent](https://github.com/om-ai-lab/OmAgent): A multimodal agent framework for solving complex tasks.
 17. [Tribe](https://github.com/StreetLamb/tribe): No code tool to rapidly build and coordinate multi-agent teams.
@@ -400,6 +401,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 48. [MiroThinker](https://github.com/MiroMindAI/MiroThinker): an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
 49. [Nexent](https://github.com/ModelEngine-Group/nexent): A zero-code platform for auto-generating agents — no orchestration, no complex drag-and-drop required, using pure language to develop any agent you want.
 50. [Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent): A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks.
+51. [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
+52. [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Self-hostable multi-agent orchestration with remote AI workstations (AgentPods), PTY sandbox + git worktree isolation, channels-based agent collaboration, built-in Kanban, and per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -410,16 +413,30 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 #### 写作
 
 - PaperDebugger: https://github.com/PaperDebugger/PaperDebugger
+  - XtraGPT served as refiner: https://github.com/Xtra-Computing/XtraGPT
 - Chat Overleaf: https://github.com/anuin-cat/chat-overleaf
 - 文智云助手: https://overleaf.top/
 - LiteWrite: https://litewrite.ai/
 - Prism: https://openai.com/zh-Hans-CN/prism/
+- claude-prism: https://github.com/delibae/claude-prism
 
 #### 审稿
 
 - PaperReview: https://paperreview.ai/
 - aiXiv: https://aixiv.science/
 - OpenJudge Review: https://openjudge.me/paper_review
+
+#### PPT
+
+- PPTAgent: https://github.com/icip-cas/PPTAgent
+- Paper PPT Agent: https://github.com/CRui5in/paper-ppt-agent
+- PPT Master: https://github.com/hugohe3/ppt-master
+- LandPPT: https://github.com/sligter/LandPPT
+- Kami: https://github.com/tw93/kami
+- beautiful-html-templates: https://github.com/zarazhangrui/beautiful-html-templates
+- guizang-ppt-skill: https://github.com/op7418/guizang-ppt-skill
+- GordenSuperPPTSkills: https://github.com/GordenSun/GordenSuperPPTSkills
+- dashiAI-ppt-skill: https://github.com/chuspeeism/dashiAI-ppt-skill
 
 #### 其他
 
@@ -436,6 +453,13 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - figures4papers: https://github.com/ChenLiu-1996/figures4papers
 - PaperBanana: https://github.com/dwzhu-pku/PaperBanana
 - PaperBanana-Pro: https://github.com/elpsykongloo/PaperBanana-Pro
+- AutoFigure: https://github.com/ResearAI/AutoFigure
+  - FigureWeave: https://github.com/Krisocer/FigureWeave
+  - EditDeck: https://github.com/Morgensonne/EditDeck
+- AutoFigure-Edit: https://github.com/ResearAI/AutoFigure-Edit
+- Kahneman4Review: https://huggingface.co/spaces/nuojohnchen/Kahneman4Review
+- Academic Figure Generator: https://github.com/LigphiDonk/academic-figure-generator
+- PaperFit: https://github.com/OpenRaiser/PaperFit
 
 #### 全自动科研
 
@@ -448,6 +472,18 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - AutoResearchClaw: https://github.com/aiming-lab/AutoResearchClaw
 - NanoResearch: https://github.com/OpenRaiser/NanoResearch
 - ScienceClaw: https://github.com/AgentTeam-TaichuAI/ScienceClaw
+- EurekaClaw: https://github.com/EurekaClaw/EurekaClaw
+- Claude-scholar: https://github.com/Galaxy-Dawn/claude-scholar/
+- claude-scientific-skills: https://github.com/K-Dense-AI/claude-scientific-skills
+- K-Dense BYOK: https://github.com/K-Dense-AI/k-dense-byok
+- latex-paper-skills: https://github.com/yunshenwuchuxun/latex-paper-skills
+- NeuriCo: https://github.com/ChicagoHAI/NeuriCo
+- AutoResearch : https://github.com/karpathy/autoresearch
+- RD-Agent : https://github.com/microsoft/RD-Agent
+- DeepScientist : https://github.com/ResearAI/DeepScientist
+- Deep Researcher Agent: https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7
+- academic-research-skills: https://github.com/Imbad0202/academic-research-skills
+- Supervisor-Skills: https://github.com/HKUSTDial/Supervisor-Skills
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -467,17 +503,19 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 10. [Roo Code](https://github.com/RooCodeInc/Roo-Code)
 11. [Kilo Code](https://github.com/Kilo-Org/kilocode)
 12. [AugmentCode](https://www.augmentcode.com/)
-13. [Claude Code](https://github.com/anthropics/claude-code)
-14. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
-15. [Serena](https://github.com/oraios/serena)
-16. [Claudia](https://github.com/getAsterisk/claudia)
-17. [OpenCode](https://github.com/opencode-ai/opencode)
-18. [Kiro](https://kiro.dev/)
-19. [CodeBuddy](https://copilot.tencent.com/)
-20. [Kiro](https://kiro.dev/)
-21. [CodeX](https://github.com/openai/codex)
-22. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
-23. [opencode](https://github.com/anomalyco/opencode)
+13. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code)
+14. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code) + [Happy Coder](https://github.com/slopus/happy) / [CodePilot](https://github.com/op7418/CodePilot) / [cc-connect](https://github.com/chenhg5/cc-connect)
+15. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+16. [Serena](https://github.com/oraios/serena)
+17. [Claudia](https://github.com/getAsterisk/claudia)
+18. [OpenCode](https://github.com/opencode-ai/opencode)
+19. [Kiro](https://kiro.dev/)
+20. [CodeBuddy](https://copilot.tencent.com/)
+21. [Kiro](https://kiro.dev/)
+22. [CodeX (`🔥`)](https://github.com/openai/codex)
+23. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
+24. [opencode](https://github.com/anomalyco/opencode)
+25. [Multica](https://github.com/multica-ai/multica)
 
 
 <div align="right">
@@ -514,24 +552,34 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 21. [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
 22. [LTX-2](https://huggingface.co/Lightricks/LTX-2)
     - [Training](https://github.com/Lightricks/LTX-2/blob/main/packages/ltx-trainer/README.md)
+23. [daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)
+24. [LongLive](https://github.com/NVlabs/LongLive)
+25. [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
+26. [NAVA](https://huggingface.co/baidu/NAVA)
+27. [LingBot-Video](https://huggingface.co/collections/robbyant/lingbot-video)
+28. [MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
+29. [MAGI-2-preview](https://huggingface.co/sand-ai/MAGI-2-preview)
 
 #### 编辑
 
 1. Wan2.1-VACE-14B: https://huggingface.co/Wan-AI/Wan2.1-VACE-14B
 2. Ditto: https://github.com/EzioBy/Ditto
+3. Bernini: https://github.com/bytedance/Bernini
 
 #### 训练
 
 - https://github.com/hao-ai-lab/FastVideo
 - https://github.com/tdrussell/diffusion-pipe
 - https://github.com/VideoVerses/VideoTuna
-- https://github.com/modelscope/DiffSynth-Studio
+- (`🔥`) https://github.com/modelscope/DiffSynth-Studio
 - https://github.com/huggingface/diffusers
 - https://github.com/kohya-ss/musubi-tuner
 - https://github.com/spacepxl/HunyuanVideo-Training
 - https://github.com/Tele-AI/TeleTron
 - https://github.com/Yaofang-Liu/Mochi-Full-Finetuner
 - https://github.com/bghira/SimpleTuner
+- https://github.com/X-GenGroup/Flow-Factory
+- https://github.com/shengshu-ai/minWM `world model`
 
 #### 推理
 
@@ -542,6 +590,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect): Python and OpenCV-based scene cut/transition detection program & library.
 - [DOVER](https://github.com/VQAssessment/DOVER): Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.
+- [ArtiMuse](https://github.com/thunderbolt215/ArtiMuse): Fine-Grained Image Aesthetics Assessment with Joint Scoring and Expert-Level Understanding.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -561,6 +610,15 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Qwen-Image：https://huggingface.co/Qwen/Qwen-Image
 - Qwen-Image-2512：https://huggingface.co/Qwen/Qwen-Image-2512
 - Z-Image：https://huggingface.co/Tongyi-MAI/Z-Image
+- ERNIE-Image: https://huggingface.co/baidu/ERNIE-Image
+  - ERNIE-Image-Turbo: https://huggingface.co/Baidu/ERNIE-Image-Turbo
+- Nucleus-Image: https://huggingface.co/NucleusAI/Nucleus-Image
+- HiDream-O1-Image: https://huggingface.co/HiDream-ai/HiDream-O1-Image
+- Ideogram 4: https://github.com/ideogram-oss/ideogram4
+- Boogu-Image: https://github.com/boogu-project/Boogu-Image
+- Krea-2-Raw: https://huggingface.co/krea/Krea-2-Raw
+- SenseNova-U1: https://github.com/OpenSenseNova/SenseNova-U1
+- Mage-Flow: https://huggingface.co/collections/microsoft/mage
 
 #### 编辑
 
@@ -575,25 +633,30 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
   - Qwen-Image-Edit-2511-Upscale2K: https://huggingface.co/valiantcat/Qwen-Image-Edit-2511-Upscale2K
   - Qwen-Image-Edit-2511-Multiple-Angles-LoRA: https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
 - FireRed-Image-Edit: https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0
+- JoyAI-Image-Edit: https://huggingface.co/jdopensource/JoyAI-Image-Edit
 
 #### 统一
 
 - GLM-Image: https://huggingface.co/zai-org/GLM-Image
 - https://huggingface.co/black-forest-labs/FLUX.2-klein-4B
   - https://huggingface.co/black-forest-labs/FLUX.2-klein-9B
+- DreamLite: https://github.com/ByteVisionLab/DreamLite
+- SenseNova-U1: https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-SFT
 
 #### 训练
 
 - Ostris：https://github.com/ostris/ai-toolkit
 - FlymyAI：https://github.com/FlyMyAI/flymyai-lora-trainer
 - Nitro-T：https://github.com/AMD-AGI/Nitro-T
-- DiffSynth-Studio：https://github.com/modelscope/DiffSynth-Studio
+- (`🔥`) DiffSynth-Studio：https://github.com/modelscope/DiffSynth-Studio
 - Musubi Tuner: https://github.com/kohya-ss/musubi-tuner
 - SimpleTuner: https://github.com/bghira/SimpleTuner
 - MS Training: https://www.modelscope.cn/aigc/modelTraining
 - Finetune HunyuanImage-3.0: https://github.com/PhotonAISG/hunyuan-image3-finetune
 - OneTrainer: https://github.com/Nerogar/OneTrainer
 - Finetune LongCat-Image and Edit: https://github.com/meituan-longcat/LongCat-Image/tree/main/train_examples
+- Flow-Factory: https://github.com/X-GenGroup/Flow-Factory
+- UniRL: https://github.com/Tencent-Hunyuan/UniRL
 
 #### 评估
 
@@ -653,6 +716,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 28. Fun-CosyVoice3: https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512
 29. Qwen3-TTS:https://huggingface.co/collections/Qwen/qwen3-tts
 30. Ming-Omni-TTS: https://github.com/inclusionAI/Ming-omni-tts
+31. VoxCPM2: https://huggingface.co/openbmb/VoxCPM2
+32. OmniVoice: https://github.com/k2-fsa/OmniVoice
+33. MOSS-TTS-v1.5: https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5
+34. Higgs Audio v3 TTS: https://huggingface.co/bosonai/higgs-audio-v3-tts-4b
+35. Confucius4-TTS: https://github.com/netease-youdao/Confucius4-TTS
+36. Dia-1.6B: https://huggingface.co/nari-labs/Dia-1.6B-0626
 
 #### STT/ASR
 
@@ -664,13 +733,76 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 6. SoulX-Podcast: https://huggingface.co/collections/Soul-AILab/soulx-podcast
 7. Omnilingual ASR: https://github.com/facebookresearch/omnilingual-asr
 8. Fun-ASR: https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512
-9. VibeVoice-ASR: https://huggingface.co/microsoft/VibeVoice-ASR
-10. Qwen3-ASR: https://github.com/QwenLM/Qwen3-ASR
+9. FunASR: https://github.com/modelscope/FunASR
+10. SenseVoice: https://github.com/FunAudioLLM/SenseVoice
+11. VibeVoice-ASR: https://huggingface.co/microsoft/VibeVoice-ASR
+12. Qwen3-ASR: https://github.com/QwenLM/Qwen3-ASR
+13. Mega-ASR: https://github.com/xzf-thu/Mega-ASR
+14. MOSS-Transcribe-Diarize: https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize
 
 #### Voice Interaction
 
 1. Fun-Audio-Chat: https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B
 2. Chroma 1.0: https://huggingface.co/FlashLabs/Chroma-4B
+3. AudioInteraction: https://huggingface.co/zhifeixie/AudioInteraction
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 世界模型 World Models
+
+#### 模型
+
+- ShadowDancer: https://github.com/AlayaLab/ShadowDancer
+- PhiZero: https://github.com/yaoyao-jpg/PhiZero
+- Wonder: https://arxiv.org/pdf/2607.26037
+- open-dreamer: https://github.com/next-state/open-dreamer
+- Cosmos3-Edge: https://huggingface.co/nvidia/Cosmos3-Edge
+- WorldWander: https://github.com/showlab/WorldWander
+- Matrix-Game-3.5: https://github.com/Riemann-Dynamics/Matrix-Game-3.5
+- ABot-World: https://github.com/amap-cvlab/ABot-World
+- LingBot-World-V2: https://huggingface.co/collections/robbyant/lingbot-world-v2
+- AlayaWorld: https://github.com/AlayaLab/AlayaWorld
+- MoWorld: https://moxin-tech.github.io/moworld/
+- Warp-as-History: https://github.com/yyfz/Warp-as-History
+- MIRA: https://github.com/mira-wm/mira `Multiplayer`
+- ActWorld: https://interactwm.github.io/ActWorld/
+- Sana-WM: https://nvlabs.github.io/Sana/WM/
+- Cosmos-3: https://github.com/nvidia/cosmos
+- DreamX-World-5B: https://huggingface.co/GD-ML/DreamX-World-5B
+- DreamX-World-5B-Cam: https://modelscope.cn/models/GD-ML/DreamX-World-5B-Cam
+- Astra: https://eternalevan.github.io/Astra-project/
+- Yume-5B: https://huggingface.co/stdstu123/Yume-5B-720P
+- LingBot-World: https://github.com/robbyant/lingbot-world
+- HY-WorldPlay: https://huggingface.co/tencent/HY-WorldPlay
+- Matrix-Game-3.0: https://huggingface.co/Skywork/Matrix-Game-3.0
+- Matrix-Game-2.0: https://huggingface.co/Skywork/Matrix-Game-2.0
+- Waypoint-1.5-1B: https://huggingface.co/Overworld/Waypoint-1.5-1B
+- Hunyuan-GameCraft: https://hunyuan-gamecraft.github.io/
+- AlayaWorld: https://github.com/AlayaLab/AlayaWorld
+- WorldWander: https://github.com/showlab/WorldWander
+
+
+#### 框架
+
+- nano-world-model: https://github.com/simchowitzlabpublic/nano-world-model
+- minWM: https://github.com/shengshu-ai/minWM
+- stable-worldmodel: https://github.com/galilai-group/stable-worldmodel
+- OpenWorldLib: https://github.com/OpenDCAI/OpenWorldLib
+- BiWM: https://github.com/LynnReal-AI/BiWM
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 龙虾 OpenClaw
+
+1. MultiUserClaw: https://github.com/johnson7788/MultiUserClaw
+2. ClawManager: https://github.com/Yuan-lab-LLM/ClawManager
+3. Qclaw: https://github.com/qiuzhi2046/Qclaw
+4. NEXU: https://github.com/nexu-io/nexu
+5. OpenHanako: https://github.com/liliMozi/openhanako
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -749,6 +881,15 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - OpenOmni: https://github.com/RainBowLuoCS/OpenOmni
 - Ming-Flash-Omni: https://arxiv.org/abs/2510.24821
 - STAR: https://github.com/mm-mvr/star
+- InternVL-U: https://github.com/OpenGVLab/InternVL-U
+- LongCat-Next: https://github.com/meituan-longcat/LongCat-Next
+- SenseNova-U1: https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-SFT
+- TUNA-2: https://github.com/facebookresearch/tuna-2
+- Lance: https://github.com/bytedance/Lance
+- JoyAI-VL-Interaction: https://arxiv.org/abs/2606.14777 `Interaction`
+- MOSS-VL-Realtime: https://huggingface.co/OpenMOSS-Team/MOSS-VL-Realtime `Interaction`
+- SenseNova-Vision: https://huggingface.co/collections/sensenova/sensenova-vision
+- Mage-VL: https://huggingface.co/microsoft/Mage-VL `Interaction`
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -778,6 +919,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 20. [《大模型算法：强化学习、微调与对齐》](https://book.douban.com/subject/37331056/)
 21. [《The Smol Training Playbook: The Secrets to Building World-Class LLMs》](https://github.com/WangRongsheng/awesome-LLM-resources/blob/main/books/the-smol-training-playbook-the-secrets-to-building-world-class-llms.pdf)
 22. [《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents)
+23. [《Hands-On Modern RL》](https://github.com/walkinglabs/hands-on-modern-rl)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -843,6 +985,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 54. [Reinforcement Learning of Large Language Models](https://ernestryu.com/courses/RL-LLM.html)
 55. [NanoChat](https://github.com/karpathy/nanochat): The best ChatGPT that $100 can buy.
 56. [斯坦福CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
+57. [Reinforcement Learning of Large Language Models](https://ernestryu.com/courses/RL-LLM.html)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -1023,6 +1166,9 @@ MCP工具聚合：
 13. [SkillHub](https://skillhub.tencent.com/#categories)
 14. [LabClaw](https://github.com/wu-yc/LabClaw)
 15. [Modelscope Skills](https://modelscope.cn/skills)
+16. [Agent Skill](https://agentskill.sh/)
+17. [mmx-cli](https://github.com/MiniMax-AI/cli)
+18. [cocoloop hub](https://hub.cocoloop.cn/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -1209,6 +1355,8 @@ MCP工具聚合：
 22. https://github.com/Alic-Li/Mini_RWKV_7
 23. https://huggingface.co/Nanbeige/Nanbeige4-3B-Thinking-2511 `23T tokens预训练模型`
 24. https://github.com/stepfun-ai/SteptronOss
+25. https://github.com/huggingface/nanowhale
+26. https://github.com/OpenBMB/ForgeTrain
 
 
 <div align="right">
@@ -1231,6 +1379,7 @@ MCP工具聚合：
 12. https://github.com/ritabratamaiti/AnyModal
 13. https://github.com/yujunhuics/Reyes
 14. https://github.com/Victorwz/Open-Qwen2VL
+15. https://github.com/jingyaogong/minimind-o
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
