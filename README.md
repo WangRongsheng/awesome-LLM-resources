@@ -403,6 +403,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 50. [Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent): A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks.
 51. [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
 52. [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Self-hostable multi-agent orchestration with remote AI workstations (AgentPods), PTY sandbox + git worktree isolation, channels-based agent collaboration, built-in Kanban, and per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode.
+53. [Bernstein](https://github.com/sipyourdrink-ltd/bernstein): Multi-agent orchestrator for CLI coding agents. Coordinates 40+ CLI coding agents (Claude Code, Codex CLI, Gemini CLI, GitHub Copilot, Cursor, Aider, OpenHands, Goose, Qwen, Ollama, and more) running in parallel git worktrees. Deterministic Python scheduler, first-class MCP server, quality gates, cost tracking. Apache 2.0.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
