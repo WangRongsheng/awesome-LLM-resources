@@ -521,6 +521,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
+26. [Agent Island](https://github.com/tristan666666/agent-island): AI 编程状态伴侣，把 Claude Code、Codex、Gemini、Grok 与 Cursor 的会话状态、轮到你提醒和本机用量收进 Mac 刘海或 Windows 菜单栏。
 
 ## 视频 Video
 
