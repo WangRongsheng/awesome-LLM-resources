@@ -403,6 +403,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 50. [Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent): A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks.
 51. [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
 52. [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Self-hostable multi-agent orchestration with remote AI workstations (AgentPods), PTY sandbox + git worktree isolation, channels-based agent collaboration, built-in Kanban, and per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode.
+53. [Orkas](https://github.com/Orkas-AI/Orkas): MIT 开源、本地优先的多智能体桌面应用，由 Commander 协调专业 Agent 完成调研、编程、数据分析、文档和媒体任务，支持自带模型 API Key。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
