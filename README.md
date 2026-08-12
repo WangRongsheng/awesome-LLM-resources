@@ -550,22 +550,23 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 19. [MoGA](https://arxiv.org/pdf/2510.18692) `长视频`
 20. [LongCat-Video](https://huggingface.co/meituan-longcat/LongCat-Video)
 21. [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
-22. [LTX-2 (`🔥`)](https://huggingface.co/Lightricks/LTX-2)
+22. [LTX-2](https://huggingface.co/Lightricks/LTX-2)
     - [Training](https://github.com/Lightricks/LTX-2/blob/main/packages/ltx-trainer/README.md)
 23. [daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)
 24. [LongLive](https://github.com/NVlabs/LongLive)
 25. [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
 26. [NAVA](https://huggingface.co/baidu/NAVA)
-27. [LingBot-Video](https://huggingface.co/collections/robbyant/lingbot-video)
-28. [MiniMax-H3 (`🔥`)](https://huggingface.co/MiniMaxAI/MiniMax-H3)
-29. [MAGI-2-preview](https://huggingface.co/sand-ai/MAGI-2-preview)
-30. [LTX-2.5 (`🔥`)](https://huggingface.co/Lightricks/LTX-2.5)
+27. [LTX-2.3 (`🔥`)](https://huggingface.co/Lightricks/LTX-2.3)
+28. [LingBot-Video](https://huggingface.co/collections/robbyant/lingbot-video)
+29. [MiniMax-H3 (`🔥`)](https://huggingface.co/MiniMaxAI/MiniMax-H3)
+30. [MAGI-2-preview](https://huggingface.co/sand-ai/MAGI-2-preview)
+31. [LTX-2.5 (`🔥`)](https://huggingface.co/Lightricks/LTX-2.5)
 
 #### 编辑
 
 1. Wan2.1-VACE-14B: https://huggingface.co/Wan-AI/Wan2.1-VACE-14B
 2. Ditto: https://github.com/EzioBy/Ditto
-3. Bernini: https://github.com/bytedance/Bernini
+3. Bernini (`🔥`): https://github.com/bytedance/Bernini
 4. JoyAI-Video-Edit: https://huggingface.co/jdopensource/JoyAI-Video-Edit
 
 #### 训练
