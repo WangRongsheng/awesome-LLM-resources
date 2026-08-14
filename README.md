@@ -517,7 +517,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 24. [opencode](https://github.com/anomalyco/opencode)
 25. [Multica](https://github.com/multica-ai/multica)
-26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent): Local-first coding CLI and TUI that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer local memory system. macOS, Linux, Windows. Developer preview.
+26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
+27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 
 
 <div align="right">
