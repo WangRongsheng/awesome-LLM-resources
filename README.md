@@ -405,6 +405,13 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 52. [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Self-hostable multi-agent orchestration with remote AI workstations (AgentPods), PTY sandbox + git worktree isolation, channels-based agent collaboration, built-in Kanban, and per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode.
 53. [BitFun](https://github.com/GCWing/BitFun): Open-source agentic development environment with a Rust/Tauri desktop app and CLI for coding, research, office work, browser and desktop automation, extensible through MCP, Skills, and custom agents.
 
+#### Harness
+
+1. [pi](https://github.com/earendil-works/pi): AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI.
+2. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness): Everything is a Plugin.
+3. [OpenSquilla](https://github.com/opensquilla/opensquilla): a token-efficient, microkernel AI agent.
+4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness): Your Automated Agent Builder, Right on Your Desktop / Server.
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
