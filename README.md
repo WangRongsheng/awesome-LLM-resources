@@ -411,6 +411,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness): Everything is a Plugin.
 3. [OpenSquilla](https://github.com/opensquilla/opensquilla): a token-efficient, microkernel AI agent.
 4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness): Your Automated Agent Builder, Right on Your Desktop / Server.
+5. [DSH Studio](https://github.com/Moresyl/dsh-studio): Cross-platform desktop interface for installing, supervising, and managing DeepSeek Harness.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
