@@ -1182,6 +1182,7 @@ MCP工具聚合：
 16. [Agent Skill](https://agentskill.sh/)
 17. [mmx-cli](https://github.com/MiniMax-AI/cli)
 18. [cocoloop hub](https://hub.cocoloop.cn/)
+19. [UIZZE anti-ui-slop](https://github.com/uizze/uizze): 面向 Codex、Claude Code、Cursor、Copilot 等编码 Agent 的免费 UI 质量门禁 Skill；提供确定性的 `check_ui_slop` MCP 预览与 GitHub Action，完整 UIZZE 还可检索 800,000+ 个真实 Web 和 iOS 界面。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
