@@ -1438,6 +1438,8 @@ MCP工具聚合：
 36. [Beam Search快速理解及代码解析](https://www.cnblogs.com/nickchen121/p/15499576.html)
 37. [基于 transformers 的 generate() 方法实现多样化文本生成：参数含义和算法原理解读](https://blog.csdn.net/muyao987/article/details/125917234)
 38. [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+39. [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing): 每日自动刷新的编程 Agent 模型价目表，JSON / CSV 可直接引用，网页版把每百万 token 价格和跑分排名放在同一行。
+40. [llm-cost-calculator](https://github.com/xyzs996/llm-cost-calculator): 单文件网页算价器，读上面那份 JSON，按调用时刻判 DeepSeek 峰谷价、按实际长度判长上下文档位、按自己的缓存命中率折算。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
