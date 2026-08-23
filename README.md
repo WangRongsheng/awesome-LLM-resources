@@ -999,6 +999,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 55. [NanoChat](https://github.com/karpathy/nanochat): The best ChatGPT that $100 can buy.
 56. [斯坦福CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
 57. [Reinforcement Learning of Large Language Models](https://ernestryu.com/courses/RL-LLM.html)
+58. [AI Engineer Notebooks](https://github.com/calmrocks/ai-engineer-notebooks): Framework-free, hands-on Colab notebooks for the AI Engineer / FDE stack — model APIs, RAG, evals-as-the-spine, agents (loop from scratch, tool design, guardrails, MCP, Skills), fine-tuning vs LoRA, security, and LLMOps. Runs on the free Groq API.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
