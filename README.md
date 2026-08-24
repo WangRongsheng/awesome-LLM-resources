@@ -301,6 +301,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 1. [LM Arena](https://lmarena.ai/zh)
 2. [Design Arena](https://www.designarena.ai/)
 3. [Vals AI](https://www.vals.ai/home) `evaluation`
+4. [TeamoRouter](https://teamorouter.cn?utm_source=github&utm_medium=awesome-list&utm_campaign=usage): An LLM gateway aggregating Claude, GPT, Gemini & DeepSeek under one OpenAI-compatible API — unified routing, per-key billing and auditable cost control.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
