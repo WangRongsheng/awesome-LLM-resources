@@ -468,6 +468,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Kahneman4Review: https://huggingface.co/spaces/nuojohnchen/Kahneman4Review
 - Academic Figure Generator: https://github.com/LigphiDonk/academic-figure-generator
 - PaperFit: https://github.com/OpenRaiser/PaperFit
+- Lune Research: https://github.com/RetrogradeLabs/lune-mcp-server
 
 #### 全自动科研
 
