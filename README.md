@@ -16,9 +16,18 @@
 > [!TIP]
 > 如果您对**医疗数据集/大模型/多模态/评估相关资源感兴趣**！请访问我们的 🤗 [Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) !
 
+#### 📢友情赞助
+
+<table>
+<tr>
+<td width="180"><a href="https://go.apimart.ai/gh-awesome-llm-resources"><img src="assets/cache/1A5837081162DA166DB1F685D37D95B5.png" alt="APIMart" width="150"></a></td>
+<td>感谢 APIMart 赞助了本项目！APIMart 是专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 $0.006/张，1 美元可出图 160+ 张。图片、视频一套异步 API 通吃，提交任务拿 ID、回调取结果，跑批万张不超时、换模型不改代码。按量付费、无月费，通过此 <a href="https://go.apimart.ai/gh-awesome-llm-resources">注册链接</a> 注册即可开用。</td>
+</tr>
+</table>
+
 ---
 
-#### Contents
+#### 目录
 
 - [推荐 Suggestion](#推荐-Suggestion) 🌟
 - [数据 Data](#数据-Data)
@@ -264,7 +273,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 54. [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX): OpenAI-compatible local LLM inference server for Apple Silicon, 2-4x faster than Ollama.
 55. [TokenSpeed](https://github.com/lightseekorg/tokenspeed): a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
-56. [qwen3.8-27b-in-c](https://github.com/shyringo/qwen3.8-27b-in-c): A native C inference engine that runs Qwen3.8-27B locally on a single laptop CPU, directly loads GGUF weights, and provides a tested 8 GB memory path without requiring a GPU or Python.
+56. [FreeToken](https://github.com/FlashML-org/FreeToken): Unlock datacenter-class intelligence on the hardware you already own.
+57. [qwen3.8-27b-in-c](https://github.com/shyringo/qwen3.8-27b-in-c): A native C inference engine that runs Qwen3.8-27B locally on a single laptop CPU, directly loads GGUF weights, and provides a tested 8 GB memory path without requiring a GPU or Python.
 
 
 <div align="right">
@@ -412,6 +422,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness): Everything is a Plugin.
 3. [OpenSquilla](https://github.com/opensquilla/opensquilla): a token-efficient, microkernel AI agent.
 4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness): Your Automated Agent Builder, Right on Your Desktop / Server.
+5. [FrontierAgent](https://github.com/ApodexAI/FrontierAgent): an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
