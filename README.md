@@ -1164,6 +1164,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [SandBase CLI](https://github.com/sandbaseai/cli)：本地 MCP 桥接 CLI，可让受支持的 AI 客户端发现并调用 2,000+ AI 模型与 API。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
