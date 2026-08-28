@@ -537,6 +537,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [Multica](https://github.com/multica-ai/multica)
 26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
 27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+28. [SandBase CLI](https://github.com/sandbaseai/cli)：开源 AI CLI 与本地 MCP server，把 Claude Code、Cursor、Codex、ChatGPT、Gemini CLI、OpenClaw 等 25 个客户端统一接入 2,000+ 个模型/API，并提供 OAuth、诊断与回滚。
 
 
 <div align="right">
