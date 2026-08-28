@@ -1381,6 +1381,7 @@ MCP工具聚合：
 24. https://github.com/stepfun-ai/SteptronOss
 25. https://github.com/huggingface/nanowhale
 26. https://github.com/OpenBMB/ForgeTrain
+27. https://github.com/vukrosic/glm-5.3-flash-from-scratch
 
 
 <div align="right">
