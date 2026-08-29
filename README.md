@@ -1054,6 +1054,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 35. [cnblog: 第七子](https://www.cnblogs.com/theseventhson)
 36. [Implementation of all RAG techniques in a simpler way.](https://github.com/FareedKhan-dev/all-rag-techniques)
 37. [Theoretical Machine Learning: A Handbook for Everyone](https://www.tengjiaye.com/mlbook.html)
+38. [AMD Strix Halo Local LLM Guide](https://github.com/hogeheer499-commits/strix-halo-guide): Reproducible Ubuntu, Ollama, llama.cpp, Vulkan/RADV, and ROCm setup with public benchmark evidence for Ryzen AI MAX+ 395 systems.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
