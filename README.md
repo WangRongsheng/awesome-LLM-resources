@@ -1054,7 +1054,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 35. [cnblog: 第七子](https://www.cnblogs.com/theseventhson)
 36. [Implementation of all RAG techniques in a simpler way.](https://github.com/FareedKhan-dev/all-rag-techniques)
 37. [Theoretical Machine Learning: A Handbook for Everyone](https://www.tengjiaye.com/mlbook.html)
-
+38. [nano-SGLang Interactive Guide](https://github.com/lora-sys/nano-sglang-interactive-guide)：面向开发者的中文 SGLang Runtime 互动教程，提供 13 章浏览器实验、源码锚点、Trace 回放与中文原理动画，覆盖连续批处理、KV Cache、RadixAttention、Structured Outputs、Sampling、投机解码和调度机制。
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
