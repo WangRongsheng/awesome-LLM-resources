@@ -944,6 +944,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 21. [《The Smol Training Playbook: The Secrets to Building World-Class LLMs》](https://github.com/WangRongsheng/awesome-LLM-resources/blob/main/books/the-smol-training-playbook-the-secrets-to-building-world-class-llms.pdf)
 22. [《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents)
 23. [《Hands-On Modern RL》](https://github.com/walkinglabs/hands-on-modern-rl)
+24. [《Building Agentic Applications with CrewAI and MCP》](https://www.manning.com/books/building-agentic-applications-with-crewai-and-mcp)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
