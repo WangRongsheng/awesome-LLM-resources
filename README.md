@@ -301,6 +301,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
+20. [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench): A browser-use benchmark with 283 tasks (V1 153 + V2 130) across 163 live websites and 15 life categories, using submission interception plus an LLM judge for outcome evaluation. 面向浏览器智能体的评测基准，覆盖15个类别、163个真实网站上的283个任务（V1 153 + V2 130），采用提交拦截与LLM评审进行结果评估。[[paper](https://arxiv.org/abs/2604.08523)] [[project](https://claw-bench.com/)]
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
