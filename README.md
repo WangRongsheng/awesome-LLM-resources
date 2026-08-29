@@ -1054,6 +1054,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 35. [cnblog: 第七子](https://www.cnblogs.com/theseventhson)
 36. [Implementation of all RAG techniques in a simpler way.](https://github.com/FareedKhan-dev/all-rag-techniques)
 37. [Theoretical Machine Learning: A Handbook for Everyone](https://www.tengjiaye.com/mlbook.html)
+38. [nano-vLLM Interactive Guide](https://github.com/lora-sys/nano-vllm-interactive-guide)：面向开发者的中文 vLLM 推理机制互动教程，提供 13 个无需 GPU 的浏览器实验、源码锚点、教学 Trace 与可选真实运行路径，覆盖连续批处理、PagedAttention、KV/Prefix Cache、CUDA Graph、量化和并行推理。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
