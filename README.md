@@ -538,6 +538,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [Multica](https://github.com/multica-ai/multica)
 26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
 27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+28. [kolega-code](https://github.com/kolega-ai/kolega-code): Terminal coding agent where the model writes its own multi-agent workflows (Gigacode). Provider-agnostic, local-first, 15+ model providers, MCP client, browser agent.
 
 
 <div align="right">
