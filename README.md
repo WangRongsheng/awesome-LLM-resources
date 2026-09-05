@@ -531,11 +531,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 18. [OpenCode](https://github.com/opencode-ai/opencode)
 19. [Kiro](https://kiro.dev/)
 20. [CodeBuddy](https://copilot.tencent.com/)
-21. [Kiro](https://kiro.dev/)
-22. [CodeX (`🔥`)](https://github.com/openai/codex)
-23. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
-24. [opencode](https://github.com/anomalyco/opencode)
-25. [Multica](https://github.com/multica-ai/multica)
+21. [Awesome WorkBuddy](https://github.com/sandbaseai/awesome-workbuddy)（腾讯 WorkBuddy 双语文档、Skills、MCP、工作流与开源生态目录）
+22. [Kiro](https://kiro.dev/)
+23. [CodeX (`🔥`)](https://github.com/openai/codex)
+24. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
+25. [opencode](https://github.com/anomalyco/opencode)
+26. [Multica](https://github.com/multica-ai/multica)
 26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
 27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 
