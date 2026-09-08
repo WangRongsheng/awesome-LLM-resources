@@ -20,6 +20,19 @@
 
 <table>
 <tr>
+<td width="180"><a href="https://go.apimart.ai/gh-awesome-llm-resources"><img src="assets/cache/D86EFC7485D763E251A5C1674E110AE5.png" alt="Infistar.cc" width="150"></a></td>
+<td>感谢 Infistar.cc 无限星河 赞助本项目！</br>
+
+</br>⚡ 稳定高效的模型通道：价格低至官方渠道0.3折，模型倍率公开透明，多节点冗余保障，有效降低限流、429 与断连影响；
+</br>🧠 主流模型一站式接入：一个 API Key 即可调用 Claude、ChatGPT、Gemini、Kimi、GLM、DeepSeek 等主流模型，覆盖文本生成、图像生成、多模态推理等场景；
+</br>📚 契合本仓库资源实践：无论是多模态生成、辅助编程、模型推理还是 MCP / Agent 开发，都可直接把 Infistar 作为 OpenAI、Claude、Gemini 兼容上游，边学边练，零门槛跑通仓库中收录的各类项目与教程；
+
+</br>🎁 专属福利：通过 [<a href="https://www.infistar.cc/register?aff=W8XCMZ49&ref_source=link">专属推广链接</a>] 注册即可领取 5 美元等值测试额度 / 首充专属优惠，快速接入并开始调用！</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="180"><a href="https://go.apimart.ai/gh-awesome-llm-resources"><img src="assets/cache/1A5837081162DA166DB1F685D37D95B5.png" alt="APIMart" width="150"></a></td>
 <td>感谢 APIMart 赞助了本项目！APIMart 是专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 $0.006/张，1 美元可出图 160+ 张。图片、视频一套异步 API 通吃，提交任务拿 ID、回调取结果，跑批万张不超时、换模型不改代码。按量付费、无月费，通过此 <a href="https://go.apimart.ai/gh-awesome-llm-resources">注册链接</a> 注册即可开用。</td>
 </tr>
