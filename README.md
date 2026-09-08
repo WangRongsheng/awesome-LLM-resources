@@ -437,6 +437,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness): Your Automated Agent Builder, Right on Your Desktop / Server.
 5. [FrontierAgent](https://github.com/ApodexAI/FrontierAgent): an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work.
 
+6. [Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763): 技术报告；通过 Harness-State Augmentation 训练模型适应 Skills、工具、提示词和 Hooks 的变化，并报告淘宝直播数字人应用结果。
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
