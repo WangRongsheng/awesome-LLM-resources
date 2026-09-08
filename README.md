@@ -551,6 +551,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [Multica](https://github.com/multica-ai/multica)
 26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
 27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+28. [ContextStream](https://contextstream.io): Shared project context for Cursor, Claude Code, Codex, Grok. MCP https://mcp.contextstream.io/mcp. Intelligence isn’t the bottleneck. Context is.
 
 
 <div align="right">
