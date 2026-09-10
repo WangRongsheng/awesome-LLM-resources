@@ -325,6 +325,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [Design Arena](https://www.designarena.ai/)
 3. [Vals AI](https://www.vals.ai/home) `evaluation`
 4. [蚂蚁数科](https://maas.antdigital.com/models)
+5. [StudyArena](https://studyarena.com) - 免费比较同一学习问题的三个 AI 回答，投票后再揭晓模型。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
