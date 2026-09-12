@@ -367,6 +367,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 33. [XRAG](https://github.com/DocAILab/XRAG): a benchmarking framework designed to evaluate the foundational components of advanced Retrieval-Augmented Generation (RAG) systems.
 34. [Rankify](https://github.com/DataScienceUIBK/rankify): A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation.
 35. [RAG-Anything](https://github.com/HKUDS/RAG-Anything): All-in-One RAG System.
+36. [Wenlan](https://github.com/7xuanlu/wenlan): 本地优先、有来源的 AI 知识库与 LLM wiki，把 Agent 的工作沉淀为带引用、可维护的 wiki 页面，通过 MCP 提供给 Claude Code、Codex、Cursor 等客户端。Rust 编写，Apache 2.0 开源。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
