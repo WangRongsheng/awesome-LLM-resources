@@ -445,6 +445,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. [OpenSquilla](https://github.com/opensquilla/opensquilla): a token-efficient, microkernel AI agent.
 4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness): Your Automated Agent Builder, Right on Your Desktop / Server.
 5. [FrontierAgent](https://github.com/ApodexAI/FrontierAgent): an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work.
+6. [Moching (`🔥`)](https://github.com/moching-ai-dev/moching): Open-source AI desktop agent (Rust) that sees and controls the screen — 219 native tools, real-time screen visual understanding + UI tree, autonomous see-act-verify loop, 30+ skill store, MCP plugin support. Windows / macOS.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
