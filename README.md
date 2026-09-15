@@ -938,6 +938,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - MOSS-VL-Realtime: https://huggingface.co/OpenMOSS-Team/MOSS-VL-Realtime `Interaction`
 - SenseNova-Vision: https://huggingface.co/collections/sensenova/sensenova-vision
 - Mage-VL: https://huggingface.co/microsoft/Mage-VL `Interaction`
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
