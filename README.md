@@ -1195,6 +1195,7 @@ MCP工具聚合：
 </div>
 
 ## 技能 Skills
+- [marketing-mindset](https://axelfreeman.github.io/marketing-mindset/) — open agent skill (SKILL.md) for B2B marketing tests: sample size, kill rules, pricing a first client, cold-email deliverability. Install: `npx marketing-mindset`
 
 1. [Agent Skills (Claude Skills) 详细攻略，一期视频精通](https://www.bilibili.com/video/BV1HuiyBQE9G)
 2. [OpenClaw](https://docs.openclaw.ai/zh-CN)
