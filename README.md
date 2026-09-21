@@ -253,6 +253,7 @@
 12. [LM Studio (`🔥`)](https://lmstudio.ai/): Discover, download, and run local LLMs.
 13. [chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx): Chat with your data natively on Apple Silicon using MLX Framework.
 14. [LLM Pricing](https://llmpricecheck.com/): Quickly Find the Perfect Large Language Models (LLM) API for Your Budget! Use Our Free Tool for Instant Access to the Latest Prices from Top Providers.
+15. [Modelglass](https://modelglass.com.au): Sourced, versioned pricing and capability data for AI models — compare and route to the cheapest model that clears a capability bar.
 15. [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter): A natural language interface for computers.
 16. [Chat-ollama](https://github.com/sugarforever/chat-ollama): An open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 17. [chat-ui](https://github.com/huggingface/chat-ui): Open source codebase powering the HuggingChat app.
