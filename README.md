@@ -5,10 +5,10 @@
 <p align="center">挖掘那些真正有价值的项目，而不仅仅是噱头</p>
 
 <p align="center">
-  <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg ></a>
-  <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/forks/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
-  <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/stars/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
-  <a href="https://github.com/WangRongsheng/awesome-LLM-resourses"><img src=https://img.shields.io/github/watchers/WangRongsheng/awesome-LLM-resourses.svg?style=social ></a>
+  <a href="https://github.com/WangRongsheng/awesome-LLM-resources"><img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg ></a>
+  <a href="https://github.com/WangRongsheng/awesome-LLM-resources"><img src=https://img.shields.io/github/forks/WangRongsheng/awesome-LLM-resources.svg?style=social ></a>
+  <a href="https://github.com/WangRongsheng/awesome-LLM-resources"><img src=https://img.shields.io/github/stars/WangRongsheng/awesome-LLM-resources.svg?style=social ></a>
+  <a href="https://github.com/WangRongsheng/awesome-LLM-resources"><img src=https://img.shields.io/github/watchers/WangRongsheng/awesome-LLM-resources.svg?style=social ></a>
   <!-- <a href="https://gitcode.com/wangrongsheng/awesome-LLM-resources"><img src="https://raw.githubusercontent.com/WangRongsheng/awesome-LLM-resources/main/assets/gitcode.png" height="25" alt="gitcode"> -->
 </a>
 </p>
@@ -1120,11 +1120,11 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 28. [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115)
 29. [YuLan-Mini: An Open Data-efficient Language Model](https://arxiv.org/abs/2412.17743)
 30. [An Introduction to Vision-Language Modeling](https://arxiv.org/abs/2405.17247)
-31. [DeepSeek V3 Technical Report](https://github.com/WangRongsheng/awesome-LLM-resourses/blob/main/docs/DeepSeek_V3.pdf)
+31. [DeepSeek V3 Technical Report](https://github.com/WangRongsheng/awesome-LLM-resources/blob/main/docs/DeepSeek_V3.pdf)
 32. [2 OLMo 2 Furious](https://arxiv.org/abs/2501.00656)
 33. [Yi-Lightning Technical Report](https://arxiv.org/abs/2412.01253)
 34. [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1)
-35. [KIMI K1.5](https://github.com/WangRongsheng/awesome-LLM-resourses/blob/main/docs/Kimi_k1.5.pdf)
+35. [KIMI K1.5](https://github.com/WangRongsheng/awesome-LLM-resources/blob/main/docs/Kimi_k1.5.pdf)
 36. [Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models](https://arxiv.org/abs/2501.14818)
 37. [Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923)
 38. [Baichuan-M1: Pushing the Medical Capability of Large Language Models](https://arxiv.org/abs/2502.12671)
@@ -1492,21 +1492,21 @@ MCP工具聚合：
 如果你觉得本项目对你有帮助，欢迎引用：
 ```bib
 @misc{wang2024llm,
-      title={awesome-LLM-resourses}, 
+      title={awesome-LLM-resources}, 
       author={Rongsheng Wang},
       year={2024},
       publisher = {GitHub},
       journal = {GitHub repository},
-      howpublished = {\url{https://github.com/WangRongsheng/awesome-LLM-resourses}},
+      howpublished = {\url{https://github.com/WangRongsheng/awesome-LLM-resources}},
 }
 ```
 
 <!--
-[![Forkers repo roster for @WangRongsheng/awesome-LLM-resourses](https://reporoster.com/forks/WangRongsheng/awesome-LLM-resourses)](https://github.com/WangRongsheng/awesome-LLM-resourses/network/members)
+[![Forkers repo roster for @WangRongsheng/awesome-LLM-resources](https://reporoster.com/forks/WangRongsheng/awesome-LLM-resources)](https://github.com/WangRongsheng/awesome-LLM-resources/network/members)
 
-[![Stargazers repo roster for @WangRongsheng/awesome-LLM-resourses](https://reporoster.com/stars/WangRongsheng/awesome-LLM-resourses)](https://github.com/WangRongsheng/awesome-LLM-resourses/stargazers)
+[![Stargazers repo roster for @WangRongsheng/awesome-LLM-resources](https://reporoster.com/stars/WangRongsheng/awesome-LLM-resources)](https://github.com/WangRongsheng/awesome-LLM-resources/stargazers)
 
-[![Stargazers over time](https://starchart.cc/WangRongsheng/awesome-LLM-resourses.svg)](https://starchart.cc/WangRongsheng/awesome-LLM-resourses)
+[![Stargazers over time](https://starchart.cc/WangRongsheng/awesome-LLM-resources.svg)](https://starchart.cc/WangRongsheng/awesome-LLM-resources)
 -->
 
 ![Alt](https://repobeats.axiom.co/api/embed/a7c45f31e87a3e6973bb9a926e33e80d05553c52.svg "Repobeats analytics image")
