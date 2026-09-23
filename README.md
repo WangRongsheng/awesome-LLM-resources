@@ -532,6 +532,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 </div>
 
 ## 代码 Coding
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 1. [Cloi CLI](https://github.com/cloi-ai/cloi): Local debugging agent that runs in your terminal.
 2. [Devin](https://devin.ai/)
