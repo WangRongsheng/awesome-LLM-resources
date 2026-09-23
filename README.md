@@ -1190,6 +1190,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [Cortex](https://github.com/cortex-docs/cortex) - 可从 OpenAPI、AsyncAPI、GraphQL、gRPC 和 OpenRPC 生成交互式文档、类型安全 SDK 与 MCP 服务器。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
