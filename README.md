@@ -296,6 +296,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 54. [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX): OpenAI-compatible local LLM inference server for Apple Silicon, 2-4x faster than Ollama.
 55. [TokenSpeed](https://github.com/lightseekorg/tokenspeed): a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
 56. [FreeToken](https://github.com/FlashML-org/FreeToken): Unlock datacenter-class intelligence on the hardware you already own.
+57. [JuL](https://github.com/usejul/jul): Local typed decisions (choice, yes/no, score) read from an LLM's hidden states without generating a token; runs on MLX or PyTorch, with calibrated probabilities.
 
 
 <div align="right">
