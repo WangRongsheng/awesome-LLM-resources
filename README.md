@@ -560,6 +560,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [Multica](https://github.com/multica-ai/multica)
 26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
 27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+28. [deja-vu](https://github.com/vshulcz/deja-vu): 索引 Claude Code、Codex、Cursor 等 34 个编码智能体已经写在磁盘上的会话记录，包括安装之前的历史；本地 BM25 检索，不用大模型、不用向量嵌入。
 
 
 <div align="right">
