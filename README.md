@@ -560,6 +560,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [Multica](https://github.com/multica-ai/multica)
 26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
 27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+28. [Manifest API Bot](https://manifest.build/api-bot/): GitHub App that uses an LLM to open a pull request with the code fix when a third-party API your code calls changes.
 
 
 <div align="right">
