@@ -852,6 +852,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. Qclaw: https://github.com/qiuzhi2046/Qclaw
 4. NEXU: https://github.com/nexu-io/nexu
 5. OpenHanako: https://github.com/liliMozi/openhanako
+6. openclaw-monitor: https://github.com/flik2002/openclaw-monitor
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
