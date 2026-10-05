@@ -296,6 +296,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 54. [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX): OpenAI-compatible local LLM inference server for Apple Silicon, 2-4x faster than Ollama.
 55. [TokenSpeed](https://github.com/lightseekorg/tokenspeed): a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
 56. [FreeToken](https://github.com/FlashML-org/FreeToken): Unlock datacenter-class intelligence on the hardware you already own.
+57. [LLM VRAM Calculator](https://modelvram.com/llm-vram-calculator/): Estimate the GPU memory (weights, KV cache, overhead) any Hugging Face model needs for local inference at a given quantization and context length. Open source ([code](https://github.com/159753a52/llm-vram-calculator)).
 
 
 <div align="right">
