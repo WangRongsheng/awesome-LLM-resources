@@ -667,6 +667,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - SenseNova-U1: https://github.com/OpenSenseNova/SenseNova-U1
 - Mage-Flow: https://huggingface.co/collections/microsoft/mage
 - Qwen-Image-2.1: https://huggingface.co/Qwen/Qwen-Image-2.1
+- Ming-Image-0.1: https://huggingface.co/inclusionAI/Ming-Image-0.1-Design
 
 #### 编辑
 
