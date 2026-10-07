@@ -20,15 +20,6 @@
 
 <table>
 <tr>
-<td width="180"><a href="https://www.packyapi.ai/"><img src="assets/cache/logo-ck.png" alt="packyapi.ai" width="150"></a></td>
-<td>PackyCode 是一家稳定、高效的 API 中转服务商，一句话接入主流大模型。统一域名、统一密钥、智能容灾切换，97% 可用性。人民币1:1充值，无汇率无手续费坑，新用户首充立享折扣 + $1免费体验额度，多分组折扣低至 2 折起，提供专属Codex/Claude Code高速通道。
-
-</br><a href="https://www.packyapi.ai/register?aff=b4Vf">点此链接注册 ，立即开始使用！</a> </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="180"><a href="https://go.apimart.ai/gh-awesome-llm-resources"><img src="assets/cache/D86EFC7485D763E251A5C1674E110AE5.png" alt="Infistar.cc" width="150"></a></td>
 <td>感谢 Infistar.cc 无限星河 赞助本项目！</br>
 
@@ -37,6 +28,15 @@
 </br>📚 契合本仓库资源实践：无论是多模态生成、辅助编程、模型推理还是 MCP / Agent 开发，都可直接把 Infistar 作为 OpenAI、Claude、Gemini 兼容上游，边学边练，零门槛跑通仓库中收录的各类项目与教程；
 
 </br>🎁 专属福利：通过 [<a href="https://www.infistar.cc/register?aff=W8XCMZ49&ref_source=link">专属推广链接</a>] 注册即可领取 5 美元等值测试额度 / 首充专属优惠，快速接入并开始调用！</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="180"><a href="https://www.packyapi.ai/"><img src="assets/cache/logo-ck.png" alt="packyapi.ai" width="150"></a></td>
+<td>PackyCode 是一家稳定、高效的 API 中转服务商，一句话接入主流大模型。统一域名、统一密钥、智能容灾切换，97% 可用性。人民币1:1充值，无汇率无手续费坑，新用户首充立享折扣 + $1免费体验额度，多分组折扣低至 2 折起，提供专属Codex/Claude Code高速通道。
+
+</br><a href="https://www.packyapi.ai/register?aff=b4Vf">点此链接注册 ，立即开始使用！</a> </td>
 </tr>
 </table>
 
