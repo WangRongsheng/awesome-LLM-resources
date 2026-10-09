@@ -1478,6 +1478,7 @@ MCP工具聚合：
 36. [Beam Search快速理解及代码解析](https://www.cnblogs.com/nickchen121/p/15499576.html)
 37. [基于 transformers 的 generate() 方法实现多样化文本生成：参数含义和算法原理解读](https://blog.csdn.net/muyao987/article/details/125917234)
 38. [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+39. [AI API 成本核算指南](https://github.com/codefarmer4GDP/awesome-ai-api-cn/blob/main/guides/cost-comparison.md): 统一价格单位，比较缓存、充值赠送、周期套餐与失败重试成本；附中英文双方案计算器。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
