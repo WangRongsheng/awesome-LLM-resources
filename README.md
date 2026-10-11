@@ -1175,6 +1175,9 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [MCP是什么？为啥是下一代AI标准？MCP原理+开发实战！在Cursor、Claude、Cline中使用MCP，让AI真正自动化！](https://www.youtube.com/watch?v=jGVsLeDxtQY)
 3. [从零编写MCP并发布上线，超简单！手把手教程](https://www.youtube.com/watch?v=a3U-JrFkA9s)
 
+MCP服务：
+1. [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp): 免费的网页搜索与内容提取服务，无需账号或 API Key；支持 Streamable HTTP，匿名搜索使用 Fast 模式。
+
 MCP工具聚合：
 1. [smithery.ai](https://smithery.ai/)
 2. [mcp.so](https://mcp.so/)
