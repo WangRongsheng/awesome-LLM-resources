@@ -219,6 +219,7 @@
 51. [NeMo AutoModel](https://github.com/NVIDIA-NeMo/Automodel): Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support.
 52. [VeOmni](https://github.com/ByteDance-Seed/VeOmni): Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo.
 53. [Soup](https://github.com/MakazhanAlpamys/Soup): One-config CLI for LLM post-training (SFT/DPO/GRPO/KTO/ORPO). Layer streaming trains an 8B model on a 4 GB laptop GPU by streaming the frozen base from host RAM one decoder layer at a time.
+54. [Fuuga](https://bitbucket.org/thorium/fuuga): An LLM pipeline built from scratch in F#/.NET on TorchSharp: BPE tokenizer, pre-training, LoRA/QLoRA/DPO/GRPO fine-tuning of Hugging Face or GGUF donor models, RAG and generation; GPU or CPU, no Python.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
