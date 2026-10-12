@@ -1192,6 +1192,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [OpenConnector](https://github.com/oomol-lab/open-connector)：可自部署的 MCP 连接网关，支持 SaaS 动作发现与执行、OAuth/API Key 凭证管理及动作权限策略，并提供 HTTP 和 OpenAPI 接口。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
