@@ -446,6 +446,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. [OpenSquilla](https://github.com/opensquilla/opensquilla): a token-efficient, microkernel AI agent.
 4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness): Your Automated Agent Builder, Right on Your Desktop / Server.
 5. [FrontierAgent](https://github.com/ApodexAI/FrontierAgent): an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work.
+6. [Xenon](https://github.com/xianyu-sheng/Xenon): an evidence-grounded coding agent harness — append-only session events hash chain, a deterministic hollow-answer gate, and a manual-verification checklist for everything it could not verify.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
