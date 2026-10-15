@@ -377,6 +377,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 33. [XRAG](https://github.com/DocAILab/XRAG): a benchmarking framework designed to evaluate the foundational components of advanced Retrieval-Augmented Generation (RAG) systems.
 34. [Rankify](https://github.com/DataScienceUIBK/rankify): A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation.
 35. [RAG-Anything](https://github.com/HKUDS/RAG-Anything): All-in-One RAG System.
+36. [FreeRet](https://github.com/MCG-NJU/FreeRet): Training-free multimodal retrieval and multiple-choice reranking with off-the-shelf MLLMs; a retrieval component for multimodal pipelines.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
