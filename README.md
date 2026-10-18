@@ -1508,6 +1508,7 @@ MCP工具聚合：
 
 [![Stargazers repo roster for @WangRongsheng/awesome-LLM-resourses](https://reporoster.com/stars/WangRongsheng/awesome-LLM-resourses)](https://github.com/WangRongsheng/awesome-LLM-resourses/stargazers)
 
+- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub with bi-temporal governance, supersession chains, hash-chain audit, and 9 MCP tools. Local-first, zero cloud. `pip install memtether`
 [![Stargazers over time](https://starchart.cc/WangRongsheng/awesome-LLM-resourses.svg)](https://starchart.cc/WangRongsheng/awesome-LLM-resourses)
 -->
 
