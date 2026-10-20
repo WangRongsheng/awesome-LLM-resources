@@ -773,6 +773,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 35. Confucius4-TTS: https://github.com/netease-youdao/Confucius4-TTS
 36. Dia-1.6B: https://huggingface.co/nari-labs/Dia-1.6B-0626
 37. FireRedTTS3: https://github.com/FireRedTeam/FireRedTTS3
+38. Ming-3.0: https://huggingface.co/collections/inclusionAI/ming-30
 
 #### STT/ASR
 
