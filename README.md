@@ -446,6 +446,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. [OpenSquilla](https://github.com/opensquilla/opensquilla): a token-efficient, microkernel AI agent.
 4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness): Your Automated Agent Builder, Right on Your Desktop / Server.
 5. [FrontierAgent](https://github.com/ApodexAI/FrontierAgent): an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work.
+6. [oh-my-agent](https://github.com/first-fluke/oh-my-agent): Vendor-agnostic harness that adds planner, engineer, reviewer and debugger roles to the coding agent you already use (Claude Code, Codex CLI, Cursor and others), from one portable `.agents/` folder.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
