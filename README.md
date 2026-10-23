@@ -16,9 +16,40 @@
 > [!TIP]
 > 如果您对**医疗数据集/大模型/多模态/评估相关资源感兴趣**！请访问我们的 🤗 [Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) !
 
+#### 📢友情赞助
+
+<table>
+<tr>
+<td width="180"><a href="https://go.apimart.ai/gh-awesome-llm-resources"><img src="assets/cache/D86EFC7485D763E251A5C1674E110AE5.png" alt="Infistar.cc" width="150"></a></td>
+<td>感谢 Infistar.cc 无限星河 赞助本项目！</br>
+
+</br>⚡ 稳定高效的模型通道：价格低至官方渠道0.3折，模型倍率公开透明，多节点冗余保障，有效降低限流、429 与断连影响；
+</br>🧠 主流模型一站式接入：一个 API Key 即可调用 Claude、ChatGPT、Gemini、Kimi、GLM、DeepSeek 等主流模型，覆盖文本生成、图像生成、多模态推理等场景；
+</br>📚 契合本仓库资源实践：无论是多模态生成、辅助编程、模型推理还是 MCP / Agent 开发，都可直接把 Infistar 作为 OpenAI、Claude、Gemini 兼容上游，边学边练，零门槛跑通仓库中收录的各类项目与教程；
+
+</br>🎁 专属福利：通过 [<a href="https://www.infistar.cc/register?aff=W8XCMZ49&ref_source=link">专属推广链接</a>] 注册即可领取 5 美元等值测试额度 / 首充专属优惠，快速接入并开始调用！</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="180"><a href="https://www.packyapi.ai/"><img src="assets/cache/logo-ck.png" alt="packyapi.ai" width="150"></a></td>
+<td>PackyCode 是一家稳定、高效的 API 中转服务商，一句话接入主流大模型。统一域名、统一密钥、智能容灾切换，97% 可用性。人民币1:1充值，无汇率无手续费坑，新用户首充立享折扣 + $1免费体验额度，多分组折扣低至 2 折起，提供专属Codex/Claude Code高速通道。
+
+</br><a href="https://www.packyapi.ai/register?aff=b4Vf">点此链接注册 ，立即开始使用！</a> </td>
+</tr>
+</table>
+
+<!-- <table>
+<tr>
+<td width="180"><a href="https://go.apimart.ai/gh-awesome-llm-resources"><img src="assets/cache/1A5837081162DA166DB1F685D37D95B5.png" alt="APIMart" width="150"></a></td>
+<td>感谢 APIMart 赞助了本项目！APIMart 是专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 $0.006/张，1 美元可出图 160+ 张。图片、视频一套异步 API 通吃，提交任务拿 ID、回调取结果，跑批万张不超时、换模型不改代码。按量付费、无月费，通过此 <a href="https://go.apimart.ai/gh-awesome-llm-resources">注册链接</a> 注册即可开用。</td>
+</tr>
+</table> -->
+
 ---
 
-#### Contents
+#### 目录
 
 - [推荐 Suggestion](#推荐-Suggestion) 🌟
 - [数据 Data](#数据-Data)
@@ -187,6 +218,7 @@
 50. [Twinkle](https://github.com/modelscope/twinkle): a lightweight, client-server training framework engineered with modular, high-cohesion interfaces.
 51. [NeMo AutoModel](https://github.com/NVIDIA-NeMo/Automodel): Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support.
 52. [VeOmni](https://github.com/ByteDance-Seed/VeOmni): Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo.
+53. [Soup](https://github.com/MakazhanAlpamys/Soup): One-config CLI for LLM post-training (SFT/DPO/GRPO/KTO/ORPO). Layer streaming trains an 8B model on a 4 GB laptop GPU by streaming the frozen base from host RAM one decoder layer at a time.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -199,6 +231,7 @@
 - slime (`🔥`): https://github.com/THUDM/slime
 - Agent Lightning: https://github.com/microsoft/agent-lightning
 - Molt: https://github.com/NVIDIA-NeMo/labs-molt
+- prime-rl: https://github.com/PrimeIntellect-ai/prime-rl
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -260,7 +293,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
 52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
 53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
-54. [TokenSpeed](https://github.com/lightseekorg/tokenspeed): a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
+54. [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX): OpenAI-compatible local LLM inference server for Apple Silicon, 2-4x faster than Ollama.
+55. [TokenSpeed](https://github.com/lightseekorg/tokenspeed): a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
+56. [FreeToken](https://github.com/FlashML-org/FreeToken): Unlock datacenter-class intelligence on the hardware you already own.
+57. [NInfer](https://github.com/Neroued/ninfer): High-performance single-GPU inference for selected model checkpoints and GPUs.
 
 
 <div align="right">
@@ -298,6 +334,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 1. [LM Arena](https://lmarena.ai/zh)
 2. [Design Arena](https://www.designarena.ai/)
 3. [Vals AI](https://www.vals.ai/home) `evaluation`
+4. [蚂蚁数科](https://maas.antdigital.com/models)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -400,7 +437,16 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 50. [Yunjue-Agent](https://github.com/YunjueTech/Yunjue-Agent): A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks.
 51. [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
 52. [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Self-hostable multi-agent orchestration with remote AI workstations (AgentPods), PTY sandbox + git worktree isolation, channels-based agent collaboration, built-in Kanban, and per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode.
-53. [fractal](https://github.com/plasma-ai/fractal): Hierarchical coding-agent orchestrator with recursive delegation, per-node Git worktrees, configurable limits, persistent SQLite state, and live terminal monitoring and steering.
+53. [BitFun](https://github.com/GCWing/BitFun): Open-source agentic development environment with a Rust/Tauri desktop app and CLI for coding, research, office work, browser and desktop automation, extensible through MCP, Skills, and custom agents.
+54. [fractal](https://github.com/plasma-ai/fractal): Hierarchical coding-agent orchestrator with recursive delegation, per-node Git worktrees, configurable limits, persistent SQLite state, and live terminal monitoring and steering.
+
+#### Harness
+
+1. [pi](https://github.com/earendil-works/pi): AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI.
+2. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness): Everything is a Plugin.
+3. [OpenSquilla](https://github.com/opensquilla/opensquilla): a token-efficient, microkernel AI agent.
+4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness): Your Automated Agent Builder, Right on Your Desktop / Server.
+5. [FrontierAgent](https://github.com/ApodexAI/FrontierAgent): an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -411,6 +457,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 #### 写作
 
 - PaperDebugger: https://github.com/PaperDebugger/PaperDebugger
+  - XtraGPT served as refiner: https://github.com/Xtra-Computing/XtraGPT
 - Chat Overleaf: https://github.com/anuin-cat/chat-overleaf
 - 文智云助手: https://overleaf.top/
 - LiteWrite: https://litewrite.ai/
@@ -454,6 +501,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
   - FigureWeave: https://github.com/Krisocer/FigureWeave
   - EditDeck: https://github.com/Morgensonne/EditDeck
 - AutoFigure-Edit: https://github.com/ResearAI/AutoFigure-Edit
+- Kahneman4Review: https://huggingface.co/spaces/nuojohnchen/Kahneman4Review
 - Academic Figure Generator: https://github.com/LigphiDonk/academic-figure-generator
 - PaperFit: https://github.com/OpenRaiser/PaperFit
 
@@ -512,6 +560,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli)
 24. [opencode](https://github.com/anomalyco/opencode)
 25. [Multica](https://github.com/multica-ai/multica)
+26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
+27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 
 
 <div align="right">
@@ -552,13 +602,18 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 24. [LongLive](https://github.com/NVlabs/LongLive)
 25. [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
 26. [NAVA](https://huggingface.co/baidu/NAVA)
-27. [LingBot-Video](https://huggingface.co/collections/robbyant/lingbot-video)
+27. [LTX-2.3 (`🔥`)](https://huggingface.co/Lightricks/LTX-2.3)
+28. [LingBot-Video](https://huggingface.co/collections/robbyant/lingbot-video)
+29. [MiniMax-H3 (`🔥`)](https://huggingface.co/MiniMaxAI/MiniMax-H3)
+30. [MAGI-2-preview](https://huggingface.co/sand-ai/MAGI-2-preview)
+31. [LTX-2.5 (`🔥`)](https://huggingface.co/Lightricks/LTX-2.5)
 
 #### 编辑
 
 1. Wan2.1-VACE-14B: https://huggingface.co/Wan-AI/Wan2.1-VACE-14B
 2. Ditto: https://github.com/EzioBy/Ditto
-3. Bernini: https://github.com/bytedance/Bernini
+3. Bernini (`🔥`): https://github.com/bytedance/Bernini
+4. JoyAI-Video-Edit: https://huggingface.co/jdopensource/JoyAI-Video-Edit
 
 #### 训练
 
@@ -613,6 +668,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Krea-2-Raw: https://huggingface.co/krea/Krea-2-Raw
 - SenseNova-U1: https://github.com/OpenSenseNova/SenseNova-U1
 - Mage-Flow: https://huggingface.co/collections/microsoft/mage
+- Qwen-Image-2.1: https://huggingface.co/Qwen/Qwen-Image-2.1
+- Ming-Image-0.1: https://huggingface.co/inclusionAI/Ming-Image-0.1-Design
 
 #### 编辑
 
@@ -716,6 +773,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 34. Higgs Audio v3 TTS: https://huggingface.co/bosonai/higgs-audio-v3-tts-4b
 35. Confucius4-TTS: https://github.com/netease-youdao/Confucius4-TTS
 36. Dia-1.6B: https://huggingface.co/nari-labs/Dia-1.6B-0626
+37. FireRedTTS3: https://github.com/FireRedTeam/FireRedTTS3
+38. Ming-3.0: https://huggingface.co/collections/inclusionAI/ming-30
 
 #### STT/ASR
 
@@ -748,6 +807,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 #### 模型
 
+- ShadowDancer: https://github.com/AlayaLab/ShadowDancer
+- PhiZero: https://github.com/yaoyao-jpg/PhiZero
+- Wonder: https://arxiv.org/pdf/2607.26037
+- open-dreamer: https://github.com/next-state/open-dreamer
+- Cosmos3-Edge: https://huggingface.co/nvidia/Cosmos3-Edge
+- WorldWander: https://github.com/showlab/WorldWander
 - Matrix-Game-3.5: https://github.com/Riemann-Dynamics/Matrix-Game-3.5
 - ABot-World: https://github.com/amap-cvlab/ABot-World
 - LingBot-World-V2: https://huggingface.co/collections/robbyant/lingbot-world-v2
@@ -877,6 +942,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - JoyAI-VL-Interaction: https://arxiv.org/abs/2606.14777 `Interaction`
 - MOSS-VL-Realtime: https://huggingface.co/OpenMOSS-Team/MOSS-VL-Realtime `Interaction`
 - SenseNova-Vision: https://huggingface.co/collections/sensenova/sensenova-vision
+- Mage-VL: https://huggingface.co/microsoft/Mage-VL `Interaction`
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -1017,6 +1083,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 35. [cnblog: 第七子](https://www.cnblogs.com/theseventhson)
 36. [Implementation of all RAG techniques in a simpler way.](https://github.com/FareedKhan-dev/all-rag-techniques)
 37. [Theoretical Machine Learning: A Handbook for Everyone](https://www.tengjiaye.com/mlbook.html)
+38. [鱼皮的 Vibe Coding 零基础教程](https://github.com/liyupi/ai-guide)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -1344,6 +1411,7 @@ MCP工具聚合：
 24. https://github.com/stepfun-ai/SteptronOss
 25. https://github.com/huggingface/nanowhale
 26. https://github.com/OpenBMB/ForgeTrain
+27. https://github.com/vukrosic/glm-5.3-flash-from-scratch
 
 
 <div align="right">
@@ -1441,8 +1509,8 @@ MCP工具聚合：
 [![Forkers repo roster for @WangRongsheng/awesome-LLM-resourses](https://reporoster.com/forks/WangRongsheng/awesome-LLM-resourses)](https://github.com/WangRongsheng/awesome-LLM-resourses/network/members)
 
 [![Stargazers repo roster for @WangRongsheng/awesome-LLM-resourses](https://reporoster.com/stars/WangRongsheng/awesome-LLM-resourses)](https://github.com/WangRongsheng/awesome-LLM-resourses/stargazers)
--->
 
 [![Stargazers over time](https://starchart.cc/WangRongsheng/awesome-LLM-resourses.svg)](https://starchart.cc/WangRongsheng/awesome-LLM-resourses)
+-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/a7c45f31e87a3e6973bb9a926e33e80d05553c52.svg "Repobeats analytics image")
