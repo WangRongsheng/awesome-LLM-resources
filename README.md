@@ -446,6 +446,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. [OpenSquilla](https://github.com/opensquilla/opensquilla): a token-efficient, microkernel AI agent.
 4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness): Your Automated Agent Builder, Right on Your Desktop / Server.
 5. [FrontierAgent](https://github.com/ApodexAI/FrontierAgent): an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work.
+6. [CUGA](https://github.com/cuga-project/cuga-agent): IBM Research's open-source generalist agent harness on LangGraph that runs tasks over APIs (OpenAPI, MCP, LangChain tools) and the web, with policies and human-in-the-loop approval.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
