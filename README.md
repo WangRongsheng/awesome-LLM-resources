@@ -417,7 +417,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 30. [smolagents](https://github.com/huggingface/smolagents): a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
 31. [Cooragent](https://github.com/LeapLabTHU/cooragent): Cooragent is an AI agent collaboration community.
 32. [Agno](https://github.com/agno-agi/agno): Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
-33. [Suna](https://github.com/kortix-ai/suna): Open Source Generalist AI Agent.
+33. [Kortix](https://github.com/kortix-ai/suna): The open-source AI Operating System — agents, skills, memory and connectors live in a git repo you own, and every session runs on its own cloud computer.
 34. [rowboat](https://github.com/rowboatlabs/rowboat): Let AI build multi-agent workflows for you in minutes.
 35. [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX): Building a Self-Evolving Ecosystem of AI Agents.
 36. [ii-agent](https://github.com/Intelligent-Internet/ii-agent): a new open-source framework to build and deploy intelligent agents.
