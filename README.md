@@ -1084,6 +1084,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 36. [Implementation of all RAG techniques in a simpler way.](https://github.com/FareedKhan-dev/all-rag-techniques)
 37. [Theoretical Machine Learning: A Handbook for Everyone](https://www.tengjiaye.com/mlbook.html)
 38. [鱼皮的 Vibe Coding 零基础教程](https://github.com/liyupi/ai-guide)
+39. [Awesome AI Engineer Interview](https://github.com/Johnnnmai/awesome-ai-engineer-interview) - 数据驱动的 AI 工程师面试指南，基于 2,445 份真实 JD 和 51 家公司面试流程，中英双语，附免费 [答案自测工具](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/)。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
