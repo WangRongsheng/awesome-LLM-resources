@@ -562,6 +562,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [Multica](https://github.com/multica-ai/multica)
 26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
 27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+28. [SPIRITT](https://spiritt.ai): Autonomous AI agent with its own cloud computer that writes, tests and deploys production code and full-stack apps, composing models from many labs (Claude, GPT, Gemini, Kimi, DeepSeek, Qwen and more) within each task.
 
 
 <div align="right">
