@@ -437,7 +437,6 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 51. [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
 52. [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Self-hostable multi-agent orchestration with remote AI workstations (AgentPods), PTY sandbox + git worktree isolation, channels-based agent collaboration, built-in Kanban, and per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode.
 53. [BitFun](https://github.com/GCWing/BitFun): Open-source agentic development environment with a Rust/Tauri desktop app and CLI for coding, research, office work, browser and desktop automation, extensible through MCP, Skills, and custom agents.
-54. [KinetAios](https://github.com/phinn/KinetAios): A local-first multi-engine AI agent dashboard (Electron, GPL-3.0) for Windows and macOS — runs Claude Code, Codex, and a built-in ReAct engine side by side in one window, with cross-engine long-term memory (SQLite/FTS5), MCP client+server, 40+ built-in tools, plugins, and multi-agent team dispatch. No account, no relay.
 
 #### Harness
 
@@ -561,6 +560,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [Multica](https://github.com/multica-ai/multica)
 26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
 27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+28. [KinetAios](https://github.com/phinn/KinetAios): Open-source local-first AI agent dashboard that unifies Claude Code, Codex, DeepSeek Harness and a built-in engine in one window with 30+ tools, plugins, MCP, and cross-engine memory.
 
 
 <div align="right">
