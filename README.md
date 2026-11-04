@@ -562,6 +562,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [Multica](https://github.com/multica-ai/multica)
 26. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
 27. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+28. [KinetAios](https://github.com/phinn/KinetAios): Open-source local-first AI agent dashboard that unifies Claude Code, Codex, DeepSeek Harness and a built-in engine in one window with 30+ tools, plugins, MCP, and cross-engine memory.
 
 
 <div align="right">
