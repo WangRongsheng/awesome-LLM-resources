@@ -1194,6 +1194,7 @@ MCP工具聚合：
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
 16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+17. [onemira-mcp](https://github.com/onemira-space/onemira-mcp) - [OneMira C1](https://onemira.com/products/c1) 独立 AI 录音硬件与本地会议记忆/Wiki MCP Server（支持本地转写、说话人分离与零月租）
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
