@@ -1084,6 +1084,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 36. [Implementation of all RAG techniques in a simpler way.](https://github.com/FareedKhan-dev/all-rag-techniques)
 37. [Theoretical Machine Learning: A Handbook for Everyone](https://www.tengjiaye.com/mlbook.html)
 38. [鱼皮的 Vibe Coding 零基础教程](https://github.com/liyupi/ai-guide)
+39. [AI Engineer Roadmap](https://github.com/techsaurabh-394/ai-engineer-roadmap): 113 beginner-friendly topics on RAG, LLMs, agents and MCP, with offline runnable Python, diagrams and interview questions
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
