@@ -324,6 +324,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
+20. [Profilology](https://github.com/shyringo/profilology-of-foundation-models): 用 24 道强制选择题把模型的意识形态侧写到 Ism-ism 的 256 个位置之一（作者自荐，Apache-2.0）。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
