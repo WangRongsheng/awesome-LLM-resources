@@ -335,6 +335,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [Design Arena](https://www.designarena.ai/)
 3. [Vals AI](https://www.vals.ai/home) `evaluation`
 4. [蚂蚁数科](https://maas.antdigital.com/models)
+5. [Spicy Lab](https://spicyapi.app) — Independent NSFW AI image / video / chat model comparison with side-by-side runs and published methodology (not a generator; 160 models / 3,854 runs as of 2026-11-07).
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
