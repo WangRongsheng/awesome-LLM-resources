@@ -1039,6 +1039,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 55. [NanoChat](https://github.com/karpathy/nanochat): The best ChatGPT that $100 can buy.
 56. [斯坦福CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
 57. [Reinforcement Learning of Large Language Models](https://ernestryu.com/courses/RL-LLM.html)
+58. [TensorTonic: Build an LLM from Scratch](https://www.tensortonic.com/study-plans/language-modeling-from-scratch): step-by-step coding problems from tokenization to alignment, each checked by tests
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
