@@ -31,14 +31,14 @@
 </tr>
 </table>
 
-<table>
+<!-- <table>
 <tr>
 <td width="180"><a href="https://www.packyapi.ai/"><img src="assets/cache/logo-ck.png" alt="packyapi.ai" width="150"></a></td>
 <td>PackyCode 是一家稳定、高效的 API 中转服务商，一句话接入主流大模型。统一域名、统一密钥、智能容灾切换，97% 可用性。人民币1:1充值，无汇率无手续费坑，新用户首充立享折扣 + $1免费体验额度，多分组折扣低至 2 折起，提供专属Codex/Claude Code高速通道。
 
 </br><a href="https://www.packyapi.ai/register?aff=b4Vf">点此链接注册 ，立即开始使用！</a> </td>
 </tr>
-</table>
+</table> -->
 
 <!-- <table>
 <tr>
