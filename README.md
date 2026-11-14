@@ -670,6 +670,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - Mage-Flow: https://huggingface.co/collections/microsoft/mage
 - Qwen-Image-2.1: https://huggingface.co/Qwen/Qwen-Image-2.1
 - Ming-Image-0.1: https://huggingface.co/inclusionAI/Ming-Image-0.1-Design
+- MiniMax-H3-Image: https://huggingface.co/MiniMaxAI/MiniMax-H3-Image
+- MOSS-Image: https://github.com/openmoss/moss-image
 
 #### 编辑
 
@@ -1039,6 +1041,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 55. [NanoChat](https://github.com/karpathy/nanochat): The best ChatGPT that $100 can buy.
 56. [斯坦福CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
 57. [Reinforcement Learning of Large Language Models](https://ernestryu.com/courses/RL-LLM.html)
+58. [MoE 训练终极手册](https://huggingface.co/spaces/fat-pig/moe-blogpost-zh#s-1)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
