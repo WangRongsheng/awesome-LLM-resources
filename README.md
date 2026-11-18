@@ -447,6 +447,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness): Your Automated Agent Builder, Right on Your Desktop / Server.
 5. [FrontierAgent](https://github.com/ApodexAI/FrontierAgent): an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work.
 6. [oh-my-agent](https://github.com/first-fluke/oh-my-agent): Vendor-agnostic harness that adds planner, engineer, reviewer and debugger roles to the coding agent you already use (Claude Code, Codex CLI, Cursor and others), from one portable `.agents/` folder.
+7. [Raven](https://github.com/EverMind-AI/Raven): Harness of harnesses built for recursive self-improvement: a host agent that plans complex tasks as DAGs and orchestrates built-in and third-party agents such as Claude Code, Codex, OpenClaw and Hermes Agent.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
