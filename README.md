@@ -297,6 +297,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 55. [TokenSpeed](https://github.com/lightseekorg/tokenspeed): a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
 56. [FreeToken](https://github.com/FlashML-org/FreeToken): Unlock datacenter-class intelligence on the hardware you already own.
 57. [NInfer](https://github.com/Neroued/ninfer): High-performance single-GPU inference for selected model checkpoints and GPUs.
+58. [llamay](https://llamay.com/): Free, closed-source local inference server for GGUF models, with Ollama-, OpenAI- and Anthropic-compatible APIs on one port.
 
 
 <div align="right">
