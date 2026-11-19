@@ -324,6 +324,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
+20. [Attify Audited Resolution Standard](https://attify.app/standards/support-resolution): A versioned standard for auditing AI customer-support agents' claimed resolutions against help-desk records, with a published LLM-judge prompt.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
