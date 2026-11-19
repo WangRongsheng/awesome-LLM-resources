@@ -324,6 +324,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
+20. [Michelin](https://github.com/krishansubudhi/michelin): An eval harness for agent systems. An LLM drives your agent through user journeys written in YAML, and blind LLM judges score the recorded evidence.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
