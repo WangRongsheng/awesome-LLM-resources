@@ -1043,6 +1043,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 56. [斯坦福CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
 57. [Reinforcement Learning of Large Language Models](https://ernestryu.com/courses/RL-LLM.html)
 58. [MoE 训练终极手册](https://huggingface.co/spaces/fat-pig/moe-blogpost-zh#s-1)
+59. [Inference Academy: Inference Engineering](https://inferenceacademy.com/inference-engineering): A staged course on serving LLMs fast and cheaply: roofline maths, vLLM and SGLang internals, quantisation, speculative decoding, multi-GPU parallelism and benchmarking, with animated diagrams and free lessons in every stage.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
