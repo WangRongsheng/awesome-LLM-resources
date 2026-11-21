@@ -18,7 +18,7 @@
 
 #### 📢友情赞助
 
-<table>
+<!-- <table>
 <tr>
 <td width="180"><a href="https://go.apimart.ai/gh-awesome-llm-resources"><img src="assets/cache/D86EFC7485D763E251A5C1674E110AE5.png" alt="Infistar.cc" width="150"></a></td>
 <td>感谢 Infistar.cc 无限星河 赞助本项目！</br>
@@ -29,7 +29,7 @@
 
 </br>🎁 专属福利：通过 [<a href="https://www.infistar.cc/register?aff=W8XCMZ49&ref_source=link">专属推广链接</a>] 注册即可领取 5 美元等值测试额度 / 首充专属优惠，快速接入并开始调用！</td>
 </tr>
-</table>
+</table> -->
 
 <!-- <table>
 <tr>
