@@ -438,6 +438,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 51. [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
 52. [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Self-hostable multi-agent orchestration with remote AI workstations (AgentPods), PTY sandbox + git worktree isolation, channels-based agent collaboration, built-in Kanban, and per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode.
 53. [BitFun](https://github.com/GCWing/BitFun): Open-source agentic development environment with a Rust/Tauri desktop app and CLI for coding, research, office work, browser and desktop automation, extensible through MCP, Skills, and custom agents.
+54. [PlaceCall](https://github.com/voygr-tech/placecall): Agent Skill and remote MCP server that let an AI agent place real phone calls to US businesses (reservations, appointments, quotes), get through phone menus, holds and transfers, and return the outcome, transcript and recording.
 
 #### Harness
 
