@@ -1227,6 +1227,7 @@ MCP工具聚合：
 16. [Agent Skill](https://agentskill.sh/)
 17. [mmx-cli](https://github.com/MiniMax-AI/cli)
 18. [cocoloop hub](https://hub.cocoloop.cn/)
+19. [last30days](https://github.com/mvanhorn/last30days-skill): 调研任意话题最近 30 天在 Reddit、X、YouTube、TikTok、Hacker News、Polymarket、GitHub 和网页上的讨论，按真实互动数据排序，生成一份带引用的简报。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50 多个 Agent Skills 宿主。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
