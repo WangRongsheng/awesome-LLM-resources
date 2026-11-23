@@ -1223,6 +1223,7 @@ MCP工具聚合：
 12. [LLMs-Universal-Life-Science-and-Clinical-Skills-](https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-)
 13. [SkillHub](https://skillhub.tencent.com/#categories)
 14. [LabClaw](https://github.com/wu-yc/LabClaw)
+15. [FlashData Agent Skills](https://github.com/flashdatadev/flashdata-skills) — 面向 Claude Code / Cursor / Codex 的 Google 搜索、YouTube 字幕与云端下载官方 Skill 集与远程 MCP
 15. [Modelscope Skills](https://modelscope.cn/skills)
 16. [Agent Skill](https://agentskill.sh/)
 17. [mmx-cli](https://github.com/MiniMax-AI/cli)
