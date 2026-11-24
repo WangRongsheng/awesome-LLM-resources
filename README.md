@@ -377,6 +377,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 33. [XRAG](https://github.com/DocAILab/XRAG): a benchmarking framework designed to evaluate the foundational components of advanced Retrieval-Augmented Generation (RAG) systems.
 34. [Rankify](https://github.com/DataScienceUIBK/rankify): A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation.
 35. [RAG-Anything](https://github.com/HKUDS/RAG-Anything): All-in-One RAG System.
+36. [Pagekin](https://github.com/EthanYoQ/Pagekin): 面向长篇小说的桌面写作应用，将定稿章节和参考资料纳入作品知识库，按写作章节检索上下文。补写中间章节时排除该章及后续定稿。支持语义检索，也可使用本地全文检索。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
