@@ -464,6 +464,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - LiteWrite: https://litewrite.ai/
 - Prism: https://openai.com/zh-Hans-CN/prism/
 - claude-prism: https://github.com/delibae/claude-prism
+- [HumanPen](https://humanpen.net/) - AI 文档翻译（支持 12 种目标语言，PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT 尽量保留排版）、文档级润色 Humanize（DOCX/PPTX/TXT）、精简 Condense（DOCX）与引用格式校正（DOCX），商业积分制服务，注册赠 100 积分。
 
 #### 审稿
 
