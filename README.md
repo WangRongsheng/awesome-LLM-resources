@@ -303,6 +303,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
+- [bf16.ai](https://bf16.ai) - Uncensored LLM API gateway for coding and personal AI agents (Claude Code, Codex CLI, OpenCode, OpenClaw) with 1M context, native OpenAI & Anthropic endpoints, and zero prompt retention.
 ## 评估 Evaluation
 
 1. [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
