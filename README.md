@@ -328,6 +328,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
+20. [Highworth AI](https://highworth.ai/): 社区驱动的 AI 模型评分站，聚合 Hacker News、Reddit、V2EX、B 站的真实用户评价，为 60+ 模型打 worth-it 分。
 
 ## 体验 Usage
 
