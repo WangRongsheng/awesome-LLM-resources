@@ -324,6 +324,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
+20. [AI Story Apps Benchmark 2026](https://github.com/ouba-studio/ai-story-apps-benchmark-2026): Open CC-BY-4.0 dataset (Harvard Dataverse DOI 10.7910/DVN/YEBHQR; Zenodo, Figshare and Hugging Face mirrors) measuring time-to-first-story, free-tier walls, ads and 15-turn planted-fact recall across 10 consumer AI story apps, with a transcript state-drift scorer and analysis notebook.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
