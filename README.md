@@ -335,6 +335,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [Design Arena](https://www.designarena.ai/)
 3. [Vals AI](https://www.vals.ai/home) `evaluation`
 4. [蚂蚁数科](https://maas.antdigital.com/models)
+5. [Whizi](https://whizi.io/) 在一个应用里对比使用 GPT、Claude、Gemini、Grok、DeepSeek、Qwen 等 280+ 模型（网页、iOS、Android）
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
