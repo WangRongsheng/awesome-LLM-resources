@@ -335,6 +335,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [Design Arena](https://www.designarena.ai/)
 3. [Vals AI](https://www.vals.ai/home) `evaluation`
 4. [蚂蚁数科](https://maas.antdigital.com/models)
+5. [TokenCalc AI](https://tokencalcai.com): Independent cross-provider LLM API token cost calculator, $20/mo subscription vs BYOK API break-even checker, MCP vs CLI overhead simulator, live API slowdown radar, and zero-dependency CLI (`npx tokencalcai`).
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
